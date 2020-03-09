@@ -1,0 +1,8 @@
+question: Hi!
+type: text
+placeholder: hello
+graph:
+  resource: divorce
+  layouts: [bipartite]
+  interactions: [select-node]
+

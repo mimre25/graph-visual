@@ -1,0 +1,26 @@
+textarea
+ID: {
+    "type": "textarea",
+    "text": "value",
+    "placeholder": "value"
+}
+
+radio
+ID: {
+    "type": "radio",
+    "text": "value",
+    "options": [
+        {"id":1,"name":"value"},
+        {"id":2,"name":"value"},
+        {"id":3,"name":"value"}
+    ]
+
+checkbox
+ID: {
+    "type": "checkbox",
+    "text": "value",
+    "options": [
+        {"id":1,"name":"value"},
+        {"id":2,"name":"value"},
+        {"id":3,"name":"value"}
+    ]

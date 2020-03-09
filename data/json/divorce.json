@@ -1,0 +1,1204 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "id": "Alabama",
+      "group": 0,
+      "class": 0
+    },
+    {
+      "id": "Incompatibility",
+      "group": 1,
+      "class": 1
+    },
+    {
+      "id": "Alaska",
+      "group": 2,
+      "class": 0
+    },
+    {
+      "id": "Arizona",
+      "group": 1,
+      "class": 0
+    },
+    {
+      "id": "California",
+      "group": 2,
+      "class": 0
+    },
+    {
+      "id": "Colorado",
+      "group": 1,
+      "class": 0
+    },
+    {
+      "id": "Connecticut",
+      "group": 0,
+      "class": 0
+    },
+    {
+      "id": "Delaware",
+      "group": 3,
+      "class": 0
+    },
+    {
+      "id": "Florida",
+      "group": 2,
+      "class": 0
+    },
+    {
+      "id": "Georgia",
+      "group": 2,
+      "class": 0
+    },
+    {
+      "id": "Hawaii",
+      "group": 3,
+      "class": 0
+    },
+    {
+      "id": "Idaho",
+      "group": 0,
+      "class": 0
+    },
+    {
+      "id": "Indiana",
+      "group": 3,
+      "class": 0
+    },
+    {
+      "id": "Iowa",
+      "group": 1,
+      "class": 0
+    },
+    {
+      "id": "Kansas",
+      "group": 2,
+      "class": 0
+    },
+    {
+      "id": "Kentucky",
+      "group": 1,
+      "class": 0
+    },
+    {
+      "id": "Maine",
+      "group": 0,
+      "class": 0
+    },
+    {
+      "id": "Massachusetts",
+      "group": 0,
+      "class": 0
+    },
+    {
+      "id": "Michigan",
+      "group": 1,
+      "class": 0
+    },
+    {
+      "id": "Minnesota",
+      "group": 1,
+      "class": 0
+    },
+    {
+      "id": "Mississippi",
+      "group": 2,
+      "class": 0
+    },
+    {
+      "id": "Missouri",
+      "group": 1,
+      "class": 0
+    },
+    {
+      "id": "Montana",
+      "group": 1,
+      "class": 0
+    },
+    {
+      "id": "Nebraska",
+      "group": 1,
+      "class": 0
+    },
+    {
+      "id": "Nevada",
+      "group": 2,
+      "class": 0
+    },
+    {
+      "id": "New Hampshire",
+      "group": 0,
+      "class": 0
+    },
+    {
+      "id": "New Mexico",
+      "group": 1,
+      "class": 0
+    },
+    {
+      "id": "North Dakota",
+      "group": 0,
+      "class": 0
+    },
+    {
+      "id": "Ohio",
+      "group": 2,
+      "class": 0
+    },
+    {
+      "id": "Oklahoma",
+      "group": 0,
+      "class": 0
+    },
+    {
+      "id": "Oregon",
+      "group": 1,
+      "class": 0
+    },
+    {
+      "id": "Rhode Island",
+      "group": 0,
+      "class": 0
+    },
+    {
+      "id": "Tennessee",
+      "group": 0,
+      "class": 0
+    },
+    {
+      "id": "Texas",
+      "group": 3,
+      "class": 0
+    },
+    {
+      "id": "Washington",
+      "group": 1,
+      "class": 0
+    },
+    {
+      "id": "West Virginia",
+      "group": 3,
+      "class": 0
+    },
+    {
+      "id": "Wisconsin",
+      "group": 3,
+      "class": 0
+    },
+    {
+      "id": "Wyoming",
+      "group": 3,
+      "class": 0
+    },
+    {
+      "id": "Cruelty",
+      "group": 0,
+      "class": 1
+    },
+    {
+      "id": "Arkansas",
+      "group": 0,
+      "class": 0
+    },
+    {
+      "id": "Illinois",
+      "group": 0,
+      "class": 0
+    },
+    {
+      "id": "Maryland",
+      "group": 2,
+      "class": 0
+    },
+    {
+      "id": "New Jersey",
+      "group": 3,
+      "class": 0
+    },
+    {
+      "id": "New York",
+      "group": 3,
+      "class": 0
+    },
+    {
+      "id": "Pennsylvania",
+      "group": 2,
+      "class": 0
+    },
+    {
+      "id": "South Carolina",
+      "group": 0,
+      "class": 0
+    },
+    {
+      "id": "South Dakota",
+      "group": 0,
+      "class": 0
+    },
+    {
+      "id": "Utah",
+      "group": 0,
+      "class": 0
+    },
+    {
+      "id": "Vermont",
+      "group": 3,
+      "class": 0
+    },
+    {
+      "id": "Virginia",
+      "group": 3,
+      "class": 0
+    },
+    {
+      "id": "Desertion",
+      "group": 0,
+      "class": 1
+    },
+    {
+      "id": "Non-support",
+      "group": 0,
+      "class": 1
+    },
+    {
+      "id": "Alcohol Abuse",
+      "group": 0,
+      "class": 1
+    },
+    {
+      "id": "Felony Conviction",
+      "group": 3,
+      "class": 1
+    },
+    {
+      "id": "Louisiana",
+      "group": 3,
+      "class": 0
+    },
+    {
+      "id": "Impotency",
+      "group": 2,
+      "class": 1
+    },
+    {
+      "id": "North Carolina",
+      "group": 2,
+      "class": 0
+    },
+    {
+      "id": "Insanity",
+      "group": 2,
+      "class": 1
+    },
+    {
+      "id": "Legal Separation",
+      "group": 3,
+      "class": 1
+    }
+  ],
+  "links": [
+    {
+      "source": "Alabama",
+      "target": "Incompatibility"
+    },
+    {
+      "source": "Alabama",
+      "target": "Cruelty"
+    },
+    {
+      "source": "Alabama",
+      "target": "Desertion"
+    },
+    {
+      "source": "Alabama",
+      "target": "Non-support"
+    },
+    {
+      "source": "Alabama",
+      "target": "Alcohol Abuse"
+    },
+    {
+      "source": "Alabama",
+      "target": "Felony Conviction"
+    },
+    {
+      "source": "Alabama",
+      "target": "Impotency"
+    },
+    {
+      "source": "Alabama",
+      "target": "Insanity"
+    },
+    {
+      "source": "Alabama",
+      "target": "Legal Separation"
+    },
+    {
+      "source": "Incompatibility",
+      "target": "Alaska"
+    },
+    {
+      "source": "Incompatibility",
+      "target": "Arizona"
+    },
+    {
+      "source": "Incompatibility",
+      "target": "California"
+    },
+    {
+      "source": "Incompatibility",
+      "target": "Colorado"
+    },
+    {
+      "source": "Incompatibility",
+      "target": "Connecticut"
+    },
+    {
+      "source": "Incompatibility",
+      "target": "Delaware"
+    },
+    {
+      "source": "Incompatibility",
+      "target": "Florida"
+    },
+    {
+      "source": "Incompatibility",
+      "target": "Georgia"
+    },
+    {
+      "source": "Incompatibility",
+      "target": "Hawaii"
+    },
+    {
+      "source": "Incompatibility",
+      "target": "Idaho"
+    },
+    {
+      "source": "Incompatibility",
+      "target": "Indiana"
+    },
+    {
+      "source": "Incompatibility",
+      "target": "Iowa"
+    },
+    {
+      "source": "Incompatibility",
+      "target": "Kansas"
+    },
+    {
+      "source": "Incompatibility",
+      "target": "Kentucky"
+    },
+    {
+      "source": "Incompatibility",
+      "target": "Maine"
+    },
+    {
+      "source": "Incompatibility",
+      "target": "Massachusetts"
+    },
+    {
+      "source": "Incompatibility",
+      "target": "Michigan"
+    },
+    {
+      "source": "Incompatibility",
+      "target": "Minnesota"
+    },
+    {
+      "source": "Incompatibility",
+      "target": "Mississippi"
+    },
+    {
+      "source": "Incompatibility",
+      "target": "Missouri"
+    },
+    {
+      "source": "Incompatibility",
+      "target": "Montana"
+    },
+    {
+      "source": "Incompatibility",
+      "target": "Nebraska"
+    },
+    {
+      "source": "Incompatibility",
+      "target": "Nevada"
+    },
+    {
+      "source": "Incompatibility",
+      "target": "New Hampshire"
+    },
+    {
+      "source": "Incompatibility",
+      "target": "New Mexico"
+    },
+    {
+      "source": "Incompatibility",
+      "target": "North Dakota"
+    },
+    {
+      "source": "Incompatibility",
+      "target": "Ohio"
+    },
+    {
+      "source": "Incompatibility",
+      "target": "Oklahoma"
+    },
+    {
+      "source": "Incompatibility",
+      "target": "Oregon"
+    },
+    {
+      "source": "Incompatibility",
+      "target": "Rhode Island"
+    },
+    {
+      "source": "Incompatibility",
+      "target": "Tennessee"
+    },
+    {
+      "source": "Incompatibility",
+      "target": "Texas"
+    },
+    {
+      "source": "Incompatibility",
+      "target": "Washington"
+    },
+    {
+      "source": "Incompatibility",
+      "target": "West Virginia"
+    },
+    {
+      "source": "Incompatibility",
+      "target": "Wisconsin"
+    },
+    {
+      "source": "Incompatibility",
+      "target": "Wyoming"
+    },
+    {
+      "source": "Alaska",
+      "target": "Cruelty"
+    },
+    {
+      "source": "Alaska",
+      "target": "Desertion"
+    },
+    {
+      "source": "Alaska",
+      "target": "Alcohol Abuse"
+    },
+    {
+      "source": "Alaska",
+      "target": "Felony Conviction"
+    },
+    {
+      "source": "Alaska",
+      "target": "Impotency"
+    },
+    {
+      "source": "Alaska",
+      "target": "Insanity"
+    },
+    {
+      "source": "California",
+      "target": "Insanity"
+    },
+    {
+      "source": "Connecticut",
+      "target": "Cruelty"
+    },
+    {
+      "source": "Connecticut",
+      "target": "Desertion"
+    },
+    {
+      "source": "Connecticut",
+      "target": "Non-support"
+    },
+    {
+      "source": "Connecticut",
+      "target": "Alcohol Abuse"
+    },
+    {
+      "source": "Connecticut",
+      "target": "Felony Conviction"
+    },
+    {
+      "source": "Connecticut",
+      "target": "Insanity"
+    },
+    {
+      "source": "Connecticut",
+      "target": "Legal Separation"
+    },
+    {
+      "source": "Delaware",
+      "target": "Legal Separation"
+    },
+    {
+      "source": "Florida",
+      "target": "Insanity"
+    },
+    {
+      "source": "Georgia",
+      "target": "Cruelty"
+    },
+    {
+      "source": "Georgia",
+      "target": "Desertion"
+    },
+    {
+      "source": "Georgia",
+      "target": "Alcohol Abuse"
+    },
+    {
+      "source": "Georgia",
+      "target": "Felony Conviction"
+    },
+    {
+      "source": "Georgia",
+      "target": "Impotency"
+    },
+    {
+      "source": "Georgia",
+      "target": "Insanity"
+    },
+    {
+      "source": "Hawaii",
+      "target": "Legal Separation"
+    },
+    {
+      "source": "Idaho",
+      "target": "Cruelty"
+    },
+    {
+      "source": "Idaho",
+      "target": "Desertion"
+    },
+    {
+      "source": "Idaho",
+      "target": "Non-support"
+    },
+    {
+      "source": "Idaho",
+      "target": "Alcohol Abuse"
+    },
+    {
+      "source": "Idaho",
+      "target": "Felony Conviction"
+    },
+    {
+      "source": "Idaho",
+      "target": "Insanity"
+    },
+    {
+      "source": "Idaho",
+      "target": "Legal Separation"
+    },
+    {
+      "source": "Indiana",
+      "target": "Felony Conviction"
+    },
+    {
+      "source": "Indiana",
+      "target": "Impotency"
+    },
+    {
+      "source": "Indiana",
+      "target": "Insanity"
+    },
+    {
+      "source": "Kansas",
+      "target": "Cruelty"
+    },
+    {
+      "source": "Kansas",
+      "target": "Desertion"
+    },
+    {
+      "source": "Kansas",
+      "target": "Alcohol Abuse"
+    },
+    {
+      "source": "Kansas",
+      "target": "Felony Conviction"
+    },
+    {
+      "source": "Kansas",
+      "target": "Impotency"
+    },
+    {
+      "source": "Kansas",
+      "target": "Insanity"
+    },
+    {
+      "source": "Maine",
+      "target": "Cruelty"
+    },
+    {
+      "source": "Maine",
+      "target": "Desertion"
+    },
+    {
+      "source": "Maine",
+      "target": "Non-support"
+    },
+    {
+      "source": "Maine",
+      "target": "Alcohol Abuse"
+    },
+    {
+      "source": "Maine",
+      "target": "Impotency"
+    },
+    {
+      "source": "Maine",
+      "target": "Insanity"
+    },
+    {
+      "source": "Massachusetts",
+      "target": "Cruelty"
+    },
+    {
+      "source": "Massachusetts",
+      "target": "Desertion"
+    },
+    {
+      "source": "Massachusetts",
+      "target": "Non-support"
+    },
+    {
+      "source": "Massachusetts",
+      "target": "Alcohol Abuse"
+    },
+    {
+      "source": "Massachusetts",
+      "target": "Felony Conviction"
+    },
+    {
+      "source": "Massachusetts",
+      "target": "Impotency"
+    },
+    {
+      "source": "Massachusetts",
+      "target": "Legal Separation"
+    },
+    {
+      "source": "Mississippi",
+      "target": "Cruelty"
+    },
+    {
+      "source": "Mississippi",
+      "target": "Desertion"
+    },
+    {
+      "source": "Mississippi",
+      "target": "Alcohol Abuse"
+    },
+    {
+      "source": "Mississippi",
+      "target": "Felony Conviction"
+    },
+    {
+      "source": "Mississippi",
+      "target": "Impotency"
+    },
+    {
+      "source": "Mississippi",
+      "target": "Insanity"
+    },
+    {
+      "source": "Nevada",
+      "target": "Insanity"
+    },
+    {
+      "source": "Nevada",
+      "target": "Legal Separation"
+    },
+    {
+      "source": "New Hampshire",
+      "target": "Cruelty"
+    },
+    {
+      "source": "New Hampshire",
+      "target": "Desertion"
+    },
+    {
+      "source": "New Hampshire",
+      "target": "Non-support"
+    },
+    {
+      "source": "New Hampshire",
+      "target": "Alcohol Abuse"
+    },
+    {
+      "source": "New Hampshire",
+      "target": "Felony Conviction"
+    },
+    {
+      "source": "New Hampshire",
+      "target": "Impotency"
+    },
+    {
+      "source": "New Mexico",
+      "target": "Cruelty"
+    },
+    {
+      "source": "New Mexico",
+      "target": "Desertion"
+    },
+    {
+      "source": "North Dakota",
+      "target": "Cruelty"
+    },
+    {
+      "source": "North Dakota",
+      "target": "Desertion"
+    },
+    {
+      "source": "North Dakota",
+      "target": "Non-support"
+    },
+    {
+      "source": "North Dakota",
+      "target": "Alcohol Abuse"
+    },
+    {
+      "source": "North Dakota",
+      "target": "Felony Conviction"
+    },
+    {
+      "source": "North Dakota",
+      "target": "Impotency"
+    },
+    {
+      "source": "North Dakota",
+      "target": "Insanity"
+    },
+    {
+      "source": "Ohio",
+      "target": "Cruelty"
+    },
+    {
+      "source": "Ohio",
+      "target": "Desertion"
+    },
+    {
+      "source": "Ohio",
+      "target": "Alcohol Abuse"
+    },
+    {
+      "source": "Ohio",
+      "target": "Felony Conviction"
+    },
+    {
+      "source": "Ohio",
+      "target": "Impotency"
+    },
+    {
+      "source": "Ohio",
+      "target": "Legal Separation"
+    },
+    {
+      "source": "Oklahoma",
+      "target": "Cruelty"
+    },
+    {
+      "source": "Oklahoma",
+      "target": "Desertion"
+    },
+    {
+      "source": "Oklahoma",
+      "target": "Non-support"
+    },
+    {
+      "source": "Oklahoma",
+      "target": "Alcohol Abuse"
+    },
+    {
+      "source": "Oklahoma",
+      "target": "Felony Conviction"
+    },
+    {
+      "source": "Oklahoma",
+      "target": "Impotency"
+    },
+    {
+      "source": "Oklahoma",
+      "target": "Insanity"
+    },
+    {
+      "source": "Rhode Island",
+      "target": "Cruelty"
+    },
+    {
+      "source": "Rhode Island",
+      "target": "Desertion"
+    },
+    {
+      "source": "Rhode Island",
+      "target": "Non-support"
+    },
+    {
+      "source": "Rhode Island",
+      "target": "Alcohol Abuse"
+    },
+    {
+      "source": "Rhode Island",
+      "target": "Felony Conviction"
+    },
+    {
+      "source": "Rhode Island",
+      "target": "Impotency"
+    },
+    {
+      "source": "Rhode Island",
+      "target": "Legal Separation"
+    },
+    {
+      "source": "Tennessee",
+      "target": "Cruelty"
+    },
+    {
+      "source": "Tennessee",
+      "target": "Desertion"
+    },
+    {
+      "source": "Tennessee",
+      "target": "Non-support"
+    },
+    {
+      "source": "Tennessee",
+      "target": "Alcohol Abuse"
+    },
+    {
+      "source": "Tennessee",
+      "target": "Felony Conviction"
+    },
+    {
+      "source": "Tennessee",
+      "target": "Impotency"
+    },
+    {
+      "source": "Texas",
+      "target": "Cruelty"
+    },
+    {
+      "source": "Texas",
+      "target": "Desertion"
+    },
+    {
+      "source": "Texas",
+      "target": "Felony Conviction"
+    },
+    {
+      "source": "Texas",
+      "target": "Insanity"
+    },
+    {
+      "source": "Texas",
+      "target": "Legal Separation"
+    },
+    {
+      "source": "Washington",
+      "target": "Legal Separation"
+    },
+    {
+      "source": "West Virginia",
+      "target": "Cruelty"
+    },
+    {
+      "source": "West Virginia",
+      "target": "Desertion"
+    },
+    {
+      "source": "West Virginia",
+      "target": "Alcohol Abuse"
+    },
+    {
+      "source": "West Virginia",
+      "target": "Felony Conviction"
+    },
+    {
+      "source": "West Virginia",
+      "target": "Insanity"
+    },
+    {
+      "source": "West Virginia",
+      "target": "Legal Separation"
+    },
+    {
+      "source": "Wisconsin",
+      "target": "Legal Separation"
+    },
+    {
+      "source": "Wyoming",
+      "target": "Insanity"
+    },
+    {
+      "source": "Wyoming",
+      "target": "Legal Separation"
+    },
+    {
+      "source": "Cruelty",
+      "target": "Arkansas"
+    },
+    {
+      "source": "Cruelty",
+      "target": "Illinois"
+    },
+    {
+      "source": "Cruelty",
+      "target": "Maryland"
+    },
+    {
+      "source": "Cruelty",
+      "target": "New Jersey"
+    },
+    {
+      "source": "Cruelty",
+      "target": "New York"
+    },
+    {
+      "source": "Cruelty",
+      "target": "Pennsylvania"
+    },
+    {
+      "source": "Cruelty",
+      "target": "South Carolina"
+    },
+    {
+      "source": "Cruelty",
+      "target": "South Dakota"
+    },
+    {
+      "source": "Cruelty",
+      "target": "Utah"
+    },
+    {
+      "source": "Cruelty",
+      "target": "Vermont"
+    },
+    {
+      "source": "Cruelty",
+      "target": "Virginia"
+    },
+    {
+      "source": "Arkansas",
+      "target": "Desertion"
+    },
+    {
+      "source": "Arkansas",
+      "target": "Non-support"
+    },
+    {
+      "source": "Arkansas",
+      "target": "Alcohol Abuse"
+    },
+    {
+      "source": "Arkansas",
+      "target": "Felony Conviction"
+    },
+    {
+      "source": "Arkansas",
+      "target": "Impotency"
+    },
+    {
+      "source": "Arkansas",
+      "target": "Insanity"
+    },
+    {
+      "source": "Arkansas",
+      "target": "Legal Separation"
+    },
+    {
+      "source": "Illinois",
+      "target": "Desertion"
+    },
+    {
+      "source": "Illinois",
+      "target": "Alcohol Abuse"
+    },
+    {
+      "source": "Illinois",
+      "target": "Felony Conviction"
+    },
+    {
+      "source": "Illinois",
+      "target": "Impotency"
+    },
+    {
+      "source": "Maryland",
+      "target": "Desertion"
+    },
+    {
+      "source": "Maryland",
+      "target": "Felony Conviction"
+    },
+    {
+      "source": "Maryland",
+      "target": "Impotency"
+    },
+    {
+      "source": "Maryland",
+      "target": "Insanity"
+    },
+    {
+      "source": "Maryland",
+      "target": "Legal Separation"
+    },
+    {
+      "source": "New Jersey",
+      "target": "Desertion"
+    },
+    {
+      "source": "New Jersey",
+      "target": "Alcohol Abuse"
+    },
+    {
+      "source": "New Jersey",
+      "target": "Felony Conviction"
+    },
+    {
+      "source": "New Jersey",
+      "target": "Insanity"
+    },
+    {
+      "source": "New Jersey",
+      "target": "Legal Separation"
+    },
+    {
+      "source": "New York",
+      "target": "Desertion"
+    },
+    {
+      "source": "New York",
+      "target": "Felony Conviction"
+    },
+    {
+      "source": "New York",
+      "target": "Legal Separation"
+    },
+    {
+      "source": "Pennsylvania",
+      "target": "Desertion"
+    },
+    {
+      "source": "Pennsylvania",
+      "target": "Felony Conviction"
+    },
+    {
+      "source": "Pennsylvania",
+      "target": "Impotency"
+    },
+    {
+      "source": "Pennsylvania",
+      "target": "Insanity"
+    },
+    {
+      "source": "South Carolina",
+      "target": "Desertion"
+    },
+    {
+      "source": "South Carolina",
+      "target": "Alcohol Abuse"
+    },
+    {
+      "source": "South Carolina",
+      "target": "Legal Separation"
+    },
+    {
+      "source": "South Dakota",
+      "target": "Desertion"
+    },
+    {
+      "source": "South Dakota",
+      "target": "Non-support"
+    },
+    {
+      "source": "South Dakota",
+      "target": "Alcohol Abuse"
+    },
+    {
+      "source": "South Dakota",
+      "target": "Felony Conviction"
+    },
+    {
+      "source": "Utah",
+      "target": "Desertion"
+    },
+    {
+      "source": "Utah",
+      "target": "Non-support"
+    },
+    {
+      "source": "Utah",
+      "target": "Alcohol Abuse"
+    },
+    {
+      "source": "Utah",
+      "target": "Felony Conviction"
+    },
+    {
+      "source": "Utah",
+      "target": "Impotency"
+    },
+    {
+      "source": "Utah",
+      "target": "Insanity"
+    },
+    {
+      "source": "Vermont",
+      "target": "Desertion"
+    },
+    {
+      "source": "Vermont",
+      "target": "Non-support"
+    },
+    {
+      "source": "Vermont",
+      "target": "Felony Conviction"
+    },
+    {
+      "source": "Vermont",
+      "target": "Insanity"
+    },
+    {
+      "source": "Vermont",
+      "target": "Legal Separation"
+    },
+    {
+      "source": "Virginia",
+      "target": "Felony Conviction"
+    },
+    {
+      "source": "Virginia",
+      "target": "Legal Separation"
+    },
+    {
+      "source": "Felony Conviction",
+      "target": "Louisiana"
+    },
+    {
+      "source": "Louisiana",
+      "target": "Legal Separation"
+    },
+    {
+      "source": "Impotency",
+      "target": "North Carolina"
+    },
+    {
+      "source": "North Carolina",
+      "target": "Insanity"
+    },
+    {
+      "source": "North Carolina",
+      "target": "Legal Separation"
+    }
+  ]
+}

@@ -1,0 +1,5882 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "x": 0.0,
+      "y": 0.31481481481481477,
+      "id": "Amsterdam"
+    },
+    {
+      "x": 1.0,
+      "y": 0.1333333333333333,
+      "id": "KPMG"
+    },
+    {
+      "x": 0.0,
+      "y": 0.0,
+      "id": "Atlanta"
+    },
+    {
+      "x": 0.0,
+      "y": 0.018518518518518497,
+      "id": "Bangkok"
+    },
+    {
+      "x": 0.0,
+      "y": 0.40740740740740744,
+      "id": "Barcelona"
+    },
+    {
+      "x": 0.0,
+      "y": 0.8888888888888888,
+      "id": "Beijing"
+    },
+    {
+      "x": 0.0,
+      "y": 0.7222222222222222,
+      "id": "Berlin"
+    },
+    {
+      "x": 0.0,
+      "y": 0.35185185185185186,
+      "id": "Boston"
+    },
+    {
+      "x": 0.0,
+      "y": 0.16666666666666663,
+      "id": "Brussels"
+    },
+    {
+      "x": 0.0,
+      "y": 0.03703703703703699,
+      "id": "Budapest"
+    },
+    {
+      "x": 0.0,
+      "y": 0.537037037037037,
+      "id": "Buenos Aires"
+    },
+    {
+      "x": 0.0,
+      "y": 0.5740740740740741,
+      "id": "Caracas"
+    },
+    {
+      "x": 0.0,
+      "y": 0.42592592592592593,
+      "id": "Chicago"
+    },
+    {
+      "x": 0.0,
+      "y": 0.8703703703703703,
+      "id": "Copenhagen"
+    },
+    {
+      "x": 0.0,
+      "y": 0.8148148148148149,
+      "id": "Dallas"
+    },
+    {
+      "x": 0.0,
+      "y": 0.25925925925925924,
+      "id": "Dusseldorf"
+    },
+    {
+      "x": 0.0,
+      "y": 0.4629629629629629,
+      "id": "Frankfurt"
+    },
+    {
+      "x": 0.0,
+      "y": 0.5,
+      "id": "Geneva"
+    },
+    {
+      "x": 0.0,
+      "y": 0.9074074074074073,
+      "id": "Hamburg"
+    },
+    {
+      "x": 0.0,
+      "y": 0.9814814814814815,
+      "id": "Hong Kong"
+    },
+    {
+      "x": 0.0,
+      "y": 0.2777777777777778,
+      "id": "Houston"
+    },
+    {
+      "x": 0.0,
+      "y": 0.5185185185185185,
+      "id": "Istanbul"
+    },
+    {
+      "x": 0.0,
+      "y": 0.7037037037037037,
+      "id": "Jakarta"
+    },
+    {
+      "x": 0.0,
+      "y": 0.8333333333333331,
+      "id": "Johannesburg"
+    },
+    {
+      "x": 0.0,
+      "y": 0.12962962962962965,
+      "id": "Kuala Lumpur"
+    },
+    {
+      "x": 0.0,
+      "y": 0.7407407407407407,
+      "id": "London"
+    },
+    {
+      "x": 0.0,
+      "y": 0.7592592592592592,
+      "id": "Los Angeles"
+    },
+    {
+      "x": 0.0,
+      "y": 0.2222222222222222,
+      "id": "Madrid"
+    },
+    {
+      "x": 0.0,
+      "y": 0.18518518518518517,
+      "id": "Manila"
+    },
+    {
+      "x": 0.0,
+      "y": 0.14814814814814814,
+      "id": "Melbourne"
+    },
+    {
+      "x": 0.0,
+      "y": 0.05555555555555557,
+      "id": "Mexico City"
+    },
+    {
+      "x": 0.0,
+      "y": 0.5925925925925926,
+      "id": "Miami"
+    },
+    {
+      "x": 0.0,
+      "y": 0.7962962962962962,
+      "id": "Milan"
+    },
+    {
+      "x": 0.0,
+      "y": 0.6666666666666666,
+      "id": "Minneapolis"
+    },
+    {
+      "x": 0.0,
+      "y": 0.7777777777777777,
+      "id": "Montreal"
+    },
+    {
+      "x": 0.0,
+      "y": 0.9259259259259258,
+      "id": "Moscow"
+    },
+    {
+      "x": 0.0,
+      "y": 0.38888888888888884,
+      "id": "Munich"
+    },
+    {
+      "x": 0.0,
+      "y": 0.2962962962962963,
+      "id": "New York"
+    },
+    {
+      "x": 0.0,
+      "y": 0.37037037037037035,
+      "id": "Osaka"
+    },
+    {
+      "x": 0.0,
+      "y": 0.611111111111111,
+      "id": "Paris"
+    },
+    {
+      "x": 0.0,
+      "y": 1.0,
+      "id": "Prague"
+    },
+    {
+      "x": 0.0,
+      "y": 0.6851851851851851,
+      "id": "Rome"
+    },
+    {
+      "x": 0.0,
+      "y": 0.9444444444444445,
+      "id": "San Francisco"
+    },
+    {
+      "x": 0.0,
+      "y": 0.5555555555555556,
+      "id": "Sao Paulo"
+    },
+    {
+      "x": 0.0,
+      "y": 0.20370370370370372,
+      "id": "Santiago"
+    },
+    {
+      "x": 0.0,
+      "y": 0.09259259259259257,
+      "id": "Seoul"
+    },
+    {
+      "x": 0.0,
+      "y": 0.6296296296296295,
+      "id": "Shanghai"
+    },
+    {
+      "x": 0.0,
+      "y": 0.07407407407407407,
+      "id": "Singapore"
+    },
+    {
+      "x": 0.0,
+      "y": 0.2407407407407407,
+      "id": "Stockholm"
+    },
+    {
+      "x": 0.0,
+      "y": 0.6481481481481481,
+      "id": "Sydney"
+    },
+    {
+      "x": 0.0,
+      "y": 0.8518518518518519,
+      "id": "Taipei"
+    },
+    {
+      "x": 0.0,
+      "y": 0.3333333333333333,
+      "id": "Tokyo"
+    },
+    {
+      "x": 0.0,
+      "y": 0.11111111111111106,
+      "id": "Toronto"
+    },
+    {
+      "x": 0.0,
+      "y": 0.4444444444444444,
+      "id": "Warsaw"
+    },
+    {
+      "x": 0.0,
+      "y": 0.9629629629629628,
+      "id": "Washington,DC"
+    },
+    {
+      "x": 0.0,
+      "y": 0.4814814814814814,
+      "id": "Zurich"
+    },
+    {
+      "x": 1.0,
+      "y": 1.0,
+      "id": "Coopers & Lybrand"
+    },
+    {
+      "x": 1.0,
+      "y": 0.33333333333333337,
+      "id": "Ernst & Young International"
+    },
+    {
+      "x": 1.0,
+      "y": 0.7777777777777779,
+      "id": "Arthur Andersen"
+    },
+    {
+      "x": 1.0,
+      "y": 0.5555555555555556,
+      "id": "Price Waterhouse"
+    },
+    {
+      "x": 1.0,
+      "y": 0.7111111111111111,
+      "id": "Grey Worldwide"
+    },
+    {
+      "x": 1.0,
+      "y": 0.4222222222222223,
+      "id": "DMB&B (MacManus Group)"
+    },
+    {
+      "x": 1.0,
+      "y": 0.48888888888888893,
+      "id": "Lowe Howard -Spink"
+    },
+    {
+      "x": 1.0,
+      "y": 0.11111111111111106,
+      "id": "Saatchi and Saatchi"
+    },
+    {
+      "x": 1.0,
+      "y": 0.24444444444444446,
+      "id": "JWT (Thompson)"
+    },
+    {
+      "x": 1.0,
+      "y": 0.04444444444444449,
+      "id": "Ogilvy & Mather Direct Worldwide"
+    },
+    {
+      "x": 1.0,
+      "y": 0.15555555555555556,
+      "id": "Dentsu"
+    },
+    {
+      "x": 1.0,
+      "y": 0.2,
+      "id": "Young & Rubicam"
+    },
+    {
+      "x": 1.0,
+      "y": 0.26666666666666666,
+      "id": "TMP"
+    },
+    {
+      "x": 1.0,
+      "y": 0.022222222222222164,
+      "id": "Publicis"
+    },
+    {
+      "x": 1.0,
+      "y": 0.5333333333333333,
+      "id": "Abbott Mead Vickers (BBDO)"
+    },
+    {
+      "x": 1.0,
+      "y": 0.8,
+      "id": "HSBC"
+    },
+    {
+      "x": 1.0,
+      "y": 0.6666666666666667,
+      "id": "Barclays"
+    },
+    {
+      "x": 1.0,
+      "y": 0.8444444444444446,
+      "id": "NatWest Group"
+    },
+    {
+      "x": 1.0,
+      "y": 0.2222222222222222,
+      "id": "Standard Chartered Group"
+    },
+    {
+      "x": 1.0,
+      "y": 0.6,
+      "id": "Creditanstalt-Bankverein"
+    },
+    {
+      "x": 1.0,
+      "y": 0.4,
+      "id": "Dresdner Bank Group"
+    },
+    {
+      "x": 1.0,
+      "y": 0.6888888888888889,
+      "id": "J P Morgan"
+    },
+    {
+      "x": 1.0,
+      "y": 0.4666666666666667,
+      "id": "Compagnie Financi�e de Paribas SA"
+    },
+    {
+      "x": 1.0,
+      "y": 0.9777777777777779,
+      "id": "Credit Suisse"
+    },
+    {
+      "x": 1.0,
+      "y": 0.9111111111111112,
+      "id": "BBV Group"
+    },
+    {
+      "x": 1.0,
+      "y": 0.9555555555555555,
+      "id": "Banker's Trust"
+    },
+    {
+      "x": 1.0,
+      "y": 0.5111111111111112,
+      "id": "UBS"
+    },
+    {
+      "x": 1.0,
+      "y": 0.5777777777777778,
+      "id": "ABN-AMRO"
+    },
+    {
+      "x": 1.0,
+      "y": 0.06666666666666665,
+      "id": "Citibank"
+    },
+    {
+      "x": 1.0,
+      "y": 0.44444444444444453,
+      "id": "Baker & McKenzie"
+    },
+    {
+      "x": 1.0,
+      "y": 0.0,
+      "id": "White & Case"
+    },
+    {
+      "x": 1.0,
+      "y": 0.7333333333333334,
+      "id": "Leboeuf, Lamb, Greene & MacRae"
+    },
+    {
+      "x": 1.0,
+      "y": 0.7555555555555555,
+      "id": "Coudert Brothers"
+    },
+    {
+      "x": 1.0,
+      "y": 0.8888888888888888,
+      "id": "Skadden Arps"
+    },
+    {
+      "x": 1.0,
+      "y": 0.3111111111111111,
+      "id": "Bryan Cave"
+    },
+    {
+      "x": 1.0,
+      "y": 0.9333333333333333,
+      "id": "Dorsey & Whitney"
+    },
+    {
+      "x": 1.0,
+      "y": 0.0888888888888889,
+      "id": "Graham & James"
+    },
+    {
+      "x": 1.0,
+      "y": 0.37777777777777777,
+      "id": "Hogan & Hartson"
+    },
+    {
+      "x": 1.0,
+      "y": 0.1777777777777778,
+      "id": "Jones, Day, Reavis & Pogue"
+    },
+    {
+      "x": 1.0,
+      "y": 0.8666666666666667,
+      "id": "Miller, Canfield, Paddock & Stone"
+    },
+    {
+      "x": 1.0,
+      "y": 0.8222222222222224,
+      "id": "Squire, Sanders & Dempsey"
+    },
+    {
+      "x": 1.0,
+      "y": 0.35555555555555557,
+      "id": "Wilson, Elser, Moskowitz, Edelman & Dicker"
+    },
+    {
+      "x": 1.0,
+      "y": 0.6444444444444445,
+      "id": "Allen & Overy"
+    },
+    {
+      "x": 1.0,
+      "y": 0.6222222222222222,
+      "id": "Clifford Chance"
+    },
+    {
+      "x": 1.0,
+      "y": 0.2888888888888889,
+      "id": "Freshfields"
+    }
+  ],
+  "links": [
+    {
+      "source": "Amsterdam",
+      "target": "KPMG"
+    },
+    {
+      "source": "Amsterdam",
+      "target": "Coopers & Lybrand"
+    },
+    {
+      "source": "Amsterdam",
+      "target": "Ernst & Young International"
+    },
+    {
+      "source": "Amsterdam",
+      "target": "Arthur Andersen"
+    },
+    {
+      "source": "Amsterdam",
+      "target": "Price Waterhouse"
+    },
+    {
+      "source": "Amsterdam",
+      "target": "Grey Worldwide"
+    },
+    {
+      "source": "Amsterdam",
+      "target": "DMB&B (MacManus Group)"
+    },
+    {
+      "source": "Amsterdam",
+      "target": "Lowe Howard -Spink"
+    },
+    {
+      "source": "Amsterdam",
+      "target": "Saatchi and Saatchi"
+    },
+    {
+      "source": "Amsterdam",
+      "target": "JWT (Thompson)"
+    },
+    {
+      "source": "Amsterdam",
+      "target": "Ogilvy & Mather Direct Worldwide"
+    },
+    {
+      "source": "Amsterdam",
+      "target": "Dentsu"
+    },
+    {
+      "source": "Amsterdam",
+      "target": "Publicis"
+    },
+    {
+      "source": "Amsterdam",
+      "target": "Abbott Mead Vickers (BBDO)"
+    },
+    {
+      "source": "Amsterdam",
+      "target": "HSBC"
+    },
+    {
+      "source": "Amsterdam",
+      "target": "Barclays"
+    },
+    {
+      "source": "Amsterdam",
+      "target": "NatWest Group"
+    },
+    {
+      "source": "Amsterdam",
+      "target": "Dresdner Bank Group"
+    },
+    {
+      "source": "Amsterdam",
+      "target": "J P Morgan"
+    },
+    {
+      "source": "Amsterdam",
+      "target": "Compagnie Financi�e de Paribas SA"
+    },
+    {
+      "source": "Amsterdam",
+      "target": "ABN-AMRO"
+    },
+    {
+      "source": "Amsterdam",
+      "target": "Baker & McKenzie"
+    },
+    {
+      "source": "Amsterdam",
+      "target": "Clifford Chance"
+    },
+    {
+      "source": "KPMG",
+      "target": "Atlanta"
+    },
+    {
+      "source": "KPMG",
+      "target": "Bangkok"
+    },
+    {
+      "source": "KPMG",
+      "target": "Barcelona"
+    },
+    {
+      "source": "KPMG",
+      "target": "Beijing"
+    },
+    {
+      "source": "KPMG",
+      "target": "Berlin"
+    },
+    {
+      "source": "KPMG",
+      "target": "Boston"
+    },
+    {
+      "source": "KPMG",
+      "target": "Brussels"
+    },
+    {
+      "source": "KPMG",
+      "target": "Budapest"
+    },
+    {
+      "source": "KPMG",
+      "target": "Buenos Aires"
+    },
+    {
+      "source": "KPMG",
+      "target": "Caracas"
+    },
+    {
+      "source": "KPMG",
+      "target": "Chicago"
+    },
+    {
+      "source": "KPMG",
+      "target": "Copenhagen"
+    },
+    {
+      "source": "KPMG",
+      "target": "Dallas"
+    },
+    {
+      "source": "KPMG",
+      "target": "Dusseldorf"
+    },
+    {
+      "source": "KPMG",
+      "target": "Frankfurt"
+    },
+    {
+      "source": "KPMG",
+      "target": "Geneva"
+    },
+    {
+      "source": "KPMG",
+      "target": "Hamburg"
+    },
+    {
+      "source": "KPMG",
+      "target": "Hong Kong"
+    },
+    {
+      "source": "KPMG",
+      "target": "Houston"
+    },
+    {
+      "source": "KPMG",
+      "target": "Istanbul"
+    },
+    {
+      "source": "KPMG",
+      "target": "Jakarta"
+    },
+    {
+      "source": "KPMG",
+      "target": "Johannesburg"
+    },
+    {
+      "source": "KPMG",
+      "target": "Kuala Lumpur"
+    },
+    {
+      "source": "KPMG",
+      "target": "London"
+    },
+    {
+      "source": "KPMG",
+      "target": "Los Angeles"
+    },
+    {
+      "source": "KPMG",
+      "target": "Madrid"
+    },
+    {
+      "source": "KPMG",
+      "target": "Manila"
+    },
+    {
+      "source": "KPMG",
+      "target": "Melbourne"
+    },
+    {
+      "source": "KPMG",
+      "target": "Mexico City"
+    },
+    {
+      "source": "KPMG",
+      "target": "Miami"
+    },
+    {
+      "source": "KPMG",
+      "target": "Milan"
+    },
+    {
+      "source": "KPMG",
+      "target": "Minneapolis"
+    },
+    {
+      "source": "KPMG",
+      "target": "Montreal"
+    },
+    {
+      "source": "KPMG",
+      "target": "Moscow"
+    },
+    {
+      "source": "KPMG",
+      "target": "Munich"
+    },
+    {
+      "source": "KPMG",
+      "target": "New York"
+    },
+    {
+      "source": "KPMG",
+      "target": "Osaka"
+    },
+    {
+      "source": "KPMG",
+      "target": "Paris"
+    },
+    {
+      "source": "KPMG",
+      "target": "Prague"
+    },
+    {
+      "source": "KPMG",
+      "target": "Rome"
+    },
+    {
+      "source": "KPMG",
+      "target": "San Francisco"
+    },
+    {
+      "source": "KPMG",
+      "target": "Sao Paulo"
+    },
+    {
+      "source": "KPMG",
+      "target": "Santiago"
+    },
+    {
+      "source": "KPMG",
+      "target": "Seoul"
+    },
+    {
+      "source": "KPMG",
+      "target": "Shanghai"
+    },
+    {
+      "source": "KPMG",
+      "target": "Singapore"
+    },
+    {
+      "source": "KPMG",
+      "target": "Stockholm"
+    },
+    {
+      "source": "KPMG",
+      "target": "Sydney"
+    },
+    {
+      "source": "KPMG",
+      "target": "Taipei"
+    },
+    {
+      "source": "KPMG",
+      "target": "Tokyo"
+    },
+    {
+      "source": "KPMG",
+      "target": "Toronto"
+    },
+    {
+      "source": "KPMG",
+      "target": "Warsaw"
+    },
+    {
+      "source": "KPMG",
+      "target": "Washington,DC"
+    },
+    {
+      "source": "KPMG",
+      "target": "Zurich"
+    },
+    {
+      "source": "Atlanta",
+      "target": "Coopers & Lybrand"
+    },
+    {
+      "source": "Atlanta",
+      "target": "Ernst & Young International"
+    },
+    {
+      "source": "Atlanta",
+      "target": "Arthur Andersen"
+    },
+    {
+      "source": "Atlanta",
+      "target": "Price Waterhouse"
+    },
+    {
+      "source": "Atlanta",
+      "target": "JWT (Thompson)"
+    },
+    {
+      "source": "Atlanta",
+      "target": "TMP"
+    },
+    {
+      "source": "Atlanta",
+      "target": "ABN-AMRO"
+    },
+    {
+      "source": "Atlanta",
+      "target": "Jones, Day, Reavis & Pogue"
+    },
+    {
+      "source": "Bangkok",
+      "target": "Coopers & Lybrand"
+    },
+    {
+      "source": "Bangkok",
+      "target": "Ernst & Young International"
+    },
+    {
+      "source": "Bangkok",
+      "target": "Arthur Andersen"
+    },
+    {
+      "source": "Bangkok",
+      "target": "Price Waterhouse"
+    },
+    {
+      "source": "Bangkok",
+      "target": "Grey Worldwide"
+    },
+    {
+      "source": "Bangkok",
+      "target": "DMB&B (MacManus Group)"
+    },
+    {
+      "source": "Bangkok",
+      "target": "Saatchi and Saatchi"
+    },
+    {
+      "source": "Bangkok",
+      "target": "JWT (Thompson)"
+    },
+    {
+      "source": "Bangkok",
+      "target": "Ogilvy & Mather Direct Worldwide"
+    },
+    {
+      "source": "Bangkok",
+      "target": "Dentsu"
+    },
+    {
+      "source": "Bangkok",
+      "target": "Publicis"
+    },
+    {
+      "source": "Bangkok",
+      "target": "Abbott Mead Vickers (BBDO)"
+    },
+    {
+      "source": "Bangkok",
+      "target": "HSBC"
+    },
+    {
+      "source": "Bangkok",
+      "target": "Barclays"
+    },
+    {
+      "source": "Bangkok",
+      "target": "NatWest Group"
+    },
+    {
+      "source": "Bangkok",
+      "target": "Standard Chartered Group"
+    },
+    {
+      "source": "Bangkok",
+      "target": "J P Morgan"
+    },
+    {
+      "source": "Bangkok",
+      "target": "Compagnie Financi�e de Paribas SA"
+    },
+    {
+      "source": "Bangkok",
+      "target": "Banker's Trust"
+    },
+    {
+      "source": "Bangkok",
+      "target": "UBS"
+    },
+    {
+      "source": "Bangkok",
+      "target": "ABN-AMRO"
+    },
+    {
+      "source": "Bangkok",
+      "target": "Citibank"
+    },
+    {
+      "source": "Bangkok",
+      "target": "Baker & McKenzie"
+    },
+    {
+      "source": "Bangkok",
+      "target": "White & Case"
+    },
+    {
+      "source": "Bangkok",
+      "target": "Coudert Brothers"
+    },
+    {
+      "source": "Bangkok",
+      "target": "Graham & James"
+    },
+    {
+      "source": "Bangkok",
+      "target": "Clifford Chance"
+    },
+    {
+      "source": "Bangkok",
+      "target": "Freshfields"
+    },
+    {
+      "source": "Barcelona",
+      "target": "Coopers & Lybrand"
+    },
+    {
+      "source": "Barcelona",
+      "target": "Ernst & Young International"
+    },
+    {
+      "source": "Barcelona",
+      "target": "Arthur Andersen"
+    },
+    {
+      "source": "Barcelona",
+      "target": "Price Waterhouse"
+    },
+    {
+      "source": "Barcelona",
+      "target": "Grey Worldwide"
+    },
+    {
+      "source": "Barcelona",
+      "target": "DMB&B (MacManus Group)"
+    },
+    {
+      "source": "Barcelona",
+      "target": "Lowe Howard -Spink"
+    },
+    {
+      "source": "Barcelona",
+      "target": "Saatchi and Saatchi"
+    },
+    {
+      "source": "Barcelona",
+      "target": "JWT (Thompson)"
+    },
+    {
+      "source": "Barcelona",
+      "target": "Ogilvy & Mather Direct Worldwide"
+    },
+    {
+      "source": "Barcelona",
+      "target": "Publicis"
+    },
+    {
+      "source": "Barcelona",
+      "target": "Abbott Mead Vickers (BBDO)"
+    },
+    {
+      "source": "Barcelona",
+      "target": "HSBC"
+    },
+    {
+      "source": "Barcelona",
+      "target": "Barclays"
+    },
+    {
+      "source": "Barcelona",
+      "target": "Compagnie Financi�e de Paribas SA"
+    },
+    {
+      "source": "Barcelona",
+      "target": "Credit Suisse"
+    },
+    {
+      "source": "Barcelona",
+      "target": "BBV Group"
+    },
+    {
+      "source": "Barcelona",
+      "target": "ABN-AMRO"
+    },
+    {
+      "source": "Barcelona",
+      "target": "Citibank"
+    },
+    {
+      "source": "Barcelona",
+      "target": "Baker & McKenzie"
+    },
+    {
+      "source": "Barcelona",
+      "target": "Clifford Chance"
+    },
+    {
+      "source": "Barcelona",
+      "target": "Freshfields"
+    },
+    {
+      "source": "Beijing",
+      "target": "Coopers & Lybrand"
+    },
+    {
+      "source": "Beijing",
+      "target": "Ernst & Young International"
+    },
+    {
+      "source": "Beijing",
+      "target": "Arthur Andersen"
+    },
+    {
+      "source": "Beijing",
+      "target": "Price Waterhouse"
+    },
+    {
+      "source": "Beijing",
+      "target": "DMB&B (MacManus Group)"
+    },
+    {
+      "source": "Beijing",
+      "target": "Saatchi and Saatchi"
+    },
+    {
+      "source": "Beijing",
+      "target": "JWT (Thompson)"
+    },
+    {
+      "source": "Beijing",
+      "target": "Ogilvy & Mather Direct Worldwide"
+    },
+    {
+      "source": "Beijing",
+      "target": "Dentsu"
+    },
+    {
+      "source": "Beijing",
+      "target": "Publicis"
+    },
+    {
+      "source": "Beijing",
+      "target": "Abbott Mead Vickers (BBDO)"
+    },
+    {
+      "source": "Beijing",
+      "target": "HSBC"
+    },
+    {
+      "source": "Beijing",
+      "target": "Barclays"
+    },
+    {
+      "source": "Beijing",
+      "target": "NatWest Group"
+    },
+    {
+      "source": "Beijing",
+      "target": "Standard Chartered Group"
+    },
+    {
+      "source": "Beijing",
+      "target": "J P Morgan"
+    },
+    {
+      "source": "Beijing",
+      "target": "Compagnie Financi�e de Paribas SA"
+    },
+    {
+      "source": "Beijing",
+      "target": "Banker's Trust"
+    },
+    {
+      "source": "Beijing",
+      "target": "UBS"
+    },
+    {
+      "source": "Beijing",
+      "target": "ABN-AMRO"
+    },
+    {
+      "source": "Beijing",
+      "target": "Baker & McKenzie"
+    },
+    {
+      "source": "Beijing",
+      "target": "Coudert Brothers"
+    },
+    {
+      "source": "Beijing",
+      "target": "Skadden Arps"
+    },
+    {
+      "source": "Beijing",
+      "target": "Graham & James"
+    },
+    {
+      "source": "Beijing",
+      "target": "Allen & Overy"
+    },
+    {
+      "source": "Beijing",
+      "target": "Freshfields"
+    },
+    {
+      "source": "Berlin",
+      "target": "Coopers & Lybrand"
+    },
+    {
+      "source": "Berlin",
+      "target": "Ernst & Young International"
+    },
+    {
+      "source": "Berlin",
+      "target": "Arthur Andersen"
+    },
+    {
+      "source": "Berlin",
+      "target": "Price Waterhouse"
+    },
+    {
+      "source": "Berlin",
+      "target": "Publicis"
+    },
+    {
+      "source": "Berlin",
+      "target": "Abbott Mead Vickers (BBDO)"
+    },
+    {
+      "source": "Berlin",
+      "target": "Barclays"
+    },
+    {
+      "source": "Berlin",
+      "target": "Creditanstalt-Bankverein"
+    },
+    {
+      "source": "Berlin",
+      "target": "Credit Suisse"
+    },
+    {
+      "source": "Berlin",
+      "target": "Citibank"
+    },
+    {
+      "source": "Berlin",
+      "target": "Baker & McKenzie"
+    },
+    {
+      "source": "Berlin",
+      "target": "Coudert Brothers"
+    },
+    {
+      "source": "Boston",
+      "target": "Coopers & Lybrand"
+    },
+    {
+      "source": "Boston",
+      "target": "Ernst & Young International"
+    },
+    {
+      "source": "Boston",
+      "target": "Arthur Andersen"
+    },
+    {
+      "source": "Boston",
+      "target": "Price Waterhouse"
+    },
+    {
+      "source": "Boston",
+      "target": "Dentsu"
+    },
+    {
+      "source": "Boston",
+      "target": "Publicis"
+    },
+    {
+      "source": "Boston",
+      "target": "HSBC"
+    },
+    {
+      "source": "Boston",
+      "target": "NatWest Group"
+    },
+    {
+      "source": "Boston",
+      "target": "Dresdner Bank Group"
+    },
+    {
+      "source": "Boston",
+      "target": "J P Morgan"
+    },
+    {
+      "source": "Boston",
+      "target": "Banker's Trust"
+    },
+    {
+      "source": "Boston",
+      "target": "Leboeuf, Lamb, Greene & MacRae"
+    },
+    {
+      "source": "Boston",
+      "target": "Skadden Arps"
+    },
+    {
+      "source": "Brussels",
+      "target": "Coopers & Lybrand"
+    },
+    {
+      "source": "Brussels",
+      "target": "Ernst & Young International"
+    },
+    {
+      "source": "Brussels",
+      "target": "Arthur Andersen"
+    },
+    {
+      "source": "Brussels",
+      "target": "Price Waterhouse"
+    },
+    {
+      "source": "Brussels",
+      "target": "Grey Worldwide"
+    },
+    {
+      "source": "Brussels",
+      "target": "DMB&B (MacManus Group)"
+    },
+    {
+      "source": "Brussels",
+      "target": "Lowe Howard -Spink"
+    },
+    {
+      "source": "Brussels",
+      "target": "Saatchi and Saatchi"
+    },
+    {
+      "source": "Brussels",
+      "target": "JWT (Thompson)"
+    },
+    {
+      "source": "Brussels",
+      "target": "Ogilvy & Mather Direct Worldwide"
+    },
+    {
+      "source": "Brussels",
+      "target": "Dentsu"
+    },
+    {
+      "source": "Brussels",
+      "target": "Young & Rubicam"
+    },
+    {
+      "source": "Brussels",
+      "target": "TMP"
+    },
+    {
+      "source": "Brussels",
+      "target": "Publicis"
+    },
+    {
+      "source": "Brussels",
+      "target": "Abbott Mead Vickers (BBDO)"
+    },
+    {
+      "source": "Brussels",
+      "target": "Barclays"
+    },
+    {
+      "source": "Brussels",
+      "target": "J P Morgan"
+    },
+    {
+      "source": "Brussels",
+      "target": "Compagnie Financi�e de Paribas SA"
+    },
+    {
+      "source": "Brussels",
+      "target": "BBV Group"
+    },
+    {
+      "source": "Brussels",
+      "target": "ABN-AMRO"
+    },
+    {
+      "source": "Brussels",
+      "target": "Citibank"
+    },
+    {
+      "source": "Brussels",
+      "target": "Baker & McKenzie"
+    },
+    {
+      "source": "Brussels",
+      "target": "White & Case"
+    },
+    {
+      "source": "Brussels",
+      "target": "Leboeuf, Lamb, Greene & MacRae"
+    },
+    {
+      "source": "Brussels",
+      "target": "Coudert Brothers"
+    },
+    {
+      "source": "Brussels",
+      "target": "Skadden Arps"
+    },
+    {
+      "source": "Brussels",
+      "target": "Dorsey & Whitney"
+    },
+    {
+      "source": "Brussels",
+      "target": "Hogan & Hartson"
+    },
+    {
+      "source": "Brussels",
+      "target": "Jones, Day, Reavis & Pogue"
+    },
+    {
+      "source": "Brussels",
+      "target": "Squire, Sanders & Dempsey"
+    },
+    {
+      "source": "Brussels",
+      "target": "Allen & Overy"
+    },
+    {
+      "source": "Brussels",
+      "target": "Clifford Chance"
+    },
+    {
+      "source": "Brussels",
+      "target": "Freshfields"
+    },
+    {
+      "source": "Budapest",
+      "target": "Coopers & Lybrand"
+    },
+    {
+      "source": "Budapest",
+      "target": "Ernst & Young International"
+    },
+    {
+      "source": "Budapest",
+      "target": "Arthur Andersen"
+    },
+    {
+      "source": "Budapest",
+      "target": "Price Waterhouse"
+    },
+    {
+      "source": "Budapest",
+      "target": "DMB&B (MacManus Group)"
+    },
+    {
+      "source": "Budapest",
+      "target": "Lowe Howard -Spink"
+    },
+    {
+      "source": "Budapest",
+      "target": "Saatchi and Saatchi"
+    },
+    {
+      "source": "Budapest",
+      "target": "JWT (Thompson)"
+    },
+    {
+      "source": "Budapest",
+      "target": "Ogilvy & Mather Direct Worldwide"
+    },
+    {
+      "source": "Budapest",
+      "target": "Dentsu"
+    },
+    {
+      "source": "Budapest",
+      "target": "Young & Rubicam"
+    },
+    {
+      "source": "Budapest",
+      "target": "Publicis"
+    },
+    {
+      "source": "Budapest",
+      "target": "Abbott Mead Vickers (BBDO)"
+    },
+    {
+      "source": "Budapest",
+      "target": "HSBC"
+    },
+    {
+      "source": "Budapest",
+      "target": "Barclays"
+    },
+    {
+      "source": "Budapest",
+      "target": "Compagnie Financi�e de Paribas SA"
+    },
+    {
+      "source": "Budapest",
+      "target": "Banker's Trust"
+    },
+    {
+      "source": "Budapest",
+      "target": "UBS"
+    },
+    {
+      "source": "Budapest",
+      "target": "ABN-AMRO"
+    },
+    {
+      "source": "Budapest",
+      "target": "Citibank"
+    },
+    {
+      "source": "Budapest",
+      "target": "Baker & McKenzie"
+    },
+    {
+      "source": "Budapest",
+      "target": "White & Case"
+    },
+    {
+      "source": "Budapest",
+      "target": "Hogan & Hartson"
+    },
+    {
+      "source": "Budapest",
+      "target": "Squire, Sanders & Dempsey"
+    },
+    {
+      "source": "Budapest",
+      "target": "Allen & Overy"
+    },
+    {
+      "source": "Budapest",
+      "target": "Clifford Chance"
+    },
+    {
+      "source": "Buenos Aires",
+      "target": "Coopers & Lybrand"
+    },
+    {
+      "source": "Buenos Aires",
+      "target": "Ernst & Young International"
+    },
+    {
+      "source": "Buenos Aires",
+      "target": "Arthur Andersen"
+    },
+    {
+      "source": "Buenos Aires",
+      "target": "Price Waterhouse"
+    },
+    {
+      "source": "Buenos Aires",
+      "target": "Grey Worldwide"
+    },
+    {
+      "source": "Buenos Aires",
+      "target": "DMB&B (MacManus Group)"
+    },
+    {
+      "source": "Buenos Aires",
+      "target": "Saatchi and Saatchi"
+    },
+    {
+      "source": "Buenos Aires",
+      "target": "JWT (Thompson)"
+    },
+    {
+      "source": "Buenos Aires",
+      "target": "Ogilvy & Mather Direct Worldwide"
+    },
+    {
+      "source": "Buenos Aires",
+      "target": "Young & Rubicam"
+    },
+    {
+      "source": "Buenos Aires",
+      "target": "Publicis"
+    },
+    {
+      "source": "Buenos Aires",
+      "target": "Abbott Mead Vickers (BBDO)"
+    },
+    {
+      "source": "Buenos Aires",
+      "target": "HSBC"
+    },
+    {
+      "source": "Buenos Aires",
+      "target": "Barclays"
+    },
+    {
+      "source": "Buenos Aires",
+      "target": "NatWest Group"
+    },
+    {
+      "source": "Buenos Aires",
+      "target": "Standard Chartered Group"
+    },
+    {
+      "source": "Buenos Aires",
+      "target": "Creditanstalt-Bankverein"
+    },
+    {
+      "source": "Buenos Aires",
+      "target": "J P Morgan"
+    },
+    {
+      "source": "Buenos Aires",
+      "target": "Compagnie Financi�e de Paribas SA"
+    },
+    {
+      "source": "Buenos Aires",
+      "target": "Credit Suisse"
+    },
+    {
+      "source": "Buenos Aires",
+      "target": "BBV Group"
+    },
+    {
+      "source": "Buenos Aires",
+      "target": "Banker's Trust"
+    },
+    {
+      "source": "Buenos Aires",
+      "target": "UBS"
+    },
+    {
+      "source": "Buenos Aires",
+      "target": "ABN-AMRO"
+    },
+    {
+      "source": "Buenos Aires",
+      "target": "Citibank"
+    },
+    {
+      "source": "Buenos Aires",
+      "target": "Baker & McKenzie"
+    },
+    {
+      "source": "Caracas",
+      "target": "Coopers & Lybrand"
+    },
+    {
+      "source": "Caracas",
+      "target": "Ernst & Young International"
+    },
+    {
+      "source": "Caracas",
+      "target": "Arthur Andersen"
+    },
+    {
+      "source": "Caracas",
+      "target": "Price Waterhouse"
+    },
+    {
+      "source": "Caracas",
+      "target": "Grey Worldwide"
+    },
+    {
+      "source": "Caracas",
+      "target": "DMB&B (MacManus Group)"
+    },
+    {
+      "source": "Caracas",
+      "target": "Lowe Howard -Spink"
+    },
+    {
+      "source": "Caracas",
+      "target": "Saatchi and Saatchi"
+    },
+    {
+      "source": "Caracas",
+      "target": "JWT (Thompson)"
+    },
+    {
+      "source": "Caracas",
+      "target": "Ogilvy & Mather Direct Worldwide"
+    },
+    {
+      "source": "Caracas",
+      "target": "Young & Rubicam"
+    },
+    {
+      "source": "Caracas",
+      "target": "Abbott Mead Vickers (BBDO)"
+    },
+    {
+      "source": "Caracas",
+      "target": "HSBC"
+    },
+    {
+      "source": "Caracas",
+      "target": "Barclays"
+    },
+    {
+      "source": "Caracas",
+      "target": "J P Morgan"
+    },
+    {
+      "source": "Caracas",
+      "target": "Compagnie Financi�e de Paribas SA"
+    },
+    {
+      "source": "Caracas",
+      "target": "Credit Suisse"
+    },
+    {
+      "source": "Caracas",
+      "target": "BBV Group"
+    },
+    {
+      "source": "Caracas",
+      "target": "Banker's Trust"
+    },
+    {
+      "source": "Caracas",
+      "target": "UBS"
+    },
+    {
+      "source": "Caracas",
+      "target": "ABN-AMRO"
+    },
+    {
+      "source": "Caracas",
+      "target": "Citibank"
+    },
+    {
+      "source": "Caracas",
+      "target": "Baker & McKenzie"
+    },
+    {
+      "source": "Chicago",
+      "target": "Coopers & Lybrand"
+    },
+    {
+      "source": "Chicago",
+      "target": "Ernst & Young International"
+    },
+    {
+      "source": "Chicago",
+      "target": "Arthur Andersen"
+    },
+    {
+      "source": "Chicago",
+      "target": "Price Waterhouse"
+    },
+    {
+      "source": "Chicago",
+      "target": "JWT (Thompson)"
+    },
+    {
+      "source": "Chicago",
+      "target": "Ogilvy & Mather Direct Worldwide"
+    },
+    {
+      "source": "Chicago",
+      "target": "Young & Rubicam"
+    },
+    {
+      "source": "Chicago",
+      "target": "TMP"
+    },
+    {
+      "source": "Chicago",
+      "target": "Abbott Mead Vickers (BBDO)"
+    },
+    {
+      "source": "Chicago",
+      "target": "HSBC"
+    },
+    {
+      "source": "Chicago",
+      "target": "Barclays"
+    },
+    {
+      "source": "Chicago",
+      "target": "NatWest Group"
+    },
+    {
+      "source": "Chicago",
+      "target": "J P Morgan"
+    },
+    {
+      "source": "Chicago",
+      "target": "Compagnie Financi�e de Paribas SA"
+    },
+    {
+      "source": "Chicago",
+      "target": "Banker's Trust"
+    },
+    {
+      "source": "Chicago",
+      "target": "UBS"
+    },
+    {
+      "source": "Chicago",
+      "target": "ABN-AMRO"
+    },
+    {
+      "source": "Chicago",
+      "target": "Citibank"
+    },
+    {
+      "source": "Chicago",
+      "target": "Baker & McKenzie"
+    },
+    {
+      "source": "Chicago",
+      "target": "Skadden Arps"
+    },
+    {
+      "source": "Chicago",
+      "target": "Jones, Day, Reavis & Pogue"
+    },
+    {
+      "source": "Chicago",
+      "target": "Wilson, Elser, Moskowitz, Edelman & Dicker"
+    },
+    {
+      "source": "Copenhagen",
+      "target": "Coopers & Lybrand"
+    },
+    {
+      "source": "Copenhagen",
+      "target": "Ernst & Young International"
+    },
+    {
+      "source": "Copenhagen",
+      "target": "Arthur Andersen"
+    },
+    {
+      "source": "Copenhagen",
+      "target": "Price Waterhouse"
+    },
+    {
+      "source": "Copenhagen",
+      "target": "Grey Worldwide"
+    },
+    {
+      "source": "Copenhagen",
+      "target": "DMB&B (MacManus Group)"
+    },
+    {
+      "source": "Copenhagen",
+      "target": "Lowe Howard -Spink"
+    },
+    {
+      "source": "Copenhagen",
+      "target": "Saatchi and Saatchi"
+    },
+    {
+      "source": "Copenhagen",
+      "target": "JWT (Thompson)"
+    },
+    {
+      "source": "Copenhagen",
+      "target": "Ogilvy & Mather Direct Worldwide"
+    },
+    {
+      "source": "Copenhagen",
+      "target": "Young & Rubicam"
+    },
+    {
+      "source": "Copenhagen",
+      "target": "Publicis"
+    },
+    {
+      "source": "Copenhagen",
+      "target": "Abbott Mead Vickers (BBDO)"
+    },
+    {
+      "source": "Copenhagen",
+      "target": "ABN-AMRO"
+    },
+    {
+      "source": "Dallas",
+      "target": "Coopers & Lybrand"
+    },
+    {
+      "source": "Dallas",
+      "target": "Ernst & Young International"
+    },
+    {
+      "source": "Dallas",
+      "target": "Arthur Andersen"
+    },
+    {
+      "source": "Dallas",
+      "target": "Price Waterhouse"
+    },
+    {
+      "source": "Dallas",
+      "target": "JWT (Thompson)"
+    },
+    {
+      "source": "Dallas",
+      "target": "TMP"
+    },
+    {
+      "source": "Dallas",
+      "target": "Publicis"
+    },
+    {
+      "source": "Dallas",
+      "target": "HSBC"
+    },
+    {
+      "source": "Dallas",
+      "target": "J P Morgan"
+    },
+    {
+      "source": "Dallas",
+      "target": "Compagnie Financi�e de Paribas SA"
+    },
+    {
+      "source": "Dallas",
+      "target": "Baker & McKenzie"
+    },
+    {
+      "source": "Dallas",
+      "target": "Jones, Day, Reavis & Pogue"
+    },
+    {
+      "source": "Dallas",
+      "target": "Wilson, Elser, Moskowitz, Edelman & Dicker"
+    },
+    {
+      "source": "Dusseldorf",
+      "target": "Coopers & Lybrand"
+    },
+    {
+      "source": "Dusseldorf",
+      "target": "Ernst & Young International"
+    },
+    {
+      "source": "Dusseldorf",
+      "target": "Arthur Andersen"
+    },
+    {
+      "source": "Dusseldorf",
+      "target": "Price Waterhouse"
+    },
+    {
+      "source": "Dusseldorf",
+      "target": "Grey Worldwide"
+    },
+    {
+      "source": "Dusseldorf",
+      "target": "DMB&B (MacManus Group)"
+    },
+    {
+      "source": "Dusseldorf",
+      "target": "Lowe Howard -Spink"
+    },
+    {
+      "source": "Dusseldorf",
+      "target": "Dentsu"
+    },
+    {
+      "source": "Dusseldorf",
+      "target": "Publicis"
+    },
+    {
+      "source": "Dusseldorf",
+      "target": "Abbott Mead Vickers (BBDO)"
+    },
+    {
+      "source": "Dusseldorf",
+      "target": "HSBC"
+    },
+    {
+      "source": "Dusseldorf",
+      "target": "Barclays"
+    },
+    {
+      "source": "Dusseldorf",
+      "target": "NatWest Group"
+    },
+    {
+      "source": "Dusseldorf",
+      "target": "ABN-AMRO"
+    },
+    {
+      "source": "Dusseldorf",
+      "target": "Citibank"
+    },
+    {
+      "source": "Dusseldorf",
+      "target": "Clifford Chance"
+    },
+    {
+      "source": "Frankfurt",
+      "target": "Coopers & Lybrand"
+    },
+    {
+      "source": "Frankfurt",
+      "target": "Ernst & Young International"
+    },
+    {
+      "source": "Frankfurt",
+      "target": "Arthur Andersen"
+    },
+    {
+      "source": "Frankfurt",
+      "target": "Price Waterhouse"
+    },
+    {
+      "source": "Frankfurt",
+      "target": "Grey Worldwide"
+    },
+    {
+      "source": "Frankfurt",
+      "target": "DMB&B (MacManus Group)"
+    },
+    {
+      "source": "Frankfurt",
+      "target": "Lowe Howard -Spink"
+    },
+    {
+      "source": "Frankfurt",
+      "target": "Saatchi and Saatchi"
+    },
+    {
+      "source": "Frankfurt",
+      "target": "JWT (Thompson)"
+    },
+    {
+      "source": "Frankfurt",
+      "target": "Ogilvy & Mather Direct Worldwide"
+    },
+    {
+      "source": "Frankfurt",
+      "target": "Young & Rubicam"
+    },
+    {
+      "source": "Frankfurt",
+      "target": "Publicis"
+    },
+    {
+      "source": "Frankfurt",
+      "target": "Abbott Mead Vickers (BBDO)"
+    },
+    {
+      "source": "Frankfurt",
+      "target": "HSBC"
+    },
+    {
+      "source": "Frankfurt",
+      "target": "Barclays"
+    },
+    {
+      "source": "Frankfurt",
+      "target": "NatWest Group"
+    },
+    {
+      "source": "Frankfurt",
+      "target": "Dresdner Bank Group"
+    },
+    {
+      "source": "Frankfurt",
+      "target": "J P Morgan"
+    },
+    {
+      "source": "Frankfurt",
+      "target": "Compagnie Financi�e de Paribas SA"
+    },
+    {
+      "source": "Frankfurt",
+      "target": "Credit Suisse"
+    },
+    {
+      "source": "Frankfurt",
+      "target": "BBV Group"
+    },
+    {
+      "source": "Frankfurt",
+      "target": "Banker's Trust"
+    },
+    {
+      "source": "Frankfurt",
+      "target": "UBS"
+    },
+    {
+      "source": "Frankfurt",
+      "target": "ABN-AMRO"
+    },
+    {
+      "source": "Frankfurt",
+      "target": "Citibank"
+    },
+    {
+      "source": "Frankfurt",
+      "target": "Baker & McKenzie"
+    },
+    {
+      "source": "Frankfurt",
+      "target": "Skadden Arps"
+    },
+    {
+      "source": "Frankfurt",
+      "target": "Jones, Day, Reavis & Pogue"
+    },
+    {
+      "source": "Frankfurt",
+      "target": "Allen & Overy"
+    },
+    {
+      "source": "Frankfurt",
+      "target": "Clifford Chance"
+    },
+    {
+      "source": "Frankfurt",
+      "target": "Freshfields"
+    },
+    {
+      "source": "Geneva",
+      "target": "Coopers & Lybrand"
+    },
+    {
+      "source": "Geneva",
+      "target": "Ernst & Young International"
+    },
+    {
+      "source": "Geneva",
+      "target": "Arthur Andersen"
+    },
+    {
+      "source": "Geneva",
+      "target": "Price Waterhouse"
+    },
+    {
+      "source": "Geneva",
+      "target": "Grey Worldwide"
+    },
+    {
+      "source": "Geneva",
+      "target": "DMB&B (MacManus Group)"
+    },
+    {
+      "source": "Geneva",
+      "target": "Young & Rubicam"
+    },
+    {
+      "source": "Geneva",
+      "target": "HSBC"
+    },
+    {
+      "source": "Geneva",
+      "target": "Barclays"
+    },
+    {
+      "source": "Geneva",
+      "target": "NatWest Group"
+    },
+    {
+      "source": "Geneva",
+      "target": "Dresdner Bank Group"
+    },
+    {
+      "source": "Geneva",
+      "target": "J P Morgan"
+    },
+    {
+      "source": "Geneva",
+      "target": "Compagnie Financi�e de Paribas SA"
+    },
+    {
+      "source": "Geneva",
+      "target": "Banker's Trust"
+    },
+    {
+      "source": "Geneva",
+      "target": "UBS"
+    },
+    {
+      "source": "Geneva",
+      "target": "ABN-AMRO"
+    },
+    {
+      "source": "Geneva",
+      "target": "Baker & McKenzie"
+    },
+    {
+      "source": "Geneva",
+      "target": "Jones, Day, Reavis & Pogue"
+    },
+    {
+      "source": "Hamburg",
+      "target": "Coopers & Lybrand"
+    },
+    {
+      "source": "Hamburg",
+      "target": "Ernst & Young International"
+    },
+    {
+      "source": "Hamburg",
+      "target": "Arthur Andersen"
+    },
+    {
+      "source": "Hamburg",
+      "target": "Price Waterhouse"
+    },
+    {
+      "source": "Hamburg",
+      "target": "Grey Worldwide"
+    },
+    {
+      "source": "Hamburg",
+      "target": "DMB&B (MacManus Group)"
+    },
+    {
+      "source": "Hamburg",
+      "target": "Lowe Howard -Spink"
+    },
+    {
+      "source": "Hamburg",
+      "target": "JWT (Thompson)"
+    },
+    {
+      "source": "Hamburg",
+      "target": "Publicis"
+    },
+    {
+      "source": "Hamburg",
+      "target": "Abbott Mead Vickers (BBDO)"
+    },
+    {
+      "source": "Hamburg",
+      "target": "Barclays"
+    },
+    {
+      "source": "Hamburg",
+      "target": "Dresdner Bank Group"
+    },
+    {
+      "source": "Hamburg",
+      "target": "ABN-AMRO"
+    },
+    {
+      "source": "Hamburg",
+      "target": "Citibank"
+    },
+    {
+      "source": "Hong Kong",
+      "target": "Coopers & Lybrand"
+    },
+    {
+      "source": "Hong Kong",
+      "target": "Ernst & Young International"
+    },
+    {
+      "source": "Hong Kong",
+      "target": "Arthur Andersen"
+    },
+    {
+      "source": "Hong Kong",
+      "target": "Price Waterhouse"
+    },
+    {
+      "source": "Hong Kong",
+      "target": "Grey Worldwide"
+    },
+    {
+      "source": "Hong Kong",
+      "target": "DMB&B (MacManus Group)"
+    },
+    {
+      "source": "Hong Kong",
+      "target": "Lowe Howard -Spink"
+    },
+    {
+      "source": "Hong Kong",
+      "target": "Saatchi and Saatchi"
+    },
+    {
+      "source": "Hong Kong",
+      "target": "JWT (Thompson)"
+    },
+    {
+      "source": "Hong Kong",
+      "target": "Ogilvy & Mather Direct Worldwide"
+    },
+    {
+      "source": "Hong Kong",
+      "target": "Dentsu"
+    },
+    {
+      "source": "Hong Kong",
+      "target": "Young & Rubicam"
+    },
+    {
+      "source": "Hong Kong",
+      "target": "Abbott Mead Vickers (BBDO)"
+    },
+    {
+      "source": "Hong Kong",
+      "target": "HSBC"
+    },
+    {
+      "source": "Hong Kong",
+      "target": "Barclays"
+    },
+    {
+      "source": "Hong Kong",
+      "target": "NatWest Group"
+    },
+    {
+      "source": "Hong Kong",
+      "target": "Standard Chartered Group"
+    },
+    {
+      "source": "Hong Kong",
+      "target": "Creditanstalt-Bankverein"
+    },
+    {
+      "source": "Hong Kong",
+      "target": "Dresdner Bank Group"
+    },
+    {
+      "source": "Hong Kong",
+      "target": "J P Morgan"
+    },
+    {
+      "source": "Hong Kong",
+      "target": "Compagnie Financi�e de Paribas SA"
+    },
+    {
+      "source": "Hong Kong",
+      "target": "Credit Suisse"
+    },
+    {
+      "source": "Hong Kong",
+      "target": "Banker's Trust"
+    },
+    {
+      "source": "Hong Kong",
+      "target": "UBS"
+    },
+    {
+      "source": "Hong Kong",
+      "target": "ABN-AMRO"
+    },
+    {
+      "source": "Hong Kong",
+      "target": "Citibank"
+    },
+    {
+      "source": "Hong Kong",
+      "target": "Baker & McKenzie"
+    },
+    {
+      "source": "Hong Kong",
+      "target": "White & Case"
+    },
+    {
+      "source": "Hong Kong",
+      "target": "Coudert Brothers"
+    },
+    {
+      "source": "Hong Kong",
+      "target": "Skadden Arps"
+    },
+    {
+      "source": "Hong Kong",
+      "target": "Bryan Cave"
+    },
+    {
+      "source": "Hong Kong",
+      "target": "Dorsey & Whitney"
+    },
+    {
+      "source": "Hong Kong",
+      "target": "Graham & James"
+    },
+    {
+      "source": "Hong Kong",
+      "target": "Jones, Day, Reavis & Pogue"
+    },
+    {
+      "source": "Hong Kong",
+      "target": "Allen & Overy"
+    },
+    {
+      "source": "Hong Kong",
+      "target": "Clifford Chance"
+    },
+    {
+      "source": "Hong Kong",
+      "target": "Freshfields"
+    },
+    {
+      "source": "Houston",
+      "target": "Coopers & Lybrand"
+    },
+    {
+      "source": "Houston",
+      "target": "Ernst & Young International"
+    },
+    {
+      "source": "Houston",
+      "target": "Arthur Andersen"
+    },
+    {
+      "source": "Houston",
+      "target": "Price Waterhouse"
+    },
+    {
+      "source": "Houston",
+      "target": "JWT (Thompson)"
+    },
+    {
+      "source": "Houston",
+      "target": "HSBC"
+    },
+    {
+      "source": "Houston",
+      "target": "NatWest Group"
+    },
+    {
+      "source": "Houston",
+      "target": "J P Morgan"
+    },
+    {
+      "source": "Houston",
+      "target": "Compagnie Financi�e de Paribas SA"
+    },
+    {
+      "source": "Houston",
+      "target": "Credit Suisse"
+    },
+    {
+      "source": "Houston",
+      "target": "Banker's Trust"
+    },
+    {
+      "source": "Houston",
+      "target": "UBS"
+    },
+    {
+      "source": "Houston",
+      "target": "ABN-AMRO"
+    },
+    {
+      "source": "Houston",
+      "target": "Baker & McKenzie"
+    },
+    {
+      "source": "Houston",
+      "target": "Skadden Arps"
+    },
+    {
+      "source": "Houston",
+      "target": "Squire, Sanders & Dempsey"
+    },
+    {
+      "source": "Houston",
+      "target": "Wilson, Elser, Moskowitz, Edelman & Dicker"
+    },
+    {
+      "source": "Istanbul",
+      "target": "Coopers & Lybrand"
+    },
+    {
+      "source": "Istanbul",
+      "target": "Ernst & Young International"
+    },
+    {
+      "source": "Istanbul",
+      "target": "Arthur Andersen"
+    },
+    {
+      "source": "Istanbul",
+      "target": "Price Waterhouse"
+    },
+    {
+      "source": "Istanbul",
+      "target": "DMB&B (MacManus Group)"
+    },
+    {
+      "source": "Istanbul",
+      "target": "Lowe Howard -Spink"
+    },
+    {
+      "source": "Istanbul",
+      "target": "Saatchi and Saatchi"
+    },
+    {
+      "source": "Istanbul",
+      "target": "JWT (Thompson)"
+    },
+    {
+      "source": "Istanbul",
+      "target": "Ogilvy & Mather Direct Worldwide"
+    },
+    {
+      "source": "Istanbul",
+      "target": "Dentsu"
+    },
+    {
+      "source": "Istanbul",
+      "target": "Young & Rubicam"
+    },
+    {
+      "source": "Istanbul",
+      "target": "Publicis"
+    },
+    {
+      "source": "Istanbul",
+      "target": "Abbott Mead Vickers (BBDO)"
+    },
+    {
+      "source": "Istanbul",
+      "target": "HSBC"
+    },
+    {
+      "source": "Istanbul",
+      "target": "Creditanstalt-Bankverein"
+    },
+    {
+      "source": "Istanbul",
+      "target": "Compagnie Financi�e de Paribas SA"
+    },
+    {
+      "source": "Istanbul",
+      "target": "Banker's Trust"
+    },
+    {
+      "source": "Istanbul",
+      "target": "ABN-AMRO"
+    },
+    {
+      "source": "Istanbul",
+      "target": "Citibank"
+    },
+    {
+      "source": "Istanbul",
+      "target": "White & Case"
+    },
+    {
+      "source": "Istanbul",
+      "target": "Skadden Arps"
+    },
+    {
+      "source": "Jakarta",
+      "target": "Coopers & Lybrand"
+    },
+    {
+      "source": "Jakarta",
+      "target": "Ernst & Young International"
+    },
+    {
+      "source": "Jakarta",
+      "target": "Arthur Andersen"
+    },
+    {
+      "source": "Jakarta",
+      "target": "Price Waterhouse"
+    },
+    {
+      "source": "Jakarta",
+      "target": "DMB&B (MacManus Group)"
+    },
+    {
+      "source": "Jakarta",
+      "target": "Saatchi and Saatchi"
+    },
+    {
+      "source": "Jakarta",
+      "target": "JWT (Thompson)"
+    },
+    {
+      "source": "Jakarta",
+      "target": "Ogilvy & Mather Direct Worldwide"
+    },
+    {
+      "source": "Jakarta",
+      "target": "Dentsu"
+    },
+    {
+      "source": "Jakarta",
+      "target": "Publicis"
+    },
+    {
+      "source": "Jakarta",
+      "target": "Abbott Mead Vickers (BBDO)"
+    },
+    {
+      "source": "Jakarta",
+      "target": "HSBC"
+    },
+    {
+      "source": "Jakarta",
+      "target": "Barclays"
+    },
+    {
+      "source": "Jakarta",
+      "target": "NatWest Group"
+    },
+    {
+      "source": "Jakarta",
+      "target": "Standard Chartered Group"
+    },
+    {
+      "source": "Jakarta",
+      "target": "J P Morgan"
+    },
+    {
+      "source": "Jakarta",
+      "target": "Compagnie Financi�e de Paribas SA"
+    },
+    {
+      "source": "Jakarta",
+      "target": "BBV Group"
+    },
+    {
+      "source": "Jakarta",
+      "target": "Banker's Trust"
+    },
+    {
+      "source": "Jakarta",
+      "target": "ABN-AMRO"
+    },
+    {
+      "source": "Jakarta",
+      "target": "Citibank"
+    },
+    {
+      "source": "Jakarta",
+      "target": "Baker & McKenzie"
+    },
+    {
+      "source": "Jakarta",
+      "target": "White & Case"
+    },
+    {
+      "source": "Johannesburg",
+      "target": "Coopers & Lybrand"
+    },
+    {
+      "source": "Johannesburg",
+      "target": "Ernst & Young International"
+    },
+    {
+      "source": "Johannesburg",
+      "target": "Arthur Andersen"
+    },
+    {
+      "source": "Johannesburg",
+      "target": "Price Waterhouse"
+    },
+    {
+      "source": "Johannesburg",
+      "target": "DMB&B (MacManus Group)"
+    },
+    {
+      "source": "Johannesburg",
+      "target": "Saatchi and Saatchi"
+    },
+    {
+      "source": "Johannesburg",
+      "target": "JWT (Thompson)"
+    },
+    {
+      "source": "Johannesburg",
+      "target": "Ogilvy & Mather Direct Worldwide"
+    },
+    {
+      "source": "Johannesburg",
+      "target": "Young & Rubicam"
+    },
+    {
+      "source": "Johannesburg",
+      "target": "Publicis"
+    },
+    {
+      "source": "Johannesburg",
+      "target": "Abbott Mead Vickers (BBDO)"
+    },
+    {
+      "source": "Johannesburg",
+      "target": "HSBC"
+    },
+    {
+      "source": "Johannesburg",
+      "target": "NatWest Group"
+    },
+    {
+      "source": "Johannesburg",
+      "target": "Standard Chartered Group"
+    },
+    {
+      "source": "Johannesburg",
+      "target": "Creditanstalt-Bankverein"
+    },
+    {
+      "source": "Johannesburg",
+      "target": "J P Morgan"
+    },
+    {
+      "source": "Johannesburg",
+      "target": "Compagnie Financi�e de Paribas SA"
+    },
+    {
+      "source": "Johannesburg",
+      "target": "Banker's Trust"
+    },
+    {
+      "source": "Johannesburg",
+      "target": "UBS"
+    },
+    {
+      "source": "Johannesburg",
+      "target": "ABN-AMRO"
+    },
+    {
+      "source": "Johannesburg",
+      "target": "White & Case"
+    },
+    {
+      "source": "Kuala Lumpur",
+      "target": "Coopers & Lybrand"
+    },
+    {
+      "source": "Kuala Lumpur",
+      "target": "Ernst & Young International"
+    },
+    {
+      "source": "Kuala Lumpur",
+      "target": "Arthur Andersen"
+    },
+    {
+      "source": "Kuala Lumpur",
+      "target": "Price Waterhouse"
+    },
+    {
+      "source": "Kuala Lumpur",
+      "target": "Grey Worldwide"
+    },
+    {
+      "source": "Kuala Lumpur",
+      "target": "DMB&B (MacManus Group)"
+    },
+    {
+      "source": "Kuala Lumpur",
+      "target": "Saatchi and Saatchi"
+    },
+    {
+      "source": "Kuala Lumpur",
+      "target": "JWT (Thompson)"
+    },
+    {
+      "source": "Kuala Lumpur",
+      "target": "Ogilvy & Mather Direct Worldwide"
+    },
+    {
+      "source": "Kuala Lumpur",
+      "target": "Dentsu"
+    },
+    {
+      "source": "Kuala Lumpur",
+      "target": "Abbott Mead Vickers (BBDO)"
+    },
+    {
+      "source": "Kuala Lumpur",
+      "target": "HSBC"
+    },
+    {
+      "source": "Kuala Lumpur",
+      "target": "Barclays"
+    },
+    {
+      "source": "Kuala Lumpur",
+      "target": "NatWest Group"
+    },
+    {
+      "source": "Kuala Lumpur",
+      "target": "Standard Chartered Group"
+    },
+    {
+      "source": "Kuala Lumpur",
+      "target": "Compagnie Financi�e de Paribas SA"
+    },
+    {
+      "source": "Kuala Lumpur",
+      "target": "Credit Suisse"
+    },
+    {
+      "source": "Kuala Lumpur",
+      "target": "Banker's Trust"
+    },
+    {
+      "source": "Kuala Lumpur",
+      "target": "UBS"
+    },
+    {
+      "source": "Kuala Lumpur",
+      "target": "ABN-AMRO"
+    },
+    {
+      "source": "Kuala Lumpur",
+      "target": "Citibank"
+    },
+    {
+      "source": "London",
+      "target": "Coopers & Lybrand"
+    },
+    {
+      "source": "London",
+      "target": "Ernst & Young International"
+    },
+    {
+      "source": "London",
+      "target": "Arthur Andersen"
+    },
+    {
+      "source": "London",
+      "target": "Price Waterhouse"
+    },
+    {
+      "source": "London",
+      "target": "Grey Worldwide"
+    },
+    {
+      "source": "London",
+      "target": "DMB&B (MacManus Group)"
+    },
+    {
+      "source": "London",
+      "target": "Lowe Howard -Spink"
+    },
+    {
+      "source": "London",
+      "target": "Saatchi and Saatchi"
+    },
+    {
+      "source": "London",
+      "target": "JWT (Thompson)"
+    },
+    {
+      "source": "London",
+      "target": "Ogilvy & Mather Direct Worldwide"
+    },
+    {
+      "source": "London",
+      "target": "Dentsu"
+    },
+    {
+      "source": "London",
+      "target": "Young & Rubicam"
+    },
+    {
+      "source": "London",
+      "target": "TMP"
+    },
+    {
+      "source": "London",
+      "target": "Publicis"
+    },
+    {
+      "source": "London",
+      "target": "Abbott Mead Vickers (BBDO)"
+    },
+    {
+      "source": "London",
+      "target": "HSBC"
+    },
+    {
+      "source": "London",
+      "target": "Barclays"
+    },
+    {
+      "source": "London",
+      "target": "NatWest Group"
+    },
+    {
+      "source": "London",
+      "target": "Standard Chartered Group"
+    },
+    {
+      "source": "London",
+      "target": "Creditanstalt-Bankverein"
+    },
+    {
+      "source": "London",
+      "target": "Dresdner Bank Group"
+    },
+    {
+      "source": "London",
+      "target": "J P Morgan"
+    },
+    {
+      "source": "London",
+      "target": "Compagnie Financi�e de Paribas SA"
+    },
+    {
+      "source": "London",
+      "target": "Credit Suisse"
+    },
+    {
+      "source": "London",
+      "target": "BBV Group"
+    },
+    {
+      "source": "London",
+      "target": "Banker's Trust"
+    },
+    {
+      "source": "London",
+      "target": "UBS"
+    },
+    {
+      "source": "London",
+      "target": "ABN-AMRO"
+    },
+    {
+      "source": "London",
+      "target": "Citibank"
+    },
+    {
+      "source": "London",
+      "target": "Baker & McKenzie"
+    },
+    {
+      "source": "London",
+      "target": "White & Case"
+    },
+    {
+      "source": "London",
+      "target": "Leboeuf, Lamb, Greene & MacRae"
+    },
+    {
+      "source": "London",
+      "target": "Coudert Brothers"
+    },
+    {
+      "source": "London",
+      "target": "Skadden Arps"
+    },
+    {
+      "source": "London",
+      "target": "Bryan Cave"
+    },
+    {
+      "source": "London",
+      "target": "Dorsey & Whitney"
+    },
+    {
+      "source": "London",
+      "target": "Graham & James"
+    },
+    {
+      "source": "London",
+      "target": "Hogan & Hartson"
+    },
+    {
+      "source": "London",
+      "target": "Jones, Day, Reavis & Pogue"
+    },
+    {
+      "source": "London",
+      "target": "Squire, Sanders & Dempsey"
+    },
+    {
+      "source": "London",
+      "target": "Wilson, Elser, Moskowitz, Edelman & Dicker"
+    },
+    {
+      "source": "London",
+      "target": "Allen & Overy"
+    },
+    {
+      "source": "London",
+      "target": "Clifford Chance"
+    },
+    {
+      "source": "London",
+      "target": "Freshfields"
+    },
+    {
+      "source": "Los Angeles",
+      "target": "Coopers & Lybrand"
+    },
+    {
+      "source": "Los Angeles",
+      "target": "Ernst & Young International"
+    },
+    {
+      "source": "Los Angeles",
+      "target": "Arthur Andersen"
+    },
+    {
+      "source": "Los Angeles",
+      "target": "Price Waterhouse"
+    },
+    {
+      "source": "Los Angeles",
+      "target": "Grey Worldwide"
+    },
+    {
+      "source": "Los Angeles",
+      "target": "DMB&B (MacManus Group)"
+    },
+    {
+      "source": "Los Angeles",
+      "target": "Saatchi and Saatchi"
+    },
+    {
+      "source": "Los Angeles",
+      "target": "JWT (Thompson)"
+    },
+    {
+      "source": "Los Angeles",
+      "target": "Ogilvy & Mather Direct Worldwide"
+    },
+    {
+      "source": "Los Angeles",
+      "target": "Dentsu"
+    },
+    {
+      "source": "Los Angeles",
+      "target": "Young & Rubicam"
+    },
+    {
+      "source": "Los Angeles",
+      "target": "TMP"
+    },
+    {
+      "source": "Los Angeles",
+      "target": "Abbott Mead Vickers (BBDO)"
+    },
+    {
+      "source": "Los Angeles",
+      "target": "HSBC"
+    },
+    {
+      "source": "Los Angeles",
+      "target": "NatWest Group"
+    },
+    {
+      "source": "Los Angeles",
+      "target": "Standard Chartered Group"
+    },
+    {
+      "source": "Los Angeles",
+      "target": "J P Morgan"
+    },
+    {
+      "source": "Los Angeles",
+      "target": "Compagnie Financi�e de Paribas SA"
+    },
+    {
+      "source": "Los Angeles",
+      "target": "Credit Suisse"
+    },
+    {
+      "source": "Los Angeles",
+      "target": "Banker's Trust"
+    },
+    {
+      "source": "Los Angeles",
+      "target": "UBS"
+    },
+    {
+      "source": "Los Angeles",
+      "target": "ABN-AMRO"
+    },
+    {
+      "source": "Los Angeles",
+      "target": "Citibank"
+    },
+    {
+      "source": "Los Angeles",
+      "target": "White & Case"
+    },
+    {
+      "source": "Los Angeles",
+      "target": "Leboeuf, Lamb, Greene & MacRae"
+    },
+    {
+      "source": "Los Angeles",
+      "target": "Coudert Brothers"
+    },
+    {
+      "source": "Los Angeles",
+      "target": "Skadden Arps"
+    },
+    {
+      "source": "Los Angeles",
+      "target": "Bryan Cave"
+    },
+    {
+      "source": "Los Angeles",
+      "target": "Graham & James"
+    },
+    {
+      "source": "Los Angeles",
+      "target": "Hogan & Hartson"
+    },
+    {
+      "source": "Los Angeles",
+      "target": "Jones, Day, Reavis & Pogue"
+    },
+    {
+      "source": "Los Angeles",
+      "target": "Wilson, Elser, Moskowitz, Edelman & Dicker"
+    },
+    {
+      "source": "Madrid",
+      "target": "Coopers & Lybrand"
+    },
+    {
+      "source": "Madrid",
+      "target": "Ernst & Young International"
+    },
+    {
+      "source": "Madrid",
+      "target": "Arthur Andersen"
+    },
+    {
+      "source": "Madrid",
+      "target": "Price Waterhouse"
+    },
+    {
+      "source": "Madrid",
+      "target": "Grey Worldwide"
+    },
+    {
+      "source": "Madrid",
+      "target": "DMB&B (MacManus Group)"
+    },
+    {
+      "source": "Madrid",
+      "target": "Lowe Howard -Spink"
+    },
+    {
+      "source": "Madrid",
+      "target": "Saatchi and Saatchi"
+    },
+    {
+      "source": "Madrid",
+      "target": "JWT (Thompson)"
+    },
+    {
+      "source": "Madrid",
+      "target": "Ogilvy & Mather Direct Worldwide"
+    },
+    {
+      "source": "Madrid",
+      "target": "Dentsu"
+    },
+    {
+      "source": "Madrid",
+      "target": "Young & Rubicam"
+    },
+    {
+      "source": "Madrid",
+      "target": "TMP"
+    },
+    {
+      "source": "Madrid",
+      "target": "Publicis"
+    },
+    {
+      "source": "Madrid",
+      "target": "Abbott Mead Vickers (BBDO)"
+    },
+    {
+      "source": "Madrid",
+      "target": "HSBC"
+    },
+    {
+      "source": "Madrid",
+      "target": "Barclays"
+    },
+    {
+      "source": "Madrid",
+      "target": "J P Morgan"
+    },
+    {
+      "source": "Madrid",
+      "target": "Compagnie Financi�e de Paribas SA"
+    },
+    {
+      "source": "Madrid",
+      "target": "Credit Suisse"
+    },
+    {
+      "source": "Madrid",
+      "target": "BBV Group"
+    },
+    {
+      "source": "Madrid",
+      "target": "Banker's Trust"
+    },
+    {
+      "source": "Madrid",
+      "target": "UBS"
+    },
+    {
+      "source": "Madrid",
+      "target": "ABN-AMRO"
+    },
+    {
+      "source": "Madrid",
+      "target": "Citibank"
+    },
+    {
+      "source": "Madrid",
+      "target": "Baker & McKenzie"
+    },
+    {
+      "source": "Madrid",
+      "target": "Allen & Overy"
+    },
+    {
+      "source": "Madrid",
+      "target": "Clifford Chance"
+    },
+    {
+      "source": "Madrid",
+      "target": "Freshfields"
+    },
+    {
+      "source": "Manila",
+      "target": "Coopers & Lybrand"
+    },
+    {
+      "source": "Manila",
+      "target": "Ernst & Young International"
+    },
+    {
+      "source": "Manila",
+      "target": "Arthur Andersen"
+    },
+    {
+      "source": "Manila",
+      "target": "Price Waterhouse"
+    },
+    {
+      "source": "Manila",
+      "target": "Grey Worldwide"
+    },
+    {
+      "source": "Manila",
+      "target": "DMB&B (MacManus Group)"
+    },
+    {
+      "source": "Manila",
+      "target": "Saatchi and Saatchi"
+    },
+    {
+      "source": "Manila",
+      "target": "JWT (Thompson)"
+    },
+    {
+      "source": "Manila",
+      "target": "Ogilvy & Mather Direct Worldwide"
+    },
+    {
+      "source": "Manila",
+      "target": "Dentsu"
+    },
+    {
+      "source": "Manila",
+      "target": "Publicis"
+    },
+    {
+      "source": "Manila",
+      "target": "Abbott Mead Vickers (BBDO)"
+    },
+    {
+      "source": "Manila",
+      "target": "HSBC"
+    },
+    {
+      "source": "Manila",
+      "target": "Barclays"
+    },
+    {
+      "source": "Manila",
+      "target": "NatWest Group"
+    },
+    {
+      "source": "Manila",
+      "target": "Standard Chartered Group"
+    },
+    {
+      "source": "Manila",
+      "target": "J P Morgan"
+    },
+    {
+      "source": "Manila",
+      "target": "Compagnie Financi�e de Paribas SA"
+    },
+    {
+      "source": "Manila",
+      "target": "Banker's Trust"
+    },
+    {
+      "source": "Manila",
+      "target": "UBS"
+    },
+    {
+      "source": "Manila",
+      "target": "ABN-AMRO"
+    },
+    {
+      "source": "Manila",
+      "target": "Citibank"
+    },
+    {
+      "source": "Manila",
+      "target": "Baker & McKenzie"
+    },
+    {
+      "source": "Melbourne",
+      "target": "Coopers & Lybrand"
+    },
+    {
+      "source": "Melbourne",
+      "target": "Ernst & Young International"
+    },
+    {
+      "source": "Melbourne",
+      "target": "Arthur Andersen"
+    },
+    {
+      "source": "Melbourne",
+      "target": "Price Waterhouse"
+    },
+    {
+      "source": "Melbourne",
+      "target": "Grey Worldwide"
+    },
+    {
+      "source": "Melbourne",
+      "target": "Saatchi and Saatchi"
+    },
+    {
+      "source": "Melbourne",
+      "target": "JWT (Thompson)"
+    },
+    {
+      "source": "Melbourne",
+      "target": "Dentsu"
+    },
+    {
+      "source": "Melbourne",
+      "target": "Young & Rubicam"
+    },
+    {
+      "source": "Melbourne",
+      "target": "TMP"
+    },
+    {
+      "source": "Melbourne",
+      "target": "Publicis"
+    },
+    {
+      "source": "Melbourne",
+      "target": "Abbott Mead Vickers (BBDO)"
+    },
+    {
+      "source": "Melbourne",
+      "target": "HSBC"
+    },
+    {
+      "source": "Melbourne",
+      "target": "Barclays"
+    },
+    {
+      "source": "Melbourne",
+      "target": "NatWest Group"
+    },
+    {
+      "source": "Melbourne",
+      "target": "Standard Chartered Group"
+    },
+    {
+      "source": "Melbourne",
+      "target": "J P Morgan"
+    },
+    {
+      "source": "Melbourne",
+      "target": "Credit Suisse"
+    },
+    {
+      "source": "Melbourne",
+      "target": "ABN-AMRO"
+    },
+    {
+      "source": "Melbourne",
+      "target": "Citibank"
+    },
+    {
+      "source": "Melbourne",
+      "target": "Baker & McKenzie"
+    },
+    {
+      "source": "Mexico City",
+      "target": "Coopers & Lybrand"
+    },
+    {
+      "source": "Mexico City",
+      "target": "Ernst & Young International"
+    },
+    {
+      "source": "Mexico City",
+      "target": "Arthur Andersen"
+    },
+    {
+      "source": "Mexico City",
+      "target": "Price Waterhouse"
+    },
+    {
+      "source": "Mexico City",
+      "target": "Grey Worldwide"
+    },
+    {
+      "source": "Mexico City",
+      "target": "DMB&B (MacManus Group)"
+    },
+    {
+      "source": "Mexico City",
+      "target": "Lowe Howard -Spink"
+    },
+    {
+      "source": "Mexico City",
+      "target": "Saatchi and Saatchi"
+    },
+    {
+      "source": "Mexico City",
+      "target": "JWT (Thompson)"
+    },
+    {
+      "source": "Mexico City",
+      "target": "Ogilvy & Mather Direct Worldwide"
+    },
+    {
+      "source": "Mexico City",
+      "target": "Young & Rubicam"
+    },
+    {
+      "source": "Mexico City",
+      "target": "Publicis"
+    },
+    {
+      "source": "Mexico City",
+      "target": "Abbott Mead Vickers (BBDO)"
+    },
+    {
+      "source": "Mexico City",
+      "target": "HSBC"
+    },
+    {
+      "source": "Mexico City",
+      "target": "Barclays"
+    },
+    {
+      "source": "Mexico City",
+      "target": "NatWest Group"
+    },
+    {
+      "source": "Mexico City",
+      "target": "Standard Chartered Group"
+    },
+    {
+      "source": "Mexico City",
+      "target": "Dresdner Bank Group"
+    },
+    {
+      "source": "Mexico City",
+      "target": "J P Morgan"
+    },
+    {
+      "source": "Mexico City",
+      "target": "Compagnie Financi�e de Paribas SA"
+    },
+    {
+      "source": "Mexico City",
+      "target": "Credit Suisse"
+    },
+    {
+      "source": "Mexico City",
+      "target": "BBV Group"
+    },
+    {
+      "source": "Mexico City",
+      "target": "Banker's Trust"
+    },
+    {
+      "source": "Mexico City",
+      "target": "UBS"
+    },
+    {
+      "source": "Mexico City",
+      "target": "ABN-AMRO"
+    },
+    {
+      "source": "Mexico City",
+      "target": "Citibank"
+    },
+    {
+      "source": "Mexico City",
+      "target": "Baker & McKenzie"
+    },
+    {
+      "source": "Mexico City",
+      "target": "White & Case"
+    },
+    {
+      "source": "Miami",
+      "target": "Coopers & Lybrand"
+    },
+    {
+      "source": "Miami",
+      "target": "Ernst & Young International"
+    },
+    {
+      "source": "Miami",
+      "target": "Arthur Andersen"
+    },
+    {
+      "source": "Miami",
+      "target": "Price Waterhouse"
+    },
+    {
+      "source": "Miami",
+      "target": "Saatchi and Saatchi"
+    },
+    {
+      "source": "Miami",
+      "target": "JWT (Thompson)"
+    },
+    {
+      "source": "Miami",
+      "target": "Ogilvy & Mather Direct Worldwide"
+    },
+    {
+      "source": "Miami",
+      "target": "Young & Rubicam"
+    },
+    {
+      "source": "Miami",
+      "target": "TMP"
+    },
+    {
+      "source": "Miami",
+      "target": "Abbott Mead Vickers (BBDO)"
+    },
+    {
+      "source": "Miami",
+      "target": "NatWest Group"
+    },
+    {
+      "source": "Miami",
+      "target": "Standard Chartered Group"
+    },
+    {
+      "source": "Miami",
+      "target": "Credit Suisse"
+    },
+    {
+      "source": "Miami",
+      "target": "BBV Group"
+    },
+    {
+      "source": "Miami",
+      "target": "Banker's Trust"
+    },
+    {
+      "source": "Miami",
+      "target": "Citibank"
+    },
+    {
+      "source": "Miami",
+      "target": "Baker & McKenzie"
+    },
+    {
+      "source": "Miami",
+      "target": "White & Case"
+    },
+    {
+      "source": "Miami",
+      "target": "Squire, Sanders & Dempsey"
+    },
+    {
+      "source": "Miami",
+      "target": "Wilson, Elser, Moskowitz, Edelman & Dicker"
+    },
+    {
+      "source": "Milan",
+      "target": "Coopers & Lybrand"
+    },
+    {
+      "source": "Milan",
+      "target": "Ernst & Young International"
+    },
+    {
+      "source": "Milan",
+      "target": "Arthur Andersen"
+    },
+    {
+      "source": "Milan",
+      "target": "Price Waterhouse"
+    },
+    {
+      "source": "Milan",
+      "target": "Grey Worldwide"
+    },
+    {
+      "source": "Milan",
+      "target": "DMB&B (MacManus Group)"
+    },
+    {
+      "source": "Milan",
+      "target": "Lowe Howard -Spink"
+    },
+    {
+      "source": "Milan",
+      "target": "JWT (Thompson)"
+    },
+    {
+      "source": "Milan",
+      "target": "Ogilvy & Mather Direct Worldwide"
+    },
+    {
+      "source": "Milan",
+      "target": "Dentsu"
+    },
+    {
+      "source": "Milan",
+      "target": "Young & Rubicam"
+    },
+    {
+      "source": "Milan",
+      "target": "TMP"
+    },
+    {
+      "source": "Milan",
+      "target": "Publicis"
+    },
+    {
+      "source": "Milan",
+      "target": "Abbott Mead Vickers (BBDO)"
+    },
+    {
+      "source": "Milan",
+      "target": "HSBC"
+    },
+    {
+      "source": "Milan",
+      "target": "Barclays"
+    },
+    {
+      "source": "Milan",
+      "target": "NatWest Group"
+    },
+    {
+      "source": "Milan",
+      "target": "Creditanstalt-Bankverein"
+    },
+    {
+      "source": "Milan",
+      "target": "Dresdner Bank Group"
+    },
+    {
+      "source": "Milan",
+      "target": "J P Morgan"
+    },
+    {
+      "source": "Milan",
+      "target": "Compagnie Financi�e de Paribas SA"
+    },
+    {
+      "source": "Milan",
+      "target": "Credit Suisse"
+    },
+    {
+      "source": "Milan",
+      "target": "BBV Group"
+    },
+    {
+      "source": "Milan",
+      "target": "Banker's Trust"
+    },
+    {
+      "source": "Milan",
+      "target": "UBS"
+    },
+    {
+      "source": "Milan",
+      "target": "ABN-AMRO"
+    },
+    {
+      "source": "Milan",
+      "target": "Baker & McKenzie"
+    },
+    {
+      "source": "Milan",
+      "target": "Graham & James"
+    },
+    {
+      "source": "Milan",
+      "target": "Allen & Overy"
+    },
+    {
+      "source": "Milan",
+      "target": "Clifford Chance"
+    },
+    {
+      "source": "Milan",
+      "target": "Freshfields"
+    },
+    {
+      "source": "Minneapolis",
+      "target": "Coopers & Lybrand"
+    },
+    {
+      "source": "Minneapolis",
+      "target": "Ernst & Young International"
+    },
+    {
+      "source": "Minneapolis",
+      "target": "Arthur Andersen"
+    },
+    {
+      "source": "Minneapolis",
+      "target": "Price Waterhouse"
+    },
+    {
+      "source": "Minneapolis",
+      "target": "JWT (Thompson)"
+    },
+    {
+      "source": "Minneapolis",
+      "target": "TMP"
+    },
+    {
+      "source": "Minneapolis",
+      "target": "Abbott Mead Vickers (BBDO)"
+    },
+    {
+      "source": "Minneapolis",
+      "target": "Dorsey & Whitney"
+    },
+    {
+      "source": "Montreal",
+      "target": "Coopers & Lybrand"
+    },
+    {
+      "source": "Montreal",
+      "target": "Ernst & Young International"
+    },
+    {
+      "source": "Montreal",
+      "target": "Arthur Andersen"
+    },
+    {
+      "source": "Montreal",
+      "target": "Price Waterhouse"
+    },
+    {
+      "source": "Montreal",
+      "target": "Grey Worldwide"
+    },
+    {
+      "source": "Montreal",
+      "target": "DMB&B (MacManus Group)"
+    },
+    {
+      "source": "Montreal",
+      "target": "JWT (Thompson)"
+    },
+    {
+      "source": "Montreal",
+      "target": "Young & Rubicam"
+    },
+    {
+      "source": "Montreal",
+      "target": "TMP"
+    },
+    {
+      "source": "Montreal",
+      "target": "Publicis"
+    },
+    {
+      "source": "Montreal",
+      "target": "Abbott Mead Vickers (BBDO)"
+    },
+    {
+      "source": "Montreal",
+      "target": "HSBC"
+    },
+    {
+      "source": "Montreal",
+      "target": "Barclays"
+    },
+    {
+      "source": "Montreal",
+      "target": "NatWest Group"
+    },
+    {
+      "source": "Montreal",
+      "target": "J P Morgan"
+    },
+    {
+      "source": "Montreal",
+      "target": "Credit Suisse"
+    },
+    {
+      "source": "Montreal",
+      "target": "Banker's Trust"
+    },
+    {
+      "source": "Montreal",
+      "target": "UBS"
+    },
+    {
+      "source": "Moscow",
+      "target": "Coopers & Lybrand"
+    },
+    {
+      "source": "Moscow",
+      "target": "Ernst & Young International"
+    },
+    {
+      "source": "Moscow",
+      "target": "Arthur Andersen"
+    },
+    {
+      "source": "Moscow",
+      "target": "Price Waterhouse"
+    },
+    {
+      "source": "Moscow",
+      "target": "DMB&B (MacManus Group)"
+    },
+    {
+      "source": "Moscow",
+      "target": "Lowe Howard -Spink"
+    },
+    {
+      "source": "Moscow",
+      "target": "Saatchi and Saatchi"
+    },
+    {
+      "source": "Moscow",
+      "target": "JWT (Thompson)"
+    },
+    {
+      "source": "Moscow",
+      "target": "Dentsu"
+    },
+    {
+      "source": "Moscow",
+      "target": "Young & Rubicam"
+    },
+    {
+      "source": "Moscow",
+      "target": "Publicis"
+    },
+    {
+      "source": "Moscow",
+      "target": "Abbott Mead Vickers (BBDO)"
+    },
+    {
+      "source": "Moscow",
+      "target": "HSBC"
+    },
+    {
+      "source": "Moscow",
+      "target": "Barclays"
+    },
+    {
+      "source": "Moscow",
+      "target": "NatWest Group"
+    },
+    {
+      "source": "Moscow",
+      "target": "Creditanstalt-Bankverein"
+    },
+    {
+      "source": "Moscow",
+      "target": "J P Morgan"
+    },
+    {
+      "source": "Moscow",
+      "target": "Compagnie Financi�e de Paribas SA"
+    },
+    {
+      "source": "Moscow",
+      "target": "Credit Suisse"
+    },
+    {
+      "source": "Moscow",
+      "target": "BBV Group"
+    },
+    {
+      "source": "Moscow",
+      "target": "ABN-AMRO"
+    },
+    {
+      "source": "Moscow",
+      "target": "Baker & McKenzie"
+    },
+    {
+      "source": "Moscow",
+      "target": "White & Case"
+    },
+    {
+      "source": "Moscow",
+      "target": "Leboeuf, Lamb, Greene & MacRae"
+    },
+    {
+      "source": "Moscow",
+      "target": "Coudert Brothers"
+    },
+    {
+      "source": "Moscow",
+      "target": "Skadden Arps"
+    },
+    {
+      "source": "Moscow",
+      "target": "Hogan & Hartson"
+    },
+    {
+      "source": "Moscow",
+      "target": "Allen & Overy"
+    },
+    {
+      "source": "Moscow",
+      "target": "Clifford Chance"
+    },
+    {
+      "source": "Moscow",
+      "target": "Freshfields"
+    },
+    {
+      "source": "Munich",
+      "target": "Coopers & Lybrand"
+    },
+    {
+      "source": "Munich",
+      "target": "Ernst & Young International"
+    },
+    {
+      "source": "Munich",
+      "target": "Arthur Andersen"
+    },
+    {
+      "source": "Munich",
+      "target": "Price Waterhouse"
+    },
+    {
+      "source": "Munich",
+      "target": "Publicis"
+    },
+    {
+      "source": "Munich",
+      "target": "Abbott Mead Vickers (BBDO)"
+    },
+    {
+      "source": "Munich",
+      "target": "Barclays"
+    },
+    {
+      "source": "Munich",
+      "target": "NatWest Group"
+    },
+    {
+      "source": "Munich",
+      "target": "Creditanstalt-Bankverein"
+    },
+    {
+      "source": "Munich",
+      "target": "Dresdner Bank Group"
+    },
+    {
+      "source": "Munich",
+      "target": "Credit Suisse"
+    },
+    {
+      "source": "Munich",
+      "target": "ABN-AMRO"
+    },
+    {
+      "source": "Munich",
+      "target": "Citibank"
+    },
+    {
+      "source": "Munich",
+      "target": "Baker & McKenzie"
+    },
+    {
+      "source": "New York",
+      "target": "Coopers & Lybrand"
+    },
+    {
+      "source": "New York",
+      "target": "Ernst & Young International"
+    },
+    {
+      "source": "New York",
+      "target": "Arthur Andersen"
+    },
+    {
+      "source": "New York",
+      "target": "Price Waterhouse"
+    },
+    {
+      "source": "New York",
+      "target": "Grey Worldwide"
+    },
+    {
+      "source": "New York",
+      "target": "DMB&B (MacManus Group)"
+    },
+    {
+      "source": "New York",
+      "target": "Lowe Howard -Spink"
+    },
+    {
+      "source": "New York",
+      "target": "Saatchi and Saatchi"
+    },
+    {
+      "source": "New York",
+      "target": "JWT (Thompson)"
+    },
+    {
+      "source": "New York",
+      "target": "Ogilvy & Mather Direct Worldwide"
+    },
+    {
+      "source": "New York",
+      "target": "Dentsu"
+    },
+    {
+      "source": "New York",
+      "target": "Young & Rubicam"
+    },
+    {
+      "source": "New York",
+      "target": "TMP"
+    },
+    {
+      "source": "New York",
+      "target": "Publicis"
+    },
+    {
+      "source": "New York",
+      "target": "Abbott Mead Vickers (BBDO)"
+    },
+    {
+      "source": "New York",
+      "target": "HSBC"
+    },
+    {
+      "source": "New York",
+      "target": "Barclays"
+    },
+    {
+      "source": "New York",
+      "target": "NatWest Group"
+    },
+    {
+      "source": "New York",
+      "target": "Standard Chartered Group"
+    },
+    {
+      "source": "New York",
+      "target": "Creditanstalt-Bankverein"
+    },
+    {
+      "source": "New York",
+      "target": "Dresdner Bank Group"
+    },
+    {
+      "source": "New York",
+      "target": "J P Morgan"
+    },
+    {
+      "source": "New York",
+      "target": "Compagnie Financi�e de Paribas SA"
+    },
+    {
+      "source": "New York",
+      "target": "Credit Suisse"
+    },
+    {
+      "source": "New York",
+      "target": "BBV Group"
+    },
+    {
+      "source": "New York",
+      "target": "Banker's Trust"
+    },
+    {
+      "source": "New York",
+      "target": "UBS"
+    },
+    {
+      "source": "New York",
+      "target": "ABN-AMRO"
+    },
+    {
+      "source": "New York",
+      "target": "Citibank"
+    },
+    {
+      "source": "New York",
+      "target": "Baker & McKenzie"
+    },
+    {
+      "source": "New York",
+      "target": "White & Case"
+    },
+    {
+      "source": "New York",
+      "target": "Leboeuf, Lamb, Greene & MacRae"
+    },
+    {
+      "source": "New York",
+      "target": "Coudert Brothers"
+    },
+    {
+      "source": "New York",
+      "target": "Skadden Arps"
+    },
+    {
+      "source": "New York",
+      "target": "Bryan Cave"
+    },
+    {
+      "source": "New York",
+      "target": "Dorsey & Whitney"
+    },
+    {
+      "source": "New York",
+      "target": "Graham & James"
+    },
+    {
+      "source": "New York",
+      "target": "Jones, Day, Reavis & Pogue"
+    },
+    {
+      "source": "New York",
+      "target": "Miller, Canfield, Paddock & Stone"
+    },
+    {
+      "source": "New York",
+      "target": "Squire, Sanders & Dempsey"
+    },
+    {
+      "source": "New York",
+      "target": "Wilson, Elser, Moskowitz, Edelman & Dicker"
+    },
+    {
+      "source": "New York",
+      "target": "Allen & Overy"
+    },
+    {
+      "source": "New York",
+      "target": "Clifford Chance"
+    },
+    {
+      "source": "New York",
+      "target": "Freshfields"
+    },
+    {
+      "source": "Osaka",
+      "target": "Coopers & Lybrand"
+    },
+    {
+      "source": "Osaka",
+      "target": "Ernst & Young International"
+    },
+    {
+      "source": "Osaka",
+      "target": "Arthur Andersen"
+    },
+    {
+      "source": "Osaka",
+      "target": "Price Waterhouse"
+    },
+    {
+      "source": "Osaka",
+      "target": "HSBC"
+    },
+    {
+      "source": "Osaka",
+      "target": "Barclays"
+    },
+    {
+      "source": "Osaka",
+      "target": "J P Morgan"
+    },
+    {
+      "source": "Osaka",
+      "target": "UBS"
+    },
+    {
+      "source": "Osaka",
+      "target": "ABN-AMRO"
+    },
+    {
+      "source": "Osaka",
+      "target": "Citibank"
+    },
+    {
+      "source": "Paris",
+      "target": "Coopers & Lybrand"
+    },
+    {
+      "source": "Paris",
+      "target": "Ernst & Young International"
+    },
+    {
+      "source": "Paris",
+      "target": "Arthur Andersen"
+    },
+    {
+      "source": "Paris",
+      "target": "Price Waterhouse"
+    },
+    {
+      "source": "Paris",
+      "target": "Grey Worldwide"
+    },
+    {
+      "source": "Paris",
+      "target": "DMB&B (MacManus Group)"
+    },
+    {
+      "source": "Paris",
+      "target": "Lowe Howard -Spink"
+    },
+    {
+      "source": "Paris",
+      "target": "Saatchi and Saatchi"
+    },
+    {
+      "source": "Paris",
+      "target": "JWT (Thompson)"
+    },
+    {
+      "source": "Paris",
+      "target": "Ogilvy & Mather Direct Worldwide"
+    },
+    {
+      "source": "Paris",
+      "target": "Dentsu"
+    },
+    {
+      "source": "Paris",
+      "target": "TMP"
+    },
+    {
+      "source": "Paris",
+      "target": "Publicis"
+    },
+    {
+      "source": "Paris",
+      "target": "Abbott Mead Vickers (BBDO)"
+    },
+    {
+      "source": "Paris",
+      "target": "HSBC"
+    },
+    {
+      "source": "Paris",
+      "target": "Barclays"
+    },
+    {
+      "source": "Paris",
+      "target": "NatWest Group"
+    },
+    {
+      "source": "Paris",
+      "target": "J P Morgan"
+    },
+    {
+      "source": "Paris",
+      "target": "Compagnie Financi�e de Paribas SA"
+    },
+    {
+      "source": "Paris",
+      "target": "Credit Suisse"
+    },
+    {
+      "source": "Paris",
+      "target": "BBV Group"
+    },
+    {
+      "source": "Paris",
+      "target": "Banker's Trust"
+    },
+    {
+      "source": "Paris",
+      "target": "UBS"
+    },
+    {
+      "source": "Paris",
+      "target": "ABN-AMRO"
+    },
+    {
+      "source": "Paris",
+      "target": "Citibank"
+    },
+    {
+      "source": "Paris",
+      "target": "Baker & McKenzie"
+    },
+    {
+      "source": "Paris",
+      "target": "White & Case"
+    },
+    {
+      "source": "Paris",
+      "target": "Coudert Brothers"
+    },
+    {
+      "source": "Paris",
+      "target": "Skadden Arps"
+    },
+    {
+      "source": "Paris",
+      "target": "Hogan & Hartson"
+    },
+    {
+      "source": "Paris",
+      "target": "Jones, Day, Reavis & Pogue"
+    },
+    {
+      "source": "Paris",
+      "target": "Allen & Overy"
+    },
+    {
+      "source": "Paris",
+      "target": "Clifford Chance"
+    },
+    {
+      "source": "Paris",
+      "target": "Freshfields"
+    },
+    {
+      "source": "Prague",
+      "target": "Coopers & Lybrand"
+    },
+    {
+      "source": "Prague",
+      "target": "Ernst & Young International"
+    },
+    {
+      "source": "Prague",
+      "target": "Arthur Andersen"
+    },
+    {
+      "source": "Prague",
+      "target": "Price Waterhouse"
+    },
+    {
+      "source": "Prague",
+      "target": "DMB&B (MacManus Group)"
+    },
+    {
+      "source": "Prague",
+      "target": "Lowe Howard -Spink"
+    },
+    {
+      "source": "Prague",
+      "target": "Saatchi and Saatchi"
+    },
+    {
+      "source": "Prague",
+      "target": "JWT (Thompson)"
+    },
+    {
+      "source": "Prague",
+      "target": "Ogilvy & Mather Direct Worldwide"
+    },
+    {
+      "source": "Prague",
+      "target": "Young & Rubicam"
+    },
+    {
+      "source": "Prague",
+      "target": "Publicis"
+    },
+    {
+      "source": "Prague",
+      "target": "Abbott Mead Vickers (BBDO)"
+    },
+    {
+      "source": "Prague",
+      "target": "HSBC"
+    },
+    {
+      "source": "Prague",
+      "target": "Barclays"
+    },
+    {
+      "source": "Prague",
+      "target": "Creditanstalt-Bankverein"
+    },
+    {
+      "source": "Prague",
+      "target": "J P Morgan"
+    },
+    {
+      "source": "Prague",
+      "target": "Compagnie Financi�e de Paribas SA"
+    },
+    {
+      "source": "Prague",
+      "target": "Banker's Trust"
+    },
+    {
+      "source": "Prague",
+      "target": "UBS"
+    },
+    {
+      "source": "Prague",
+      "target": "ABN-AMRO"
+    },
+    {
+      "source": "Prague",
+      "target": "Baker & McKenzie"
+    },
+    {
+      "source": "Prague",
+      "target": "White & Case"
+    },
+    {
+      "source": "Prague",
+      "target": "Hogan & Hartson"
+    },
+    {
+      "source": "Prague",
+      "target": "Squire, Sanders & Dempsey"
+    },
+    {
+      "source": "Prague",
+      "target": "Allen & Overy"
+    },
+    {
+      "source": "Prague",
+      "target": "Clifford Chance"
+    },
+    {
+      "source": "Rome",
+      "target": "Coopers & Lybrand"
+    },
+    {
+      "source": "Rome",
+      "target": "Ernst & Young International"
+    },
+    {
+      "source": "Rome",
+      "target": "Arthur Andersen"
+    },
+    {
+      "source": "Rome",
+      "target": "Price Waterhouse"
+    },
+    {
+      "source": "Rome",
+      "target": "DMB&B (MacManus Group)"
+    },
+    {
+      "source": "Rome",
+      "target": "JWT (Thompson)"
+    },
+    {
+      "source": "Rome",
+      "target": "Publicis"
+    },
+    {
+      "source": "Rome",
+      "target": "HSBC"
+    },
+    {
+      "source": "Rome",
+      "target": "Barclays"
+    },
+    {
+      "source": "Rome",
+      "target": "J P Morgan"
+    },
+    {
+      "source": "Rome",
+      "target": "Compagnie Financi�e de Paribas SA"
+    },
+    {
+      "source": "Rome",
+      "target": "Credit Suisse"
+    },
+    {
+      "source": "Rome",
+      "target": "ABN-AMRO"
+    },
+    {
+      "source": "Rome",
+      "target": "Baker & McKenzie"
+    },
+    {
+      "source": "Rome",
+      "target": "Allen & Overy"
+    },
+    {
+      "source": "Rome",
+      "target": "Clifford Chance"
+    },
+    {
+      "source": "Rome",
+      "target": "Freshfields"
+    },
+    {
+      "source": "San Francisco",
+      "target": "Coopers & Lybrand"
+    },
+    {
+      "source": "San Francisco",
+      "target": "Ernst & Young International"
+    },
+    {
+      "source": "San Francisco",
+      "target": "Arthur Andersen"
+    },
+    {
+      "source": "San Francisco",
+      "target": "Price Waterhouse"
+    },
+    {
+      "source": "San Francisco",
+      "target": "Grey Worldwide"
+    },
+    {
+      "source": "San Francisco",
+      "target": "DMB&B (MacManus Group)"
+    },
+    {
+      "source": "San Francisco",
+      "target": "Saatchi and Saatchi"
+    },
+    {
+      "source": "San Francisco",
+      "target": "JWT (Thompson)"
+    },
+    {
+      "source": "San Francisco",
+      "target": "Young & Rubicam"
+    },
+    {
+      "source": "San Francisco",
+      "target": "TMP"
+    },
+    {
+      "source": "San Francisco",
+      "target": "Publicis"
+    },
+    {
+      "source": "San Francisco",
+      "target": "HSBC"
+    },
+    {
+      "source": "San Francisco",
+      "target": "Barclays"
+    },
+    {
+      "source": "San Francisco",
+      "target": "NatWest Group"
+    },
+    {
+      "source": "San Francisco",
+      "target": "Creditanstalt-Bankverein"
+    },
+    {
+      "source": "San Francisco",
+      "target": "Dresdner Bank Group"
+    },
+    {
+      "source": "San Francisco",
+      "target": "J P Morgan"
+    },
+    {
+      "source": "San Francisco",
+      "target": "Compagnie Financi�e de Paribas SA"
+    },
+    {
+      "source": "San Francisco",
+      "target": "Banker's Trust"
+    },
+    {
+      "source": "San Francisco",
+      "target": "UBS"
+    },
+    {
+      "source": "San Francisco",
+      "target": "ABN-AMRO"
+    },
+    {
+      "source": "San Francisco",
+      "target": "Citibank"
+    },
+    {
+      "source": "San Francisco",
+      "target": "Baker & McKenzie"
+    },
+    {
+      "source": "San Francisco",
+      "target": "Leboeuf, Lamb, Greene & MacRae"
+    },
+    {
+      "source": "San Francisco",
+      "target": "Coudert Brothers"
+    },
+    {
+      "source": "San Francisco",
+      "target": "Skadden Arps"
+    },
+    {
+      "source": "San Francisco",
+      "target": "Graham & James"
+    },
+    {
+      "source": "San Francisco",
+      "target": "Wilson, Elser, Moskowitz, Edelman & Dicker"
+    },
+    {
+      "source": "Sao Paulo",
+      "target": "Coopers & Lybrand"
+    },
+    {
+      "source": "Sao Paulo",
+      "target": "Ernst & Young International"
+    },
+    {
+      "source": "Sao Paulo",
+      "target": "Arthur Andersen"
+    },
+    {
+      "source": "Sao Paulo",
+      "target": "Price Waterhouse"
+    },
+    {
+      "source": "Sao Paulo",
+      "target": "Grey Worldwide"
+    },
+    {
+      "source": "Sao Paulo",
+      "target": "DMB&B (MacManus Group)"
+    },
+    {
+      "source": "Sao Paulo",
+      "target": "Lowe Howard -Spink"
+    },
+    {
+      "source": "Sao Paulo",
+      "target": "Saatchi and Saatchi"
+    },
+    {
+      "source": "Sao Paulo",
+      "target": "JWT (Thompson)"
+    },
+    {
+      "source": "Sao Paulo",
+      "target": "Ogilvy & Mather Direct Worldwide"
+    },
+    {
+      "source": "Sao Paulo",
+      "target": "Young & Rubicam"
+    },
+    {
+      "source": "Sao Paulo",
+      "target": "Publicis"
+    },
+    {
+      "source": "Sao Paulo",
+      "target": "Abbott Mead Vickers (BBDO)"
+    },
+    {
+      "source": "Sao Paulo",
+      "target": "HSBC"
+    },
+    {
+      "source": "Sao Paulo",
+      "target": "Barclays"
+    },
+    {
+      "source": "Sao Paulo",
+      "target": "Creditanstalt-Bankverein"
+    },
+    {
+      "source": "Sao Paulo",
+      "target": "J P Morgan"
+    },
+    {
+      "source": "Sao Paulo",
+      "target": "Compagnie Financi�e de Paribas SA"
+    },
+    {
+      "source": "Sao Paulo",
+      "target": "Credit Suisse"
+    },
+    {
+      "source": "Sao Paulo",
+      "target": "BBV Group"
+    },
+    {
+      "source": "Sao Paulo",
+      "target": "Banker's Trust"
+    },
+    {
+      "source": "Sao Paulo",
+      "target": "UBS"
+    },
+    {
+      "source": "Sao Paulo",
+      "target": "ABN-AMRO"
+    },
+    {
+      "source": "Sao Paulo",
+      "target": "Citibank"
+    },
+    {
+      "source": "Sao Paulo",
+      "target": "Baker & McKenzie"
+    },
+    {
+      "source": "Sao Paulo",
+      "target": "White & Case"
+    },
+    {
+      "source": "Santiago",
+      "target": "Coopers & Lybrand"
+    },
+    {
+      "source": "Santiago",
+      "target": "Ernst & Young International"
+    },
+    {
+      "source": "Santiago",
+      "target": "Arthur Andersen"
+    },
+    {
+      "source": "Santiago",
+      "target": "Price Waterhouse"
+    },
+    {
+      "source": "Santiago",
+      "target": "Grey Worldwide"
+    },
+    {
+      "source": "Santiago",
+      "target": "DMB&B (MacManus Group)"
+    },
+    {
+      "source": "Santiago",
+      "target": "Saatchi and Saatchi"
+    },
+    {
+      "source": "Santiago",
+      "target": "Ogilvy & Mather Direct Worldwide"
+    },
+    {
+      "source": "Santiago",
+      "target": "Young & Rubicam"
+    },
+    {
+      "source": "Santiago",
+      "target": "Publicis"
+    },
+    {
+      "source": "Santiago",
+      "target": "Abbott Mead Vickers (BBDO)"
+    },
+    {
+      "source": "Santiago",
+      "target": "HSBC"
+    },
+    {
+      "source": "Santiago",
+      "target": "Barclays"
+    },
+    {
+      "source": "Santiago",
+      "target": "J P Morgan"
+    },
+    {
+      "source": "Santiago",
+      "target": "Compagnie Financi�e de Paribas SA"
+    },
+    {
+      "source": "Santiago",
+      "target": "Credit Suisse"
+    },
+    {
+      "source": "Santiago",
+      "target": "BBV Group"
+    },
+    {
+      "source": "Santiago",
+      "target": "Banker's Trust"
+    },
+    {
+      "source": "Santiago",
+      "target": "UBS"
+    },
+    {
+      "source": "Santiago",
+      "target": "ABN-AMRO"
+    },
+    {
+      "source": "Santiago",
+      "target": "Citibank"
+    },
+    {
+      "source": "Santiago",
+      "target": "Baker & McKenzie"
+    },
+    {
+      "source": "Seoul",
+      "target": "Coopers & Lybrand"
+    },
+    {
+      "source": "Seoul",
+      "target": "Ernst & Young International"
+    },
+    {
+      "source": "Seoul",
+      "target": "Arthur Andersen"
+    },
+    {
+      "source": "Seoul",
+      "target": "Price Waterhouse"
+    },
+    {
+      "source": "Seoul",
+      "target": "DMB&B (MacManus Group)"
+    },
+    {
+      "source": "Seoul",
+      "target": "Saatchi and Saatchi"
+    },
+    {
+      "source": "Seoul",
+      "target": "JWT (Thompson)"
+    },
+    {
+      "source": "Seoul",
+      "target": "Ogilvy & Mather Direct Worldwide"
+    },
+    {
+      "source": "Seoul",
+      "target": "Dentsu"
+    },
+    {
+      "source": "Seoul",
+      "target": "Publicis"
+    },
+    {
+      "source": "Seoul",
+      "target": "Abbott Mead Vickers (BBDO)"
+    },
+    {
+      "source": "Seoul",
+      "target": "HSBC"
+    },
+    {
+      "source": "Seoul",
+      "target": "Barclays"
+    },
+    {
+      "source": "Seoul",
+      "target": "NatWest Group"
+    },
+    {
+      "source": "Seoul",
+      "target": "Standard Chartered Group"
+    },
+    {
+      "source": "Seoul",
+      "target": "J P Morgan"
+    },
+    {
+      "source": "Seoul",
+      "target": "Compagnie Financi�e de Paribas SA"
+    },
+    {
+      "source": "Seoul",
+      "target": "Banker's Trust"
+    },
+    {
+      "source": "Seoul",
+      "target": "UBS"
+    },
+    {
+      "source": "Seoul",
+      "target": "ABN-AMRO"
+    },
+    {
+      "source": "Seoul",
+      "target": "Citibank"
+    },
+    {
+      "source": "Shanghai",
+      "target": "Coopers & Lybrand"
+    },
+    {
+      "source": "Shanghai",
+      "target": "Ernst & Young International"
+    },
+    {
+      "source": "Shanghai",
+      "target": "Arthur Andersen"
+    },
+    {
+      "source": "Shanghai",
+      "target": "Price Waterhouse"
+    },
+    {
+      "source": "Shanghai",
+      "target": "DMB&B (MacManus Group)"
+    },
+    {
+      "source": "Shanghai",
+      "target": "Saatchi and Saatchi"
+    },
+    {
+      "source": "Shanghai",
+      "target": "JWT (Thompson)"
+    },
+    {
+      "source": "Shanghai",
+      "target": "Dentsu"
+    },
+    {
+      "source": "Shanghai",
+      "target": "Abbott Mead Vickers (BBDO)"
+    },
+    {
+      "source": "Shanghai",
+      "target": "HSBC"
+    },
+    {
+      "source": "Shanghai",
+      "target": "NatWest Group"
+    },
+    {
+      "source": "Shanghai",
+      "target": "Standard Chartered Group"
+    },
+    {
+      "source": "Shanghai",
+      "target": "J P Morgan"
+    },
+    {
+      "source": "Shanghai",
+      "target": "Compagnie Financi�e de Paribas SA"
+    },
+    {
+      "source": "Shanghai",
+      "target": "UBS"
+    },
+    {
+      "source": "Shanghai",
+      "target": "ABN-AMRO"
+    },
+    {
+      "source": "Shanghai",
+      "target": "Citibank"
+    },
+    {
+      "source": "Shanghai",
+      "target": "Clifford Chance"
+    },
+    {
+      "source": "Singapore",
+      "target": "Coopers & Lybrand"
+    },
+    {
+      "source": "Singapore",
+      "target": "Ernst & Young International"
+    },
+    {
+      "source": "Singapore",
+      "target": "Arthur Andersen"
+    },
+    {
+      "source": "Singapore",
+      "target": "Price Waterhouse"
+    },
+    {
+      "source": "Singapore",
+      "target": "Grey Worldwide"
+    },
+    {
+      "source": "Singapore",
+      "target": "DMB&B (MacManus Group)"
+    },
+    {
+      "source": "Singapore",
+      "target": "Lowe Howard -Spink"
+    },
+    {
+      "source": "Singapore",
+      "target": "Saatchi and Saatchi"
+    },
+    {
+      "source": "Singapore",
+      "target": "JWT (Thompson)"
+    },
+    {
+      "source": "Singapore",
+      "target": "Ogilvy & Mather Direct Worldwide"
+    },
+    {
+      "source": "Singapore",
+      "target": "Dentsu"
+    },
+    {
+      "source": "Singapore",
+      "target": "Young & Rubicam"
+    },
+    {
+      "source": "Singapore",
+      "target": "Publicis"
+    },
+    {
+      "source": "Singapore",
+      "target": "Abbott Mead Vickers (BBDO)"
+    },
+    {
+      "source": "Singapore",
+      "target": "HSBC"
+    },
+    {
+      "source": "Singapore",
+      "target": "Barclays"
+    },
+    {
+      "source": "Singapore",
+      "target": "NatWest Group"
+    },
+    {
+      "source": "Singapore",
+      "target": "Standard Chartered Group"
+    },
+    {
+      "source": "Singapore",
+      "target": "Creditanstalt-Bankverein"
+    },
+    {
+      "source": "Singapore",
+      "target": "Dresdner Bank Group"
+    },
+    {
+      "source": "Singapore",
+      "target": "J P Morgan"
+    },
+    {
+      "source": "Singapore",
+      "target": "Compagnie Financi�e de Paribas SA"
+    },
+    {
+      "source": "Singapore",
+      "target": "Credit Suisse"
+    },
+    {
+      "source": "Singapore",
+      "target": "Banker's Trust"
+    },
+    {
+      "source": "Singapore",
+      "target": "UBS"
+    },
+    {
+      "source": "Singapore",
+      "target": "ABN-AMRO"
+    },
+    {
+      "source": "Singapore",
+      "target": "Baker & McKenzie"
+    },
+    {
+      "source": "Singapore",
+      "target": "White & Case"
+    },
+    {
+      "source": "Singapore",
+      "target": "Coudert Brothers"
+    },
+    {
+      "source": "Singapore",
+      "target": "Skadden Arps"
+    },
+    {
+      "source": "Singapore",
+      "target": "Allen & Overy"
+    },
+    {
+      "source": "Singapore",
+      "target": "Clifford Chance"
+    },
+    {
+      "source": "Singapore",
+      "target": "Freshfields"
+    },
+    {
+      "source": "Stockholm",
+      "target": "Coopers & Lybrand"
+    },
+    {
+      "source": "Stockholm",
+      "target": "Ernst & Young International"
+    },
+    {
+      "source": "Stockholm",
+      "target": "Arthur Andersen"
+    },
+    {
+      "source": "Stockholm",
+      "target": "Price Waterhouse"
+    },
+    {
+      "source": "Stockholm",
+      "target": "Grey Worldwide"
+    },
+    {
+      "source": "Stockholm",
+      "target": "DMB&B (MacManus Group)"
+    },
+    {
+      "source": "Stockholm",
+      "target": "Lowe Howard -Spink"
+    },
+    {
+      "source": "Stockholm",
+      "target": "Saatchi and Saatchi"
+    },
+    {
+      "source": "Stockholm",
+      "target": "JWT (Thompson)"
+    },
+    {
+      "source": "Stockholm",
+      "target": "Ogilvy & Mather Direct Worldwide"
+    },
+    {
+      "source": "Stockholm",
+      "target": "Young & Rubicam"
+    },
+    {
+      "source": "Stockholm",
+      "target": "Publicis"
+    },
+    {
+      "source": "Stockholm",
+      "target": "Abbott Mead Vickers (BBDO)"
+    },
+    {
+      "source": "Stockholm",
+      "target": "HSBC"
+    },
+    {
+      "source": "Stockholm",
+      "target": "ABN-AMRO"
+    },
+    {
+      "source": "Stockholm",
+      "target": "Baker & McKenzie"
+    },
+    {
+      "source": "Stockholm",
+      "target": "White & Case"
+    },
+    {
+      "source": "Sydney",
+      "target": "Coopers & Lybrand"
+    },
+    {
+      "source": "Sydney",
+      "target": "Ernst & Young International"
+    },
+    {
+      "source": "Sydney",
+      "target": "Arthur Andersen"
+    },
+    {
+      "source": "Sydney",
+      "target": "Price Waterhouse"
+    },
+    {
+      "source": "Sydney",
+      "target": "Grey Worldwide"
+    },
+    {
+      "source": "Sydney",
+      "target": "DMB&B (MacManus Group)"
+    },
+    {
+      "source": "Sydney",
+      "target": "Saatchi and Saatchi"
+    },
+    {
+      "source": "Sydney",
+      "target": "JWT (Thompson)"
+    },
+    {
+      "source": "Sydney",
+      "target": "Ogilvy & Mather Direct Worldwide"
+    },
+    {
+      "source": "Sydney",
+      "target": "Dentsu"
+    },
+    {
+      "source": "Sydney",
+      "target": "Young & Rubicam"
+    },
+    {
+      "source": "Sydney",
+      "target": "Publicis"
+    },
+    {
+      "source": "Sydney",
+      "target": "Abbott Mead Vickers (BBDO)"
+    },
+    {
+      "source": "Sydney",
+      "target": "HSBC"
+    },
+    {
+      "source": "Sydney",
+      "target": "Barclays"
+    },
+    {
+      "source": "Sydney",
+      "target": "NatWest Group"
+    },
+    {
+      "source": "Sydney",
+      "target": "Standard Chartered Group"
+    },
+    {
+      "source": "Sydney",
+      "target": "Dresdner Bank Group"
+    },
+    {
+      "source": "Sydney",
+      "target": "J P Morgan"
+    },
+    {
+      "source": "Sydney",
+      "target": "Compagnie Financi�e de Paribas SA"
+    },
+    {
+      "source": "Sydney",
+      "target": "Banker's Trust"
+    },
+    {
+      "source": "Sydney",
+      "target": "UBS"
+    },
+    {
+      "source": "Sydney",
+      "target": "ABN-AMRO"
+    },
+    {
+      "source": "Sydney",
+      "target": "Citibank"
+    },
+    {
+      "source": "Sydney",
+      "target": "Baker & McKenzie"
+    },
+    {
+      "source": "Sydney",
+      "target": "Coudert Brothers"
+    },
+    {
+      "source": "Sydney",
+      "target": "Skadden Arps"
+    },
+    {
+      "source": "Sydney",
+      "target": "Graham & James"
+    },
+    {
+      "source": "Taipei",
+      "target": "Coopers & Lybrand"
+    },
+    {
+      "source": "Taipei",
+      "target": "Ernst & Young International"
+    },
+    {
+      "source": "Taipei",
+      "target": "Arthur Andersen"
+    },
+    {
+      "source": "Taipei",
+      "target": "Price Waterhouse"
+    },
+    {
+      "source": "Taipei",
+      "target": "Grey Worldwide"
+    },
+    {
+      "source": "Taipei",
+      "target": "DMB&B (MacManus Group)"
+    },
+    {
+      "source": "Taipei",
+      "target": "Saatchi and Saatchi"
+    },
+    {
+      "source": "Taipei",
+      "target": "JWT (Thompson)"
+    },
+    {
+      "source": "Taipei",
+      "target": "Ogilvy & Mather Direct Worldwide"
+    },
+    {
+      "source": "Taipei",
+      "target": "Dentsu"
+    },
+    {
+      "source": "Taipei",
+      "target": "Abbott Mead Vickers (BBDO)"
+    },
+    {
+      "source": "Taipei",
+      "target": "HSBC"
+    },
+    {
+      "source": "Taipei",
+      "target": "Barclays"
+    },
+    {
+      "source": "Taipei",
+      "target": "NatWest Group"
+    },
+    {
+      "source": "Taipei",
+      "target": "Standard Chartered Group"
+    },
+    {
+      "source": "Taipei",
+      "target": "J P Morgan"
+    },
+    {
+      "source": "Taipei",
+      "target": "Compagnie Financi�e de Paribas SA"
+    },
+    {
+      "source": "Taipei",
+      "target": "Banker's Trust"
+    },
+    {
+      "source": "Taipei",
+      "target": "UBS"
+    },
+    {
+      "source": "Taipei",
+      "target": "ABN-AMRO"
+    },
+    {
+      "source": "Taipei",
+      "target": "Citibank"
+    },
+    {
+      "source": "Taipei",
+      "target": "Baker & McKenzie"
+    },
+    {
+      "source": "Taipei",
+      "target": "Jones, Day, Reavis & Pogue"
+    },
+    {
+      "source": "Tokyo",
+      "target": "Coopers & Lybrand"
+    },
+    {
+      "source": "Tokyo",
+      "target": "Ernst & Young International"
+    },
+    {
+      "source": "Tokyo",
+      "target": "Arthur Andersen"
+    },
+    {
+      "source": "Tokyo",
+      "target": "Price Waterhouse"
+    },
+    {
+      "source": "Tokyo",
+      "target": "Grey Worldwide"
+    },
+    {
+      "source": "Tokyo",
+      "target": "DMB&B (MacManus Group)"
+    },
+    {
+      "source": "Tokyo",
+      "target": "Saatchi and Saatchi"
+    },
+    {
+      "source": "Tokyo",
+      "target": "JWT (Thompson)"
+    },
+    {
+      "source": "Tokyo",
+      "target": "Ogilvy & Mather Direct Worldwide"
+    },
+    {
+      "source": "Tokyo",
+      "target": "Young & Rubicam"
+    },
+    {
+      "source": "Tokyo",
+      "target": "TMP"
+    },
+    {
+      "source": "Tokyo",
+      "target": "Abbott Mead Vickers (BBDO)"
+    },
+    {
+      "source": "Tokyo",
+      "target": "HSBC"
+    },
+    {
+      "source": "Tokyo",
+      "target": "Barclays"
+    },
+    {
+      "source": "Tokyo",
+      "target": "NatWest Group"
+    },
+    {
+      "source": "Tokyo",
+      "target": "Standard Chartered Group"
+    },
+    {
+      "source": "Tokyo",
+      "target": "Creditanstalt-Bankverein"
+    },
+    {
+      "source": "Tokyo",
+      "target": "Dresdner Bank Group"
+    },
+    {
+      "source": "Tokyo",
+      "target": "J P Morgan"
+    },
+    {
+      "source": "Tokyo",
+      "target": "Compagnie Financi�e de Paribas SA"
+    },
+    {
+      "source": "Tokyo",
+      "target": "Credit Suisse"
+    },
+    {
+      "source": "Tokyo",
+      "target": "BBV Group"
+    },
+    {
+      "source": "Tokyo",
+      "target": "Banker's Trust"
+    },
+    {
+      "source": "Tokyo",
+      "target": "UBS"
+    },
+    {
+      "source": "Tokyo",
+      "target": "ABN-AMRO"
+    },
+    {
+      "source": "Tokyo",
+      "target": "Citibank"
+    },
+    {
+      "source": "Tokyo",
+      "target": "Baker & McKenzie"
+    },
+    {
+      "source": "Tokyo",
+      "target": "White & Case"
+    },
+    {
+      "source": "Tokyo",
+      "target": "Coudert Brothers"
+    },
+    {
+      "source": "Tokyo",
+      "target": "Skadden Arps"
+    },
+    {
+      "source": "Tokyo",
+      "target": "Graham & James"
+    },
+    {
+      "source": "Tokyo",
+      "target": "Jones, Day, Reavis & Pogue"
+    },
+    {
+      "source": "Tokyo",
+      "target": "Wilson, Elser, Moskowitz, Edelman & Dicker"
+    },
+    {
+      "source": "Tokyo",
+      "target": "Allen & Overy"
+    },
+    {
+      "source": "Tokyo",
+      "target": "Clifford Chance"
+    },
+    {
+      "source": "Tokyo",
+      "target": "Freshfields"
+    },
+    {
+      "source": "Toronto",
+      "target": "Coopers & Lybrand"
+    },
+    {
+      "source": "Toronto",
+      "target": "Ernst & Young International"
+    },
+    {
+      "source": "Toronto",
+      "target": "Arthur Andersen"
+    },
+    {
+      "source": "Toronto",
+      "target": "Price Waterhouse"
+    },
+    {
+      "source": "Toronto",
+      "target": "Grey Worldwide"
+    },
+    {
+      "source": "Toronto",
+      "target": "DMB&B (MacManus Group)"
+    },
+    {
+      "source": "Toronto",
+      "target": "Lowe Howard -Spink"
+    },
+    {
+      "source": "Toronto",
+      "target": "Saatchi and Saatchi"
+    },
+    {
+      "source": "Toronto",
+      "target": "JWT (Thompson)"
+    },
+    {
+      "source": "Toronto",
+      "target": "Ogilvy & Mather Direct Worldwide"
+    },
+    {
+      "source": "Toronto",
+      "target": "Dentsu"
+    },
+    {
+      "source": "Toronto",
+      "target": "Young & Rubicam"
+    },
+    {
+      "source": "Toronto",
+      "target": "TMP"
+    },
+    {
+      "source": "Toronto",
+      "target": "Publicis"
+    },
+    {
+      "source": "Toronto",
+      "target": "Abbott Mead Vickers (BBDO)"
+    },
+    {
+      "source": "Toronto",
+      "target": "HSBC"
+    },
+    {
+      "source": "Toronto",
+      "target": "Barclays"
+    },
+    {
+      "source": "Toronto",
+      "target": "NatWest Group"
+    },
+    {
+      "source": "Toronto",
+      "target": "Dresdner Bank Group"
+    },
+    {
+      "source": "Toronto",
+      "target": "J P Morgan"
+    },
+    {
+      "source": "Toronto",
+      "target": "Compagnie Financi�e de Paribas SA"
+    },
+    {
+      "source": "Toronto",
+      "target": "Credit Suisse"
+    },
+    {
+      "source": "Toronto",
+      "target": "Banker's Trust"
+    },
+    {
+      "source": "Toronto",
+      "target": "UBS"
+    },
+    {
+      "source": "Toronto",
+      "target": "ABN-AMRO"
+    },
+    {
+      "source": "Toronto",
+      "target": "Citibank"
+    },
+    {
+      "source": "Toronto",
+      "target": "Baker & McKenzie"
+    },
+    {
+      "source": "Warsaw",
+      "target": "Coopers & Lybrand"
+    },
+    {
+      "source": "Warsaw",
+      "target": "Ernst & Young International"
+    },
+    {
+      "source": "Warsaw",
+      "target": "Arthur Andersen"
+    },
+    {
+      "source": "Warsaw",
+      "target": "Price Waterhouse"
+    },
+    {
+      "source": "Warsaw",
+      "target": "DMB&B (MacManus Group)"
+    },
+    {
+      "source": "Warsaw",
+      "target": "Lowe Howard -Spink"
+    },
+    {
+      "source": "Warsaw",
+      "target": "JWT (Thompson)"
+    },
+    {
+      "source": "Warsaw",
+      "target": "Ogilvy & Mather Direct Worldwide"
+    },
+    {
+      "source": "Warsaw",
+      "target": "Young & Rubicam"
+    },
+    {
+      "source": "Warsaw",
+      "target": "Publicis"
+    },
+    {
+      "source": "Warsaw",
+      "target": "Abbott Mead Vickers (BBDO)"
+    },
+    {
+      "source": "Warsaw",
+      "target": "HSBC"
+    },
+    {
+      "source": "Warsaw",
+      "target": "Barclays"
+    },
+    {
+      "source": "Warsaw",
+      "target": "Creditanstalt-Bankverein"
+    },
+    {
+      "source": "Warsaw",
+      "target": "J P Morgan"
+    },
+    {
+      "source": "Warsaw",
+      "target": "Compagnie Financi�e de Paribas SA"
+    },
+    {
+      "source": "Warsaw",
+      "target": "Banker's Trust"
+    },
+    {
+      "source": "Warsaw",
+      "target": "UBS"
+    },
+    {
+      "source": "Warsaw",
+      "target": "ABN-AMRO"
+    },
+    {
+      "source": "Warsaw",
+      "target": "Baker & McKenzie"
+    },
+    {
+      "source": "Warsaw",
+      "target": "White & Case"
+    },
+    {
+      "source": "Warsaw",
+      "target": "Hogan & Hartson"
+    },
+    {
+      "source": "Warsaw",
+      "target": "Miller, Canfield, Paddock & Stone"
+    },
+    {
+      "source": "Warsaw",
+      "target": "Allen & Overy"
+    },
+    {
+      "source": "Warsaw",
+      "target": "Clifford Chance"
+    },
+    {
+      "source": "Washington,DC",
+      "target": "Coopers & Lybrand"
+    },
+    {
+      "source": "Washington,DC",
+      "target": "Ernst & Young International"
+    },
+    {
+      "source": "Washington,DC",
+      "target": "Arthur Andersen"
+    },
+    {
+      "source": "Washington,DC",
+      "target": "Price Waterhouse"
+    },
+    {
+      "source": "Washington,DC",
+      "target": "TMP"
+    },
+    {
+      "source": "Washington,DC",
+      "target": "HSBC"
+    },
+    {
+      "source": "Washington,DC",
+      "target": "Barclays"
+    },
+    {
+      "source": "Washington,DC",
+      "target": "J P Morgan"
+    },
+    {
+      "source": "Washington,DC",
+      "target": "Citibank"
+    },
+    {
+      "source": "Washington,DC",
+      "target": "Baker & McKenzie"
+    },
+    {
+      "source": "Washington,DC",
+      "target": "White & Case"
+    },
+    {
+      "source": "Washington,DC",
+      "target": "Leboeuf, Lamb, Greene & MacRae"
+    },
+    {
+      "source": "Washington,DC",
+      "target": "Coudert Brothers"
+    },
+    {
+      "source": "Washington,DC",
+      "target": "Skadden Arps"
+    },
+    {
+      "source": "Washington,DC",
+      "target": "Bryan Cave"
+    },
+    {
+      "source": "Washington,DC",
+      "target": "Dorsey & Whitney"
+    },
+    {
+      "source": "Washington,DC",
+      "target": "Graham & James"
+    },
+    {
+      "source": "Washington,DC",
+      "target": "Hogan & Hartson"
+    },
+    {
+      "source": "Washington,DC",
+      "target": "Jones, Day, Reavis & Pogue"
+    },
+    {
+      "source": "Washington,DC",
+      "target": "Miller, Canfield, Paddock & Stone"
+    },
+    {
+      "source": "Washington,DC",
+      "target": "Squire, Sanders & Dempsey"
+    },
+    {
+      "source": "Washington,DC",
+      "target": "Wilson, Elser, Moskowitz, Edelman & Dicker"
+    },
+    {
+      "source": "Zurich",
+      "target": "Coopers & Lybrand"
+    },
+    {
+      "source": "Zurich",
+      "target": "Ernst & Young International"
+    },
+    {
+      "source": "Zurich",
+      "target": "Arthur Andersen"
+    },
+    {
+      "source": "Zurich",
+      "target": "Price Waterhouse"
+    },
+    {
+      "source": "Zurich",
+      "target": "Grey Worldwide"
+    },
+    {
+      "source": "Zurich",
+      "target": "DMB&B (MacManus Group)"
+    },
+    {
+      "source": "Zurich",
+      "target": "Lowe Howard -Spink"
+    },
+    {
+      "source": "Zurich",
+      "target": "Saatchi and Saatchi"
+    },
+    {
+      "source": "Zurich",
+      "target": "JWT (Thompson)"
+    },
+    {
+      "source": "Zurich",
+      "target": "Ogilvy & Mather Direct Worldwide"
+    },
+    {
+      "source": "Zurich",
+      "target": "Young & Rubicam"
+    },
+    {
+      "source": "Zurich",
+      "target": "Publicis"
+    },
+    {
+      "source": "Zurich",
+      "target": "Abbott Mead Vickers (BBDO)"
+    },
+    {
+      "source": "Zurich",
+      "target": "HSBC"
+    },
+    {
+      "source": "Zurich",
+      "target": "Barclays"
+    },
+    {
+      "source": "Zurich",
+      "target": "NatWest Group"
+    },
+    {
+      "source": "Zurich",
+      "target": "Dresdner Bank Group"
+    },
+    {
+      "source": "Zurich",
+      "target": "J P Morgan"
+    },
+    {
+      "source": "Zurich",
+      "target": "Compagnie Financi�e de Paribas SA"
+    },
+    {
+      "source": "Zurich",
+      "target": "Credit Suisse"
+    },
+    {
+      "source": "Zurich",
+      "target": "BBV Group"
+    },
+    {
+      "source": "Zurich",
+      "target": "Banker's Trust"
+    },
+    {
+      "source": "Zurich",
+      "target": "UBS"
+    },
+    {
+      "source": "Zurich",
+      "target": "ABN-AMRO"
+    },
+    {
+      "source": "Zurich",
+      "target": "Baker & McKenzie"
+    }
+  ]
+}

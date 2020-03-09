@@ -1,0 +1,42 @@
+# This file shows how to write various types of quiz questions.
+# Consult README.md for more information.
+
+# Each file contains one question normally -- however, here we put the
+# questions into a single array, so in this file there is an extra level of
+# indentation and a hyphen at the beginning of each question that wouldn't
+# normally be in a question file
+
+# 1.yaml
+- question: "What is the capital of the United States?"
+  # for this multiple-choice question, the user can choose exactly one option
+  type: single
+  choices:
+    - New York, NY
+    - Washington, D.C.
+    - Los Angeles, CA
+    - Chicago, IL
+  answer: Washington, D.C.
+
+# 2.yaml
+- question: "Which of the following are cities in Europe?"
+  # for this multiple-choice question, the user can choose any number of options
+  type: multiple
+  choices:
+    - Sydney
+    - Paris
+    - Madrid
+    - Pittsburgh
+  answer:
+    - Paris
+    - Madrid
+
+# 2.yaml
+- question: "What proportion of authors have more than five co-authors?"
+  # These fields can be in any order
+  graph:
+    resource: "CS_Authors"
+  type: single
+  # Arrays can look like this too
+  choice: [14%, 18%, 22%, 26%]
+  answer: 22%
+

@@ -1,0 +1,127 @@
+<html>
+
+<body>
+<nav class="navbar navbar-default navbar-static-top col-lg-10 col-9" id="topNav">
+  <div class="navbar-header">
+    <a class="navbar-brand" id="brand-name" href="https://sites.nd.edu/chaoli-wang" data-step="3" data-intro="Graph Visual"
+       data-position='right' data-scrollTo='tooltip'>
+      Graph<span style="color:#0C2340;">Visual</span>
+    </a>
+  </div>
+</nav>
+
+<div class="container-fluid" id="mainDiv">
+  <div class="row">
+    <!-- aboutDiv -->
+    <div class="col-lg-10 col-9 row my-3" id="aboutDiv">
+      <p>GraphVisual is an educational tool that provides an accessible web interface for students to explore and interact with graph visualizations of real-world data sets. A variety of modern graph layout algorithms (including animated, fully interactive physics-based simulations) allow users to discover patterns, clusters, and other properties of these data sets, which are drawn from a broad spectrum of fields, including geography, biology, and social networks. Users learn how to compare and evaluate different graph visualizations in side-by-side panels, which can be tweaked, deformed, and augmented by various interactions. Filtering and selection make even very dense graphs easy to visualize and understand.
+      </p>
+      <div>
+        <p id="motivation" class="h4">Motivation</p>
+        <p>Graphs (or networks) are intuitive and familiar structures that use abstract node-link diagrams to represent relationships. Many different kinds of data, such as protein-protein interaction networks, brain connectivity networks, and social networks, have very natural graph representations, so graphs have found a wide variety of applications across many fields of study. Graph drawing is a fundamental topic in information visualization and thus is an essential part of a data visualization course.
+        </p>
+      </div>
+      <div>
+        <p id="layouts" class="h4">Layouts</p>
+        <p>GraphVisual supports several force-directed layouts as well as random, circular, and spectral layouts. Force-directed layout algorithms aim to draw graphs that are aesthetically pleasing and easy to interpret. This is achieved by assigning attractive and repulsive forces between pairs of nodes and then using these forces to minimize an energy function.
+        </p>
+        <p>GraphVisual allows users to change these forces (see Interactions) for the d3 force-directed layout, which is an implementation and adaptation of Tim Dwyer's <a href="#cit1">[1]</a> algorithm. Other force-directed algorithms include the fast multipole multilevel method (FM3) <a href="#cit2">[2]</a>, ForceAtlas2 <a href="#cit3">[3]</a> which focuses on network spatialization, OpenOrd <a href="#cit4">[4]</a> which is designed for large graphs, and Yifan Hu's <a href="#cit5">[5]</a> algorithm which combines a multilevel approach, together with Barnes and Hut octree force calculation <a href="#cit6">[6]</a> and an adaptive cooling scheme for the general force model for efficient high-quality graph drawing. 
+        </p>
+        <p>The spectral graph layout uses the underlying information about the graph spectrum to place the nodes based on the eigenvectors of the graph's Laplacian matrix. We use the first two dominant eigenvectors as node positions for the spectral layout.
+        </p>
+        <p>The circular layout arranges the nodes on a circle, and the random layout assigns node positions randomly.
+        </p>
+        <p>In addition, GraphVisual supports two special layouts, geographical layout and bipartite layout, for drawing graphs with geographical information and bipartite graphs, respectively.
+      </p>
+      </div>
+      <div>
+        <p id="data" class="h4">Data sets</p>
+        <p>GraphVisual comes with a set of example data sets from various fields. The data sets are drawn from the Network Data Repository with Interactive Graph Analytics and Visualization <a href="#cit7">[7]</a>, Stanford Network Analysis Project <a href="#cit8">[8]</a>, and the SuiteSparse Matrix Collection <a href="#cit9">[9]</a>.
+        </p>
+      </div>
+      <div>
+        <p id="interactions" class="h4">Interactions</p>
+        <p>GraphVisual provides essential interaction functions to allow users to compare different graph layouts in two side-by-side panels. There are options to adjust the appearance of the graph. For example, users can change the size of the nodes either in general or by node degree, or visualize edge weights via edge thickness.
+        </p>
+        <p>Besides changing the appearance, users can filter the drawings by node degree, edge weight (for weighted graphs), or the length of the edges in the drawings. Additionally, users can select either nodes or node clusters in the graph to highlight them. The nodes are colored by their cluster labels obtained using the Louvain community detection algorithm <a href="#cit10">[10]</a>.
+        </p>
+      </div>
+      <div>
+        <p id="team" class="h4">Team</p>
+        <p>We acknowledge the following who have contributed to the design and development of GraphVisual:</p>
+        <ul>
+          <li>Principal investigator: Chaoli Wang</li>
+          <li>Project lead: Martin Imre</li>
+          <li>Advisory board: Christine Trinter</li>
+        </ul>
+        <p></p>
+        <ul>
+          <li>Alexander Mascoli ~ 09/2018-12/2018</li>
+          <li>Ahmed Farag ~ 02/2019-05/2019</li>
+          <li>Kekoa Wong ~ 02/2019-05/2019</li>
+          <li>Kyle Weingartner ~ 04/2019-10/2019</li>
+          <li>Wenqing Chang ~ 07/2019-08/2019</li>
+          <li>Shuzhan Wang ~ 07/2019-08/2019</li>
+        </ul>
+      </div>
+     <div>
+      <p id="acknowledgements" class="h4">Acknowledgements</p>
+      <p>This project is supported by the U.S. National Science Foundation under grant DUE-1833129.</p>
+     </div>
+     <div>
+      <p id="references" class="h4">References</p>
+      <p><a id="cit1">[1]</a> T. Dwyer, "Scalable, Versatile and Simple Constrained Graph Layout," Comput. Graph. Forum, vol. 28, no. 3, pp. 991-998, 2009.
+      </p>
+      <p><a id="cit2">[2]</a> S. Hachul and M. Jünger, "Drawing Large Graphs with a Potential-Field-Based Multilevel Algorithm," Proc. Graph Drawing, pp. 285-295, 2005.
+      </p>
+      <p><a id="cit3">[3]</a> M. Jacomy, T. Venturini, S. Heymann, and M. Bastian, "ForceAtlas2, A Continuous Graph Layout Algorithm for Handy Network Visualization Designed for the Gephi Software," PLoS ONE, vol. 9, no. 6., p. e98679, 2014.
+      </p>
+      <p><a id="cit4">[4]</a> S. Martin, W. M. Brown, and R. Klavans, "OpenOrd: An Open-Source Toolbox for Large Graph Layout," Proc. Vis. Data Anal., 2011.
+      </p>
+      <p><a id="cit5">[5]</a> Y. Hu, "Efficient, High-Quality Force-Directed Graph Drawing," The Mathematica Journal, vol. 10, no. 1, pp. 37-71, 2005.
+      </p>
+      <p><a id="cit6">[6]</a> J. Barnes and P. Hut, "A Hierarchical O(N log N) Force-calculation Algorithm," Nature, vol. 324, no. 6096, pp. 446, 1986.
+      </p>
+      <p><a id="cit7">[7]</a> R. A. Rossi and N. K. Ahmed, "Network Data Repository | The First Interactive Network Data Repository," Available: http://networkrepository.com [Accessed: 20-Aug-2019].
+      </p>
+      <p><a id="cit8">[8]</a> J. Leskovec and A. Krevl, "SNAP: Stanford Network Analysis Project," Available: https://snap.stanford.edu [Accessed: 20-Aug-2019].
+      </p>
+      <p><a id="cit9">[9]</a> T. Davis, Y. Hu, and S. Kolodziej, "The SuiteSparse Matrix Collection," Available: https://sparse.tamu.edu [Accessed: 20-Aug-2019].
+      </p>
+      <p><a id="cit10">[10]</a> V. D. Blondel, J.-L. Guillaume, R. Lambiotte, and E. Lefebvre, "Fast unfolding of communities in large networks," Journal of Statistical Mechanics: Theory and Experiment, vol. 2008, no. 10. p. P10008, 2008.
+      </p>
+     </div>
+    </div>
+    <!-- end aboutDiv -->
+
+    <!-- sidebar -->
+    <div class="col-lg-2 col-3" style="overflow-y: auto; overflow-x: hidden; padding-left:0px" id="sidebar">
+      <div id="sidebarInsideDiv" class="ml-auto ml-0" style="width: 100%; padding-left:15px;">
+      <form>
+        <h2 id="toolbar-head"
+        style="font-size: 20px; margin-bottom: 20px; width: 100%; padding-bottom: 13px; padding-top: 20px; margin-bottom: -10px; color: #000">
+          <b>Navigation</b>
+          <a id="back" href="javascript:void(0)" onclick="backfromAbout();" class="toolbox-link">back</a>
+        </h2>
+        <hr/>
+        <div id="naviDiv" class="col-md-12">
+            <a href="#motivation"><h2>Motivation</h2></a>
+            <a href="#layouts"><h2>Layouts</h2></a>
+            <a href="#data"><h2>Data sets</h2></a>
+            <a href="#interactions"><h2>Interactions</h2></a>
+            <a href="#team"><h2>Team</h2></a>
+            <a href="#acknowledgements"><h2>Acknowledgements</h2></a>
+            <a href="#references"><h2>References</h2></a>
+        </div>
+
+      </form>
+      </div>
+    </div><!-- sidebar -->
+
+  </div><!-- row -->
+</div>
+
+</body>
+
+
+</html>

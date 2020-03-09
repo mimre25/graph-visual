@@ -1,0 +1,62 @@
+{
+    "quizId": "graph_quiz",
+    "questions": [
+        {
+            "options": [
+                "21 and 33",
+                "37 and 65",
+                "59 and 26",
+                "46 and 11"
+            ],
+            "graph": {
+                "layouts": [
+                    "YIFAN_HU"
+                ],
+                "resource": "Cat Brain"
+            },
+            "text": "What are the node ids of the nodes with the highest degree?",
+            "type": "radio",
+            "answer": "21 and 33"
+        },
+        {
+            "graph": {
+                "layouts": [
+                    "extra",
+                    "FORCE_ATLAS",
+                    "SPECTRAL"
+                ],
+                "resource": "USAir97"
+            },
+            "text": "Which layout do you like best? Why?",
+            "type": "text",
+            "answer": "The geographical as it helps to encorporate prior knowledge."
+        },
+        {
+            "options": [
+                "Incompatibility",
+                "Cruelty",
+                "Legal Separation",
+                "All of the above"
+            ],
+            "graph": {
+                "resource": "Divorce",
+                "layouts": [
+                    "RANDOMIZED",
+                    "CIRCULAR",
+                    "SPECTRAL",
+                    "FORCE_DIRECTED",
+                    "FM_3",
+                    "FORCE_ATLAS",
+                    "OPENORD",
+                    "YIFAN_HU"
+                ]
+            },
+            "text": "What are the legal grounds for divorce in Washington according to this graph? [Select all]",
+            "type": "checkbox",
+            "answer": [
+                "Incompatibility",
+                "Legal Separation"
+            ]
+        }
+    ]
+}

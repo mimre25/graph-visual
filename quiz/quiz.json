@@ -1,0 +1,37 @@
+{
+  "quizId": "example_quiz",
+  "questions":
+  [
+    {
+        "type": "radio",
+        "text": "What is 3 + 5 ?",
+        "options":
+        [
+            "six",
+            "seven",
+            "eight",
+            "nine"
+        ],
+        "answer": 2
+    },
+
+    {
+        "type": "checkbox",
+        "text": "Choose all even numbers.",
+        "options":
+        [
+          "six",
+          "seven",
+          "eight",
+          "nine"
+        ],
+        "answer": [0, 2]
+    },
+
+    {
+        "type": "text",
+        "text": "Tell me how you feel.",
+        "placeholder": "type here"
+    }
+  ]
+}

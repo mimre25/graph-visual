@@ -1,0 +1,10 @@
+question: What layout arranges the nodes based on spring forces?
+type: multiple
+choices:
+  - Force-directed layout
+  - Circular layout
+  - Random layout
+  - Geographic layout
+answer:
+  - Force-directed layout
+

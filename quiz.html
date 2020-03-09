@@ -1,0 +1,500 @@
+<!DOCTYPE html>
+<html>
+<meta charset="utf-8">
+
+<title>Graph Visual</title>
+
+<head>
+
+  <link rel="stylesheet" href="lib/bootstrap-4.0.0-dist/css/bootstrap.css">
+  <link rel="stylesheet" href="lib/introjs.css">
+  <link rel="stylesheet" href="lib/bootstrap-4.0.0-dist/demo.css">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css"
+        integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+
+  <link rel="stylesheet" href="css/graph-visual.css">
+  <link rel="stylesheet" href="css/switch.css">
+  <link rel="stylesheet" href="css/tooltip.css">
+  <link rel="stylesheet" href="css/loading.css">
+  <link rel="stylesheet" href="css/quiz.css">
+  <!-- libraries -->
+  <!--<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"-->
+  <!--integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"-->
+  <!--crossorigin="anonymous"></script>-->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="lib/popper.min.js"></script>
+  <script src="lib/bootstrap-4.0.0-dist/js/bootstrap.js"></script>
+  <script src="lib/intro.js"></script>
+  <script src="https://d3js.org/d3.v4.min.js"></script>
+  <script src="lib/d3-ForceEdgeBundling.js"></script>
+  <script
+    src="https://cdn.rawgit.com/upphiminn/d3.ForceBundle/2b406b8567fcad0a6c2922c84cd4bceb0c374bc5/d3-ForceEdgeBundling.js"></script>
+
+  <script src="js/colormap.js"></script>
+  <script src="js/disable.js"></script>
+  <script src="js/drawGraph.js"></script>
+  <script src="js/globals.js"></script>
+  <!--<script src="js/graph-info-study.js"></script>-->
+  <script src="js/graph-info-quiz.js"></script>
+  <script src="js/graphFunctions.js"></script>
+  <script src="js/graphTypeFunctions.js"></script>
+  <script src="js/bundlingFunctions.js"></script>
+  <script src="js/nodeClickFunctions.js"></script>
+  <script src="js/graphTypeFunctions.js"></script>
+  <script src="js/drawGraph.js"></script>
+  <script src="js/plotGraph.js"></script>
+  <script src="js/nodesAndLinks.js"></script>
+  <script src="js/utilities.js"></script>
+  <script src="js/graphFunctions.js"></script>
+  <script src="js/tooltips.js"></script>
+  <script src="js/hints.js"></script>
+</head>
+<body>
+<div id="textWidthDiv"></div>
+<div class="loading-wrapper" style="display: none">
+  <div class="loading-cover"></div>
+  <div style="color: #a09de5" class="loading la-ball-clip-rotate la-3x">
+    <div></div>
+  </div>
+</div>
+
+<nav class="navbar navbar-default navbar-static-top col-lg-10 col-9" id="topNav">
+  <div class="navbar-header">
+    <!-- Branding Image -->
+    <a class="navbar-brand" id="brand-name" href="/" data-step="3" data-intro="Graph Visual Baby!"
+       data-position='right' data-scrollTo='tooltip'>
+      Graph<span style="color:#0C2340;">Visual</span>
+    </a>
+    <!-- information about graph -->
+  </div>
+  <div style="float: right" id="graphInfoDiv">
+    <ul class="list-unstyled" id="graphInfo">
+      <li id="dataInfoNodes">Number of nodes:</li>
+      <li id="dataInfoEdges">Number of edges:</li>
+    </ul>
+  </div>
+
+</nav>
+
+<div class="container-fluid" id="mainDiv">
+  <div class="alert alert-warning" role="alert" style="display:none;">
+    Your session is out of date, click <a href="quiz">here</a> to refresh this window.
+  </div>
+  <div class="row" style="margin-left:10px">
+    <!-- graphsDiv -->
+    <div class="col-lg-10 col-9 row " id="graphsDiv">
+
+      <!-- graph 1 with widgets-->
+      <div class="col-lg-6 col-md-12" id="leftDiv">
+        <!-- graph-self -->
+        <div class="row" id="graphDiv1">
+          <div class="col-lg-11 col-12 graph-section" id="graphInsideDiv1">
+            <svg id="quizGraph" viewBox="0 0 500 500"></svg>
+          </div><!-- col-md-11 -->
+        </div><!-- graphDiv1 -->
+
+        <!-- widgets of graph 1 -->
+        <form id="widgetsDiv1">
+          <div class="row">
+            <!-- left part -->
+            <div class="col-sm-5" id="left-widget1">
+              <!-- Layout -->
+              <div id="layout1" class="form-group row mb-2">
+                <label for="dropdown1" class="col-md-4 col-form-label">
+                  <h2 style="margin-block-end: 0em">Layout</h2>
+                </label>
+                <div class="col-md-8">
+                  <select id="dropdown1" class="layoutDropdown custom-select">
+                    <option class="optionGroup" value="Force Directed" selected>Force Directed</option>
+                  </select>
+                </div>
+
+              </div>
+            </div>
+            <div class="col-md-12 my-2 form-group text-nowrap" id="sortByClusterDiv1">
+              <div class="form-row">
+                <div class="col-8">
+                      <span data-toggle="tooltip" data-html="true" data-placement="bottom"
+                            title="Bipartite-layout-only function. Check to sort by cluster." id="sortByClusterSpan1">
+                        Arrange by cluster
+                      </span>
+                </div>
+                <div class="col-4">
+                  <label class="switch">
+                    <input type="checkbox" id="checkBoxSortByCluster1">
+                    <span class="slider round"></span>
+                  </label>
+                </div>
+              </div>
+            </div>
+
+            <!-- right part -->
+            <div class="col-sm-6" id="right-widget1">
+              <!-- slider1: Attractive Force (Force Directed Layout) -->
+              <div id="sliderDiv1" class="form-group row my-0">
+                <div class="row justify-content-center">
+                  <!-- button: Animate -->
+                  <button class="btn btn-xs btn-primary" type="button" id="animate1">
+                    Animate <i class="fas fa-redo"></i>
+                  </button>
+                </div>
+                <!-- link strength slider -->
+                <div id="strengthDiv1" class="container-fluid">
+                  <div class="row my-2">
+                    <div class="col-md-5">
+                      <div class="text-nowrap">Attractive Force</div>
+                    </div>
+                    <div class="col-md-7 linkstrengthSliderDiv">
+                      <div class="form-row">
+                        <div class="col-1"><p id="linkStrengthMin1"></p></div>
+                        <div class="col">
+                          <!-- <div id="slider"></div> -->
+                          <input id="slider" class="slider-width100" type="range" data-toggle="tooltip" min="0" max="20"
+                                 step="0.1"/>
+                          <div class="sliderValue"></div>
+                        </div>
+                        <div class="col-1"><p id="linkStrengthMax1"></p></div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div id="repulsiveDiv1" class="container-fluid">
+                  <div class="row my-2">
+                    <div class="col-md-5">
+                      <div class="text-nowrap">Repulsive Force</div>
+                    </div>
+                    <div class="col-md-7 RepulsiveforceSliderDiv">
+                      <div class="form-row">
+                        <div class="col-1"><p id="RepulsiveForceMin1"></p></div>
+                        <div class="col">
+                          <!-- <div id="slider"></div> -->
+                          <input id="RepulsiveForce1" class="slider-width100" type="range" data-toggle="tooltip" min="0"
+                                 max="20" step="0.1"/>
+                          <div class="sliderValue"></div>
+                        </div>
+                        <div class="col-1"><p id="RepulsiveForceMax1"></p></div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+              </div>
+
+              <!-- silder2: Radius (Circular) -->
+              <div id="sliderDiv2" class="form-group mt-2">
+                <div class="row">
+                  <div class="col-md-4">Radius</div>
+                  <div class="col-md-8">
+                    <div class="form-row" style="font-size: 0.9em">
+                      <div class="col-1">40</div>
+                      <div class="col offset-1" id="radiusSliderDiv1">
+                        <input id="slider2" class="slider-width100" type="range" data-toggle="tooltip" min="40"
+                               max="240" step="5" value="200"/>
+                        <div class="sliderValue"></div>
+                      </div>
+                      <div class="col-1">240</div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <!-- 3: Randomize (Randomized) -->
+              <div class="row justify-content-center">
+                <button class="btn btn-xs btn-primary mb-2" type="button" id="randomize1">
+                  Randomize <i class="fas fa-sync-alt"></i>
+                </button>
+              </div>
+
+            </div>
+          </div>
+        </form>
+      </div>
+
+      <!-- graph 2 with widgets -->
+      <div class="col-lg-6 col-md-12" id="rightDiv">
+        <!-- graph-self -->
+        <div class="row" id="questionDiv">
+          <div class="col-lg-11 col-12 question-section">
+            <div class="container" style="padding-top: 20px; padding-left: 30px;">
+              <div id="questionId" style="display: none;"></div>
+              <p id="questions-counter"></p>
+              <div class="row">
+                <div class="col-md-12" id="questions" style="font-family: arial;">
+                  question is loading...
+                </div><!-- col-md-6 -->
+
+              </div><!-- row -->
+              <!--<div class="row">-->
+                <div class="col-md-12 d-flex justify-content-center" id="buttons" style="font-family: arial;">
+                  <button style="margin-left: 5px;" type="button" class="btn btn-success float-right" id="bSubmit"
+                          aria-disabled="true">Submit
+                  </button>
+                  <button type="button" class="btn btn-primary float-right" id="bNext" aria-disabled="true">Next
+                  </button>
+                </div>
+              </div><!-- container-fluid -->
+            </div>
+          </div><!-- graphDiv2 -->
+
+        </div>
+        <!-- end graph 2 with widgets -->
+
+        <!-- bottom tooltip -->
+        <div id="explainFeatureSpan">
+          <p></p>
+        </div>
+      </div>
+      <!-- end graphsDiv -->
+
+      <!-- sidebar -->
+      <div class="col-lg-2 col-3" style="overflow-y: auto; overflow-x: hidden; padding-left:0px" id="sidebar">
+        <div id="sidebarInsideDiv" class="ml-auto ml-0" style="width: 100%; padding-left:15px">
+          <form>
+
+            <h2 id="toolbar-head"
+                style="font-size: 20px; width: 100%; padding-bottom: 13px; padding-top: 20px; margin-bottom: -10px; color: #000">
+              <b>Control Panel</b>
+            </h2>
+            <!-- end head -->
+            <hr id="hr">
+
+            <!-- sidebar body -->
+            <div class="col-md-12" id="sidebarIntroDiv">
+
+              <!-- <br/><br/> -->
+
+              <div id="accordion" class="panel-group">
+                <!-- Describe Div -->
+                <div id="describeDivIntro" style="margin: 2px" class="panel panel-default">
+                  <div class="panel-heading" data-toggle="collapse" data-target="#dataDiv" data-parent="#accordion">
+                    <h2 class="panel-title" style="color: #000;">Data</h2>
+                    <hr/>
+                  </div>
+                  <div id="dataDiv" class="collapse panel-collapse panel-body show">
+                    <span id="dataInfoName">Name:</span>
+                    <span id="dataInfoType">Type of graph:</span>
+                    <br/>
+                    <br/>
+                    <span id="graphDescription">Graph Description:</span>
+                    <span id="graphSource"></span>
+                    <br/>
+                    <br/>
+                  </div>
+                </div>
+
+                <div id="appearancePanel" class="panel panel-default">
+                  <div class="panel-heading" data-toggle="collapse" data-target="#appearanceDiv"
+                       data-parent="#accordion">
+                    <h2 class="panel-title" style="color: #000;">Appearance</h2>
+                    <hr/>
+                  </div>
+                  <div id="appearanceDiv" class="collapse panel-collapse panel-body">
+                    <div class="form-group" id="colorBlindDiv">
+                      <div class="form-row">
+                        <div class="col-8">
+                      <span data-toggle="tooltip" title="Changes the node colors to a palette for color blindness">
+                        Color Blind
+                      </span>
+                        </div>
+                        <div class="col-4">
+                          <label class="switch">
+                            <input type="checkbox" id="checkBoxColorBlind">
+                            <span class="slider round"></span>
+                          </label>
+                        </div>
+                      </div>
+                    </div><!-- end colorBlindDiv -->
+
+                    <div class="form-group" id="nodeSizeDiv">
+                      <div class="form-row">
+                        <div class="col-8">
+                      <span data-toggle="tooltip" title="Increase the node size based on node degree">
+                        Node Size
+                      </span>
+                        </div>
+                        <div class="col-4">
+                          <label class="switch">
+                            <input type="checkbox" id="checkBoxNodeDegree">
+                            <span class="slider round"></span>
+                          </label>
+                        </div>
+                      </div>
+                    </div><!-- end nodeSizeDiv -->
+
+                    <div class="form-group" id="edgeThicknessDiv">
+                      <div class="form-row">
+                        <div class="col-8">
+                      <span data-toggle="tooltip" title="Increase the edge width based on the edge weight">
+                        Edge Thickness
+                      </span>
+                        </div>
+                        <div class="col-4">
+                          <label class="switch">
+                            <input type="checkbox" id="checkBoxEdgeThickness">
+                            <span class="slider round"></span>
+                          </label>
+                        </div>
+                      </div>
+                    </div><!-- end edgeThicknessDiv -->
+
+                    <!--<div class="form-group" id="edgeBundling">-->
+                      <!--<div class="form-row">-->
+                        <!--<div class="col-8">-->
+                      <!--<span data-toggle="tooltip" title="Bundles close edges together to avoid occlusion">-->
+                        <!--Edge Bundling-->
+                      <!--</span>-->
+                        <!--</div>-->
+                        <!--<div class="col-4">-->
+                          <!--<label class="switch">-->
+                            <!--<input type="checkbox" id="bundling">-->
+                            <!--<input type="checkbox" id="bundling1" style="display:none">-->
+                            <!--<input type="checkbox" id="bundling2" style="display:none">-->
+                            <!--<span class="slider round"></span>-->
+                          <!--</label>-->
+                        <!--</div>-->
+                      <!--</div>-->
+                    <!--</div>&lt;!&ndash; end edgeBundlingDiv &ndash;&gt;-->
+
+                    <div class="form-group mt-3 mb-1" id="nodesizeScalarDiv">
+                      <label>Node Size</label>
+                      <div class="form-row">
+                        <div class="col-1" style="right: 10px;">
+                          <p id="nodesizeScaleMin"></p>
+                        </div>
+                        <div class="col-9">
+                          <input type="range" data-toggle="tooltip" class="form-control-range" id="nodesizeScalar">
+                          <div class="sliderValue"></div>
+                        </div>
+                        <div class="col-1" style="left: 5px;">
+                          <p id="nodesizeScaleMax"></p>
+                        </div>
+                      </div><!-- form-row -->
+                    </div><!-- end nodeSizeScalarDiv -->
+                  </div>
+                </div>
+
+                <div id="filterPanel" class="panel panel-default">
+                  <div class="panel-heading" data-toggle="collapse" data-target="#filterDiv" data-parent="#accordion">
+                    <h2 class="panel-title" style="color: #000">Filtering</h2>
+                    <hr/>
+                  </div>
+                  <div id="filterDiv" class="collapse panel-collapse panel-body show">
+                    <!-- Node Degree -->
+                    <div class="form-group mt-3 mb-1" id="nodeDegreeDiv">
+                      <label>Node Degree</label>
+                      <div class="form-row">
+                        <div class="col-1">
+                          <p id="nodeDegreeMin"></p>
+                        </div>
+                        <div class="col">
+                          <input type="range" data-toggle="tooltip" class="form-control-range" id="nodeDegreeFilter">
+                          <div class="sliderValue"></div>
+                        </div>
+                        <div class="col-2">
+                          <p id="nodeDegreeMax"></p>
+                        </div>
+                      </div><!-- form-row -->
+                    </div>
+
+                    <!-- Edge Weight -->
+                    <div class="form-group my-1" id="edgeFilterDiv">
+                      <span>Edge Weight</span>
+                      <div class="form-row">
+                        <div class="col-1">
+                          <p id="edgeFilteringMin"></p>
+                        </div>
+                        <div class="col">
+                          <input type="range" data-toggle="tooltip" class="form-control-range" id="edgeFilterSlider">
+                          <div class="sliderValue"></div>
+                        </div>
+                        <div class="col-2">
+                          <p id="edgeFilteringMax"></p>
+                        </div>
+                      </div><!-- form-row -->
+                    </div>
+
+                    <!-- Edge Length (Left) -->
+                    <div class="form-group mt-1 mb-3" id="edgeLengthLeftDiv">
+                  <span data-toggle="tooltip" title="Filtering based on edge length in the drawing">
+                    Edge Length
+                  </span>
+                      <br/>
+                      <div class="form-row">
+                        <div class="col-1">
+                          <span id="edgeLengthMinL"></span>
+                        </div>
+                        <div class="col">
+                          <input type="range" data-toggle="tooltip" class="form-control-range" id="edgeLengthSliderL">
+                          <div class="sliderValue"></div>
+                        </div>
+                        <div class="col-2">
+                          <span id="edgeLengthMaxL"></span>
+                        </div>
+                      </div>
+                    </div>
+
+
+                  </div>
+                </div>
+
+                <div id="selectionPanel" class="panel panel-default">
+                  <div class="panel-heading" data-toggle="collapse" data-target="#selectionDiv"
+                       data-parent="#accordion">
+                    <h2 class="panel-title" style="color: #000">Selection</h2>
+                    <hr/>
+                  </div>
+                  <div id="selectionDiv" class="collapse panel-collapse in panel-body show">
+                    <div class="form-group" id="opacity">
+                      <span data-toggle="tooltip"
+                            title="Control the opacity of non-selected nodes and edges">Opacity</span>
+                      <br/>
+                      <div class="form-row" id="highlightOpacityDiv">
+                        <div class="col-1">0</div>
+                        <div class="col">
+                          <input type="range" data-toggle="tooltip" class="form-control-range" id="highlightOpacity"
+                                 value="0.4" min="0" max="1" step="0.1" disabled="disabled">
+                          <div class="sliderValue"></div>
+                        </div>
+                        <div class="col-2">1</div>
+                      </div>
+                    </div>
+                    <!-- Node Selection -->
+                    <div class="form-group form-row" id="nodeSelection">
+                      <span class="col-md-8 col-sm-7">Node</span>
+                      <span class="col-md-4 col-sm-5 text-nowrap" id="nodeNumberSpan"></span>
+                      <select id="nodeDropdown" class="custom-select"
+                              style="margin-bottom: 5px; margin-top: 5px"> </select>
+                    </div>
+                    <!-- Cluster Selection -->
+                    <div class="form-group form-row" id="clusterSelection">
+                      <span class="col-md-8 col-sm-7">Cluster</span>
+                      <span class="col-md-4 col-sm-5 text-nowrap" id="clusterNumberSpan"></span>
+                      <select id="clusterDropdown" class="custom-select"
+                              style="margin-bottom: 5px; margin-top: 5px"> </select>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+
+            <!-- End sidebar body -->
+          </form>
+        </div>
+      </div><!-- sidebar -->
+
+    </div><!-- row -->
+  </div>
+
+
+</body>
+
+
+<!--<script src="js/graph-main.js"></script>-->
+<script src="js/quiz/strings.js"></script>
+<script src="js/quiz/types.js"></script>
+<script src="js/quiz/quiz.js"></script>
+<script src="js/quiz/communication.js"></script>
+<script src="js/mainFunction.js"></script>
+
+</html>

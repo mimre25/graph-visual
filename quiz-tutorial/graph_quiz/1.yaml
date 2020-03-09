@@ -1,0 +1,9 @@
+question: Hi!
+type: single
+choices:  ["One", "Two", "Three"]
+
+graph:
+  resource: ash85
+  layouts: [force-directed]
+  interactions: [select-node]
+

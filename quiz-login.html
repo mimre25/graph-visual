@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<meta charset="utf-8">
+
+<title>Welcome to Graph Visual</title>
+
+<head>
+	<link rel="stylesheet" href="lib/bootstrap-4.0.0-dist/css/bootstrap.css">
+	<link rel="stylesheet" href="lib/introjs.css">
+	<link rel="stylesheet" href="lib/bootstrap-4.0.0-dist/demo.css">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css"
+		integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+
+	<link rel="stylesheet" href="css/graph-visual.css">
+	<link rel="stylesheet" href="css/switch.css">
+	<link rel="stylesheet" href="css/tooltip.css">
+	<link rel="stylesheet" href="css/loading.css">
+	<!-- libraries -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script src="lib/popper.min.js"></script>
+	<script src="lib/bootstrap-4.0.0-dist/js/bootstrap.js"></script>
+	<script src="lib/intro.js"></script>
+	<script src="https://d3js.org/d3.v4.min.js"></script>
+	<script src="lib/d3-ForceEdgeBundling.js"></script>
+	<script
+		src="https://cdn.rawgit.com/upphiminn/d3.ForceBundle/2b406b8567fcad0a6c2922c84cd4bceb0c374bc5/d3-ForceEdgeBundling.js">
+	</script>
+  <script src="js/login.js"></script>
+</head>
+
+<body>
+	<div id="textWidthDiv"></div>
+	<div class="loading-wrapper" style="display: none">
+		<div class="loading-cover"></div>
+		<div style="color: #a09de5" class="loading la-ball-clip-rotate la-3x">
+			<div></div>
+		</div>
+	</div>
+
+	<nav class="navbar navbar-default navbar-static-top col-12" id="topNav">
+		<div class="navbar-header">
+			<!-- Branding Image -->
+			<span class="navbar-brand" id="brand-name">
+				Graph<span style="color:#0C2340;">Visual</span>
+			</span>
+		</div>
+	</nav>
+
+	<div class="container-fluid" id="loginDiv">
+		<br>
+		<div class="row justify-content-center mt-4">
+			<aside class="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-10">
+				<div class="card">
+					<article class="card-body">
+						<!-- <a href="" class="float-right btn btn-outline-primary">Sign up</a> -->
+						<h4 class="card-title text-center mb-4 mt-1">Sign in</h4>
+						<hr>
+						{% if message %}
+						<div class="alert alert-warning" role="alert">
+							{{ message }}.
+						</div>
+						{% endif %}
+
+
+						<form action="" method="post">
+							<div class="form-group">
+								<label>Your username</label>
+								<input name="username" id="nameInput" class="form-control" placeholder="User name" type="text">
+							</div> <!-- form-group// -->
+							<div class="form-group">
+								<label>Your password</label>
+								<input name="password" class="form-control" placeholder="******" type="password">
+							</div> <!-- form-group// -->
+							<div class="form-group">
+								<button type="submit" class="btn btn-primary btn-block"> Login </button>
+							</div> <!-- form-group// -->
+						</form>
+					</article>
+				</div> <!-- card.// -->
+
+			</aside> <!-- col.// -->
+		
+		</div> <!-- row.// -->
+
+	</div>
+
+
+
+
+</body>
+
+
+
+</html>

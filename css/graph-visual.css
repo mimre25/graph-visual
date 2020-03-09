@@ -1,0 +1,395 @@
+@import "https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700";
+
+h2 {
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    margin-top: 0.1em;
+}
+
+
+.toolbox-header:hover {
+    cursor: pointer;
+}
+
+#brand-name {
+    font-family: 'Poppins', sans-serif;
+    /*color: #747EDB;*/
+    color: #D39F10;
+    /*color: #0C2340;*/
+    font-weight: bold;
+}
+
+@media (min-width: 992px) {
+    /* CSS that should be displayed if width is equal to or more than 800px goes here */
+    #sidebar {
+        height: 100vh;
+    }
+}
+
+@media (max-width: 992px) {
+    #sidebar {
+        max-height: 200vh;
+    }
+}
+
+#sidebar {
+    top: 0;
+    right: 0;
+    /* see height in media method above */
+    /* height: 100vh; */
+    z-index: 999;
+    background: #fff;
+    color: rgba(0, 0, 0, 0.54);
+    border-left: 1px solid #e7e7e7;
+    position: absolute;
+}
+
+.panel-heading {
+    position: relative;
+}
+
+.panel-heading::after {
+    content: "\f107";
+    color: #000;
+	top: -2px;
+	right: 0px;
+    position: absolute;
+    font-family: 'Font Awesome\ 5 Free';
+    font-weight: 900;
+}
+
+.panel-heading[aria-expanded="true"]::after {
+	content: "\f106";
+}
+/* #sticky-footer
+{
+    position: relative; 
+    left: 0px;
+    margin-left: 5%;
+    max-width:70%;
+
+    margin-block-start: 1vh;
+    margin-top: auto;
+    
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    font-size: 15.5px;
+    font-size: calc(15.5px + (20-12) * ((100vx - 300px)/(1600-300))); 
+}  */
+
+/* @media only screen and (min-width: 992px)
+{
+    #sticky-footer
+    {
+        position: fixed;
+        bottom:0px; 
+        left:0px;
+        margin-left: 15%
+    }
+} */
+
+#explainFeatureSpan
+{
+    /* margin-top: auto; */
+    /* center */
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    font-size: 12px;
+}
+
+@media screen and (min-width: 560px) {
+    #explainFeatureSpan {
+        font-size: calc(12px + 10 * ((100vw - 560px) / 1440));
+    }
+  }
+  
+  @media screen and (min-width: 2000px) {
+    #explainFeatureSpan {
+        font-size: 22px;
+    }
+  }
+
+.graph-section {
+    border: 1px solid #e7e7e7;
+    background-color: #fff;
+    display: inline;
+    float: left;
+    padding: 0;
+    margin: 10px 10px 10px 5px;
+    position: relative;
+}
+
+.links line {
+    stroke: #999;
+    stroke-opacity: 0.6;
+    fill: none;
+}
+
+.nodes circle {
+    stroke: #fff;
+    stroke-width: 1.5px;
+}
+
+#burger-menu {
+    cursor: pointer;
+}
+.slider-width100 {
+    width: 100%;
+}
+
+
+text {
+    fill:black;   /* <== Set the fill */
+    text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, 0 -1px 0 #fff, -1px 0 0 #fff;
+    /*cursor: move;*/
+    font-size:0.55em;
+}
+
+#textWidthDiv
+{
+    position: absolute;
+    visibility: hidden;
+    height: auto;
+    width: auto;
+    white-space: nowrap; /* Thanks to Herb Caudill comment */
+    font-size: 0.55em;
+}
+
+#dataDropdown
+{
+    display: inline;
+    width: 200px;
+    border-radius: 0px;
+}
+
+#topNav
+{
+    background-color: white;
+    /* margin-bottom: 5px; */
+    border-bottom: 1px solid #e7e7e7;
+}
+
+#mainDiv
+{
+    /* padding-top: 5px; */
+    padding-left: 3%;
+}
+
+#graphInfo
+{
+    font-family: arial, sans-serif;
+    padding-left: 10px;
+    font-size: 12px;
+    color: #6c757d;
+    margin-bottom: 0;
+}
+
+@media screen and (min-width: 1400px) {
+    #graphInfo {
+        font-size: calc(12px + 4 * ((100vw - 1400px) / 600));
+    }
+  }
+  
+  @media screen and (min-width: 2000px) {
+    #graphInfo {
+        font-size: 16px;
+    }
+  }
+
+.sliderValue
+{
+    float:right;
+}
+
+.vis-visual-background {background-color:#747EDB;}
+
+/* responsive design */
+.linkstrengthSliderDiv
+{
+    font-size: 0.9em;
+}
+
+.RepulsiveforceSliderDiv
+{
+    font-size: 0.9em;
+}
+
+.rightSliderDiv
+{
+    font-size: 0.9em;
+    float: right;
+    /* left: 20px; */
+}
+
+/* responsive design */
+
+/* Extra small */
+@media only screen and (max-width: 576px)
+{
+    .linkstrengthSliderDiv{left: 0px;}
+    .RepulsiveforceSliderDiv{left: 0px;}
+}
+/* Small */
+@media only screen and (min-width: 576px)
+{
+    .linkstrengthSliderDiv{left: 0px;}
+    .RepulsiveforceSliderDiv{left: 0px;}
+    .rightSliderDiv{left: 0px;}
+}
+/* Medium */
+@media only screen and (min-width: 768px)
+{
+    .linkstrengthSliderDiv{left: 25px;}
+    .RepulsiveforceSliderDiv{left: 25px;}
+    .rightSliderDiv{left: 25px;}
+}
+/* Large and Extra large */
+@media only screen and (min-width: 992px)
+{
+    .linkstrengthSliderDiv{left: 35px;}
+    .RepulsiveforceSliderDiv{left: 35px;}
+    .rightSliderDiv{left: 30px;}
+}
+/* Extra large */
+@media only screen and (min-width: 1200px)
+{
+    .linkstrengthSliderDiv{left: 15px;}
+    .RepulsiveforceSliderDiv{left: 15px;}
+    .rightSliderDiv{left:15px;}
+}
+
+.degTooltip
+{
+    position: fixed;
+    padding: 2px;
+    background: #d3d3d3;
+    border: 0px;
+    border-radius: 5px;
+}
+
+.nodenameHoverContainer
+{}
+
+.nodeNameHover
+{
+    position: fixed;
+    padding: 1em;
+    margin: 1em;
+    fill: #d3d3d3;
+    background: #d3d3d3;
+    border: 0px;
+    border-radius: 5px;
+}
+.nodeNameText
+{
+    position: fixed;
+    padding: 1em;
+    margin: 1em;
+    border: 0px;
+    border-radius: 5px;
+}
+.sliderValue
+{
+    position: absolute;
+    width: 23px;
+    height: 22px;
+    background: #404040;
+    border-radius: 2px;
+    color: white;
+    font-size: 13px;
+    z-index: 20;
+    padding: 1px;
+    text-align: center;
+    visibility: hidden;
+}
+
+.introjs-hint
+{
+    z-index:10000!important;
+}
+
+.introjs-hint-pulse
+{
+    border: 2px solid rgba(60, 60, 60, 0.27)!important;
+    background-color: rgba(249, 0, 0, 0.8)!important;
+}
+
+/* .optionGroup
+{
+    font-weight: bold;
+    font-style: italic;
+}
+
+.optionChild
+{
+    padding-left: 15px;
+} */
+
+.extraOption
+{
+    font-weight: bold;
+    font-style: italic;
+}
+
+
+.toolbox-link
+{
+    font-weight: normal; 
+    padding-top: 2px; 
+    float:right; 
+    font-size: 14px;
+    margin-bottom: -10px;
+}
+
+#graphDiv1,
+#graphDiv2
+{
+    line-height: 0;
+}
+
+#globalDiv div
+{
+    display: block;
+}
+
+/* #back
+{
+    margin-right: 0;
+    font-weight: normal; 
+    padding-top: 2px; 
+    font-size: 14px;
+    margin-bottom: -10px;
+} */
+
+/* cursor */
+/* default */
+#graphInfoDiv, 
+#toolbar-head b,
+#nodeDegreeDiv span, #edgeFilterDiv span,
+#nodeSelection span, #clusterSelection span,
+.col-1, .col-2,
+.col-1 p,
+.col-2 p,
+b
+{
+    cursor: default;
+}
+
+/* help */
+#rememberLayoutSpan1, #rememberLayoutSpan2,
+#colorBlindSpan, #nodeSizeSpan, #edgeThicknessSpan, #edgeBundlingSpan,
+#edgeLengthLeftDiv span[data-toggle="tooltip"], #edgeLengthRightDiv span[data-toggle="tooltip"],
+#opacity span
+{
+    cursor: help;
+}
+
+/* pointer */
+input, select, .panel-heading
+{
+    cursor: pointer;
+}
+

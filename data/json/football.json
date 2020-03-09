@@ -1,0 +1,739 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "id": "CHL",
+      "group": 0
+    },
+    {
+      "id": "ARG",
+      "group": 0
+    },
+    {
+      "id": "COL",
+      "group": 0
+    },
+    {
+      "id": "CMR",
+      "group": 1
+    },
+    {
+      "id": "AUT",
+      "group": 1
+    },
+    {
+      "id": "HRV",
+      "group": 1
+    },
+    {
+      "id": "ZAF",
+      "group": 2
+    },
+    {
+      "id": "NGA",
+      "group": 2
+    },
+    {
+      "id": "BEL",
+      "group": 2
+    },
+    {
+      "id": "ROM",
+      "group": 2
+    },
+    {
+      "id": "BRA",
+      "group": 3
+    },
+    {
+      "id": "PRY",
+      "group": 3
+    },
+    {
+      "id": "CHE",
+      "group": 2
+    },
+    {
+      "id": "DEU",
+      "group": 1
+    },
+    {
+      "id": "BGR",
+      "group": 3
+    },
+    {
+      "id": "DNK",
+      "group": 4
+    },
+    {
+      "id": "IRN",
+      "group": 1
+    },
+    {
+      "id": "MAR",
+      "group": 1
+    },
+    {
+      "id": "NLD",
+      "group": 2
+    },
+    {
+      "id": "NOR",
+      "group": 4
+    },
+    {
+      "id": "TUN",
+      "group": 1
+    },
+    {
+      "id": "USA",
+      "group": 0
+    },
+    {
+      "id": "YUG",
+      "group": 1
+    },
+    {
+      "id": "ESP",
+      "group": 3
+    },
+    {
+      "id": "ITA",
+      "group": 0
+    },
+    {
+      "id": "FRA",
+      "group": 1
+    },
+    {
+      "id": "KOR",
+      "group": 1
+    },
+    {
+      "id": "SCO",
+      "group": 4
+    },
+    {
+      "id": "GBR",
+      "group": 4
+    },
+    {
+      "id": "JAM",
+      "group": 4
+    },
+    {
+      "id": "GRE",
+      "group": 1
+    },
+    {
+      "id": "JPN",
+      "group": 1
+    },
+    {
+      "id": "MEX",
+      "group": 3
+    },
+    {
+      "id": "PRT",
+      "group": 3
+    },
+    {
+      "id": "TUR",
+      "group": 2
+    }
+  ],
+  "links": [
+    {
+      "value": 1,
+      "source": "CHL",
+      "target": "ARG"
+    },
+    {
+      "value": 1,
+      "source": "CHL",
+      "target": "ITA"
+    },
+    {
+      "value": 1,
+      "source": "CHL",
+      "target": "USA"
+    },
+    {
+      "value": 3,
+      "source": "ARG",
+      "target": "COL"
+    },
+    {
+      "value": 4,
+      "source": "ARG",
+      "target": "ESP"
+    },
+    {
+      "value": 9,
+      "source": "ARG",
+      "target": "ITA"
+    },
+    {
+      "value": 2,
+      "source": "COL",
+      "target": "BRA"
+    },
+    {
+      "value": 1,
+      "source": "COL",
+      "target": "ESP"
+    },
+    {
+      "value": 1,
+      "source": "COL",
+      "target": "ITA"
+    },
+    {
+      "value": 2,
+      "source": "COL",
+      "target": "USA"
+    },
+    {
+      "value": 1,
+      "source": "CMR",
+      "target": "AUT"
+    },
+    {
+      "value": 1,
+      "source": "CMR",
+      "target": "DEU"
+    },
+    {
+      "value": 2,
+      "source": "CMR",
+      "target": "ESP"
+    },
+    {
+      "value": 7,
+      "source": "CMR",
+      "target": "FRA"
+    },
+    {
+      "value": 1,
+      "source": "CMR",
+      "target": "GRE"
+    },
+    {
+      "value": 2,
+      "source": "CMR",
+      "target": "ITA"
+    },
+    {
+      "value": 2,
+      "source": "CMR",
+      "target": "JPN"
+    },
+    {
+      "value": 2,
+      "source": "CMR",
+      "target": "PRT"
+    },
+    {
+      "value": 2,
+      "source": "CMR",
+      "target": "TUR"
+    },
+    {
+      "value": 1,
+      "source": "AUT",
+      "target": "HRV"
+    },
+    {
+      "value": 1,
+      "source": "AUT",
+      "target": "ZAF"
+    },
+    {
+      "value": 7,
+      "source": "AUT",
+      "target": "DEU"
+    },
+    {
+      "value": 1,
+      "source": "AUT",
+      "target": "ESP"
+    },
+    {
+      "value": 1,
+      "source": "AUT",
+      "target": "FRA"
+    },
+    {
+      "value": 1,
+      "source": "AUT",
+      "target": "GBR"
+    },
+    {
+      "value": 1,
+      "source": "AUT",
+      "target": "ITA"
+    },
+    {
+      "value": 2,
+      "source": "HRV",
+      "target": "DEU"
+    },
+    {
+      "value": 4,
+      "source": "HRV",
+      "target": "ESP"
+    },
+    {
+      "value": 2,
+      "source": "HRV",
+      "target": "GBR"
+    },
+    {
+      "value": 4,
+      "source": "HRV",
+      "target": "ITA"
+    },
+    {
+      "value": 1,
+      "source": "HRV",
+      "target": "TUR"
+    },
+    {
+      "value": 1,
+      "source": "ZAF",
+      "target": "CHE"
+    },
+    {
+      "value": 2,
+      "source": "ZAF",
+      "target": "DEU"
+    },
+    {
+      "value": 2,
+      "source": "ZAF",
+      "target": "ESP"
+    },
+    {
+      "value": 1,
+      "source": "ZAF",
+      "target": "FRA"
+    },
+    {
+      "value": 4,
+      "source": "ZAF",
+      "target": "GBR"
+    },
+    {
+      "value": 1,
+      "source": "ZAF",
+      "target": "ITA"
+    },
+    {
+      "value": 2,
+      "source": "ZAF",
+      "target": "NLD"
+    },
+    {
+      "value": 3,
+      "source": "ZAF",
+      "target": "TUR"
+    },
+    {
+      "value": 1,
+      "source": "ZAF",
+      "target": "NGA"
+    },
+    {
+      "value": 2,
+      "source": "NGA",
+      "target": "BEL"
+    },
+    {
+      "value": 1,
+      "source": "NGA",
+      "target": "CHE"
+    },
+    {
+      "value": 1,
+      "source": "NGA",
+      "target": "DEU"
+    },
+    {
+      "value": 4,
+      "source": "NGA",
+      "target": "ESP"
+    },
+    {
+      "value": 3,
+      "source": "NGA",
+      "target": "FRA"
+    },
+    {
+      "value": 2,
+      "source": "NGA",
+      "target": "ITA"
+    },
+    {
+      "value": 3,
+      "source": "NGA",
+      "target": "NLD"
+    },
+    {
+      "value": 3,
+      "source": "NGA",
+      "target": "TUR"
+    },
+    {
+      "value": 1,
+      "source": "NGA",
+      "target": "USA"
+    },
+    {
+      "value": 1,
+      "source": "BEL",
+      "target": "ROM"
+    },
+    {
+      "value": 2,
+      "source": "BEL",
+      "target": "DEU"
+    },
+    {
+      "value": 2,
+      "source": "BEL",
+      "target": "FRA"
+    },
+    {
+      "value": 2,
+      "source": "BEL",
+      "target": "ITA"
+    },
+    {
+      "value": 2,
+      "source": "BEL",
+      "target": "NLD"
+    },
+    {
+      "value": 2,
+      "source": "ROM",
+      "target": "DEU"
+    },
+    {
+      "value": 6,
+      "source": "ROM",
+      "target": "ESP"
+    },
+    {
+      "value": 2,
+      "source": "ROM",
+      "target": "GBR"
+    },
+    {
+      "value": 2,
+      "source": "ROM",
+      "target": "GRE"
+    },
+    {
+      "value": 1,
+      "source": "ROM",
+      "target": "NLD"
+    },
+    {
+      "value": 4,
+      "source": "ROM",
+      "target": "TUR"
+    },
+    {
+      "value": 10,
+      "source": "BRA",
+      "target": "PRY"
+    },
+    {
+      "value": 4,
+      "source": "BRA",
+      "target": "ESP"
+    },
+    {
+      "value": 1,
+      "source": "BRA",
+      "target": "FRA"
+    },
+    {
+      "value": 5,
+      "source": "BRA",
+      "target": "ITA"
+    },
+    {
+      "value": 1,
+      "source": "BRA",
+      "target": "JPN"
+    },
+    {
+      "value": 1,
+      "source": "BRA",
+      "target": "PRT"
+    },
+    {
+      "value": 2,
+      "source": "PRY",
+      "target": "ESP"
+    },
+    {
+      "value": 1,
+      "source": "PRY",
+      "target": "MEX"
+    },
+    {
+      "value": 4,
+      "source": "DEU",
+      "target": "BGR"
+    },
+    {
+      "value": 3,
+      "source": "DEU",
+      "target": "DNK"
+    },
+    {
+      "value": 3,
+      "source": "DEU",
+      "target": "IRN"
+    },
+    {
+      "value": 3,
+      "source": "DEU",
+      "target": "MAR"
+    },
+    {
+      "value": 1,
+      "source": "DEU",
+      "target": "NLD"
+    },
+    {
+      "value": 3,
+      "source": "DEU",
+      "target": "NOR"
+    },
+    {
+      "value": 2,
+      "source": "DEU",
+      "target": "TUN"
+    },
+    {
+      "value": 2,
+      "source": "DEU",
+      "target": "USA"
+    },
+    {
+      "value": 1,
+      "source": "DEU",
+      "target": "YUG"
+    },
+    {
+      "value": 1,
+      "source": "DEU",
+      "target": "ESP"
+    },
+    {
+      "value": 1,
+      "source": "DEU",
+      "target": "FRA"
+    },
+    {
+      "value": 2,
+      "source": "DEU",
+      "target": "ITA"
+    },
+    {
+      "value": 1,
+      "source": "BGR",
+      "target": "ESP"
+    },
+    {
+      "value": 1,
+      "source": "BGR",
+      "target": "PRT"
+    },
+    {
+      "value": 4,
+      "source": "BGR",
+      "target": "TUR"
+    },
+    {
+      "value": 1,
+      "source": "DNK",
+      "target": "ESP"
+    },
+    {
+      "value": 6,
+      "source": "DNK",
+      "target": "GBR"
+    },
+    {
+      "value": 1,
+      "source": "DNK",
+      "target": "ITA"
+    },
+    {
+      "value": 1,
+      "source": "DNK",
+      "target": "NLD"
+    },
+    {
+      "value": 3,
+      "source": "DNK",
+      "target": "SCO"
+    },
+    {
+      "value": 1,
+      "source": "DNK",
+      "target": "TUR"
+    },
+    {
+      "value": 4,
+      "source": "MAR",
+      "target": "ESP"
+    },
+    {
+      "value": 1,
+      "source": "MAR",
+      "target": "FRA"
+    },
+    {
+      "value": 1,
+      "source": "MAR",
+      "target": "ITA"
+    },
+    {
+      "value": 3,
+      "source": "MAR",
+      "target": "PRT"
+    },
+    {
+      "value": 1,
+      "source": "MAR",
+      "target": "TUN"
+    },
+    {
+      "value": 5,
+      "source": "NLD",
+      "target": "ESP"
+    },
+    {
+      "value": 4,
+      "source": "NLD",
+      "target": "GBR"
+    },
+    {
+      "value": 2,
+      "source": "NLD",
+      "target": "ITA"
+    },
+    {
+      "value": 1,
+      "source": "NLD",
+      "target": "USA"
+    },
+    {
+      "value": 1,
+      "source": "NOR",
+      "target": "ESP"
+    },
+    {
+      "value": 12,
+      "source": "NOR",
+      "target": "GBR"
+    },
+    {
+      "value": 2,
+      "source": "NOR",
+      "target": "GRE"
+    },
+    {
+      "value": 1,
+      "source": "NOR",
+      "target": "ITA"
+    },
+    {
+      "value": 3,
+      "source": "NOR",
+      "target": "SCO"
+    },
+    {
+      "value": 3,
+      "source": "TUN",
+      "target": "FRA"
+    },
+    {
+      "value": 2,
+      "source": "USA",
+      "target": "GBR"
+    },
+    {
+      "value": 9,
+      "source": "YUG",
+      "target": "ESP"
+    },
+    {
+      "value": 1,
+      "source": "YUG",
+      "target": "FRA"
+    },
+    {
+      "value": 1,
+      "source": "YUG",
+      "target": "GBR"
+    },
+    {
+      "value": 7,
+      "source": "YUG",
+      "target": "ITA"
+    },
+    {
+      "value": 2,
+      "source": "YUG",
+      "target": "JPN"
+    },
+    {
+      "value": 2,
+      "source": "ESP",
+      "target": "ITA"
+    },
+    {
+      "value": 1,
+      "source": "ITA",
+      "target": "FRA"
+    },
+    {
+      "value": 2,
+      "source": "ITA",
+      "target": "GBR"
+    },
+    {
+      "value": 1,
+      "source": "FRA",
+      "target": "KOR"
+    },
+    {
+      "value": 1,
+      "source": "FRA",
+      "target": "SCO"
+    },
+    {
+      "value": 4,
+      "source": "KOR",
+      "target": "JPN"
+    },
+    {
+      "value": 7,
+      "source": "SCO",
+      "target": "GBR"
+    },
+    {
+      "value": 7,
+      "source": "GBR",
+      "target": "JAM"
+    }
+  ]
+}

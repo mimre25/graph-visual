@@ -1,0 +1,9 @@
+question: How many clusters does this graph have?
+graph:
+  resource: Les Miserables
+  layouts:
+    - force directed
+    - circular
+    - random
+choices: [3, 7, 11, 13]
+answer: 11
